@@ -1,0 +1,603 @@
+
+
+```
+                           Page 1
+     UNITED STATES DISTRICT COURT
+      NORTHERN DISTRICT OF OHIO
+        EASTERN DIVISION
+ IN RE: EAST PALESTINE  ) CASE NO.
+ TRAIN DERAILMENT    ) 4:23-CV-00242-BYP
+             ) JUDGE BENITA Y. PEARSON
+      FRIDAY, NOVEMBER 3, 2023
+  CONFIDENTIAL - PURSUANT TO PROTECTIVE ORDER
+           – – –
+      Videotaped deposition of 30(b)(6)
+ designee of Norfolk Southern Railway Company,
+ David Dixon, held at the offices of Wilmer
+ Cutler Pickering Hale and Dorr LLP,
+ 2100 Pennsylvania Avenue NW, Washington, DC,
+ commencing at 9:18 a.m. Eastern, on the above
+ date, before Carrie A. Campbell, Registered
+ Diplomate Reporter, and Certified Realtime
+ Reporter.
+           – – –
+      GOLKOW, a Veritext Division
+    877.370.3377 ph | 917.591.5672 fax
+         deps@golkow.com
+
+```
+
+-----
+
+```
+                              Page 2
+ 1       A P P E A R A N C E S :
+ 2
+ 3    WRIGHT & SCHULTE LLC
+      BY: ROGER DENTON
+ 4      rdenton@yourlegalhelp.com
+      23240 Chagrin Boulevard, Suite 620
+ 5    Cleveland, Ohio 44122
+ 6
+ 7    and
+ 8
+      BARKAN & ROBON LTD
+ 9    BY: ZACHARY J. MURRY
+         zmurry@barkan-robon.com
+10    1701 Woodlands Drive, Suite 100
+      Maunee, Ohio 43537
+      Counsel for Plaintiffs
+12
+13
+      WILMER CUTLER PICKERING HALE AND DORR LLP
+14    BY: DAVINA PUJARI
+         davina.pujari@wilmerhale.com
+15      CHRIS RHEINHEIMER
+         chris.rheinheimer@wilmerhale.com
+16    One Front Street, Suite 3500
+      San Francisco, California 94111
+18
+      and
+19
+20    WILMER CUTLER PICKERING HALE AND DORR LLP
+      BY: MICHAEL AMATO
+21      michael.amato@wilmerhale.com
+      2100 Pennsylvania Avenue NW
+22    Washington, DC 20037
+23
+24    and
+25
+
+```
+
+-----
+
+```
+Page 3
+
+```
+```
+ 1    DICKIE, MCCAMEY & CHILCOTE, P.C.
+      BY: J. LAWSON JOHNSTON
+ 2      ljohnston@dmclaw.com
+         SCOTT D. CLEMENTS
+ 3      sclemenets@dmclaw.com
+      Two PPG Place, Suite 400
+ 4    Pittsburgh, Pennsylvania 15222
+ 5    Counsel for Norfolk Southern
+      Corporation and Norfolk Southern
+ 6    Railway Company
+ 7
+ 8    BARTLIT BECK HERMAN PALENCHAR &
+      SCOTT LLP
+ 9    BY: BRIAN SWANSON
+         brian.swanson@bartlit-beck.com
+10    54 West Hubbard, Suite 300
+      Chicago, Illinois 60654
+      Counsel for Trinity Industries
+12    Leasing Company
+13
+14    VORYS, SATER, SEYMOUR AND PEASE LLP
+      BY: ALYCIA N. BROZ
+15      anbroz@vorys.com
+         MITCHELL A. TOBIAS
+16      matobias@vorys.com
+      52 East Gay Street
+17    Columbus, Ohio 43215
+18    Counsel for Oxy Vinyls
+19
+20    KIRKLAND & ELLIS LLP
+      BY: HARIKLIA KARIS
+21      hariklia.karis@kirkland.com
+         JON EMMANUEL
+22      jon.emmanuel@kirkland.com
+      300 North LaSalle
+23    Chicago, Illinois 60654
+24    Counsel for GATX and General
+      American Marks Company
+25
+
+```
+
+-----
+
+```
+Page 4
+
+```
+```
+ 1  ALSO PRESENT:
+      NATE SMITH, General Counsel at
+ 2    Norfolk Southern
+ 3    MICHAEL KAUFFMANN, trial technician,
+      Precision Trial Solutions
+ 4
+ 5
+    V I D E O G R A P H E R :
+ 6    CHRIS RITONA,
+      Golkow Litigation Services
+ 7
+              – – –
+ 8
+ 9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+```
+
+-----
+
+```
+                              Page 5
+ 1            INDEX
+ 2                      PAGE
+ 3  APPEARANCES..................................  2
+ 4  EXAMINATIONS
+ 5   BY MR. DENTON.............................. 10
+ 6   BY MS. BROZ................................ 177
+ 7   BY MS. KARIS............................... 224
+ 8   BY MR. SWANSON............................. 314
+ 9   BY MS. BROZ................................ 386
+10
+11           EXHIBITS
+12   No.  Description            Page
+13   1    30(b)(6) Topics (Third Party     14
+         Complaint Paragraphs)
+14
+     2    In Re East Palestine Litigation,   15
+15       30(b)(6) Rail Cars
+16   3    Second Amended Notice of Rule    21
+         30(b)(6) Videotaped Deposition
+17       of Norfolk Southern Railway
+         Company
+18
+     4    Third-Party Complaint        23
+19
+     5    Part 215 of the Railroad Freight   26
+20       Car Safety Standards
+21   6    E-mail(s),              42
+         NS-CA-001397049 22       NS-CA-001397050
+23
+24
+25
+
+```
+
+-----
+
+```
+                              Page 6
+ 1   7    July 21, 2023 letter to Michelle   52
+         Kranz from David Schneidewind,
+ 2       re: Response to Subpoena
+         directed at Terminal Railroad
+ 3       Association of St. Louis in the
+         below captioned matter
+ 4
+     8    System Safety and Human       63
+ 5       Performance Group Chair's
+         Factual Report,
+ 6       NS-CA-001623465          NS-CA-001623485
+ 7
+     9    October 20, 2023 letter to      65
+ 8       counsel from WilmerHale re: In
+         re: East Palestine Train
+ 9       Derailment, No.
+         4:23-CV-00242-BYP (N.D. Ohio):
+10       Production of Documents
+11   10   Map of Eastbound NS Train 32N,    82
+         NS-CA-001622398
+12
+     11   Screenshot as place holder for    84
+13       Video of the Norfolk Southern
+         train,
+14       NS-CA-001618174
+15   12   Exhibit 1- bearing images,      88
+         NS-CA-001622039 16       NS-CA-001622042
+17   13   Hazardous Materials Group      102
+         Chair's Factual Report,
+18       NS-CA-001624324          NS-CA-001624482
+19
+     14   Incident Status Report,       159
+20       February 5, 2023,
+         NS-CA-001621932 21       NS-CA-001621939
+22   15   Incident Status Report,       166
+         February 6, 2023,
+23       NS-CA-001620320          NS-CA-001620331
+24
+     16   Photo 30 of 32, Pittsburgh     167
+25       Post-Gazette
+
+```
+
+-----
+
+```
+                              Page 7
+ 1   17   Photo 10 of 32, Pittsburgh     171
+         Post-Gazette
+ 2
+     18   Photo 15 of 32, Pittsburgh     172
+ 3       Post-Gazette
+ 4   19   E-mail(s),             174
+         NS-CA-001384312
+ 5
+     20   Vinyl Chloride Monomer Safety    205
+ 6       Data Sheet,
+         NS-CA-001620234  7       NS-CA-001620252
+ 8   21   Vinyl Chloride Tank Care      216
+         Temperature Measurement Reports,
+ 9       Text Message Screenshots,
+         February 6, 2023,
+10       NS-CA-001620211          NS-CA-001620220
+11
+     22   OCPX80370 Shell Temperature     216
+12       Measurements, February 5, 2023,
+         4:00 p.m. to February 6, 2023,
+13       2:30 p.m. Data provided by
+         Norfolk Southern Railway,
+14       NS-CA-001622488          NS-CA-001622489
+15
+     23   Mechanical Group Factual Report,  261
+16       No Bates
+17   24   Application for Approval and    276
+         Certificate of Construction,
+18       NS-CA-000017058          NS-CA-000017059
+19
+     25   Vinyl Chloride Tank Car       283
+20       Temperature Measurement
+         Spreadsheet,
+21       No Bates
+22   26   Timken "Installing and       283
+         Maintaining Timken AP and AP-2
+23       Bearings, Diesel Locomotive,
+         Passenger and Freight Care
+24       Applications,"
+         NS-CA-000020758 25       NS-CA-000020785
+
+```
+
+-----
+
+```
+                              Page 8
+ 1   27   E-mail(s),             293
+         NS-CA-000249678  2       NS-CA-000249681
+ 3   28   Cross-Notice of Deposition of    314
+         Rule 30(b)(6) Videotaped
+ 4       Deposition of Norfolk Southern
+         Railway Company
+ 5
+     29   Transcript of Investigative     360
+ 6       Hearing - Day 2. June 23, 2023,
+         Feb. 3 Norfolk Southern Railway
+ 7       Derailment in East Palestine, OH
+ 8   (Exhibits attached to the deposition.)
+ 9
+10   CERTIFICATE..................................393
+11   ACKNOWLEDGMENT OF DEPONENT...................395
+12   ERRATA.......................................396
+13   LAWYER'S NOTES...............................397
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+```
+
+-----
+
+```
+                              Page 9
+ 1        VIDEOGRAPHER: We are now on
+ 2     the record. My name is Chris Ritona.
+ 3     I'm the videographer with Golkow
+ 4     Litigation Services.
+ 5        Today's date is November 3,
+ 6     2023, and the time is approximately
+ 7     9:18 a.m. Eastern.
+ 8        This video deposition is being
+ 9     held in Washington, DC, at WilmerHale,
+10     2100 Pennsylvania Avenue, in the
+11     matter of the East Palestine Train
+12     Derailment, US District Court for the
+13     Northern District of Ohio, Eastern
+14     Division, Case Number
+15     4:23-CV-00242-BYP.
+16        And the deponent today is David
+17     Dixon.
+18        All counsels' appearances will
+19     be noted upon the stenographic record.
+20        The court reporter today is
+21     Carrie Campbell, and she will now
+22     please swear in the witness.
+23
+24          DAVID DIXON,
+25  of lawful age, having been first duly sworn
+
+```
+
+-----
+
+```
+                             Page 10
+ 1  to tell the truth, the whole truth and
+ 2  nothing but the truth, deposes and says on
+ 3  behalf of the Plaintiffs, as follows:
+ 4
+ 5        DIRECT EXAMINATION
+ 6  QUESTIONS BY MR. DENTON:
+ 7     Q.   All right. Good morning,
+ 8  Mr. Dixon.
+ 9     A.   Good morning.
+10     Q.   My name is Roger Denton. I
+11  think we shook hands briefly before the
+12  deposition. I represent the group of
+13  residents in East Palestine involving the
+14  Norfolk Southern train derailment that
+15  happened on February 3, 2023.
+16        Do you understand that?
+17     A.   I do.
+18     Q.   Okay. We served a notice of
+19  deposition on Norfolk Southern and requested
+20  that they provide a witness to testify on
+21  behalf of the corporation, that would be the
+22  Norfolk Southern Railway and the Norfolk
+23  Southern corporation, concerning certain
+24  topics that were in our notice of deposition.
+25  And you're the person that they have
+
+```
+
+-----
+
+```
+                             Page 326
+ 1  any of the derailed VCM cars.
+ 2        Right?
+ 3     A.   They had input with their
+ 4  thoughts with respect to polymerization.
+ 5     Q.   Now, no one from Trinity
+ 6  provided any input or advised on whether a
+ 7  vent and burn operation should be performed
+ 8  on the derailed VCM cars.
+ 9        Right?
+10     A.   I don't have any information
+11  that says that Trinity provided any input.
+12     Q.   So based on your knowledge as a
+13  corporate representative of Norfolk Southern,
+14  Trinity had no input on whether to perform
+15  the vent and burn operation.
+16        True?
+17     A.   Again, I don't have any
+18  information that claims Trinity had any input
+19  on any of the rail cleanup.
+20     Q.   Okay. So the answer to my
+21  question is, correct, true.
+22        Right?
+23        MS. PUJARI: Objection. Asked
+24     and answered.
+25        THE WITNESS: Could you repeat
+
+```
+
+-----
+
+```
+                             Page 328
+ 1  that anyone from Trinity advised on whether
+ 2  polymerization was or was not occurring in
+ 3  any of the derailed VCM cars.
+ 4        True?
+ 5     A.   I haven't seen any, again,
+ 6  information that Trinity provided.
+ 7     Q.   Flip a page, please, to
+ 8  page 17. I want to look at paragraph 81.
+ 9        Are you there?
+10     A.   I'm there.
+11     Q.   Paragraph 81 reads, "Following
+12  a tank car derailment and fire, responders
+13  typically have four options."
+14        Do you see that?
+15     A.   I see that.
+16     Q.   So focusing to begin on the
+17  first option, it says, "First, responders can
+18  re-rail the tank car and move it to the next
+19  destination if they determine there is no
+20  tank damage."
+21        Do you see that?
+22     A.   I do see that.
+23     Q.   And at some point in time,
+24  re-railing one or more of the vinyl chloride
+25  cars was something that unified command
+
+```
+
+-----
+
+```
+                             Page 329
+ 1  considered.
+ 2        Right?
+ 3     A.   Yes. I would say that they did
+ 4  consider that.
+ 5     Q.   Yeah.
+ 6        And the folks at Norfolk
+ 7  Southern and at SPSI and at SRS, they helped
+ 8  advise on that, didn't they?
+ 9     A.   I would assume, again,
+10  everybody on that team was looking through
+11  each one of these options.
+12     Q.   Okay. Now, focused on Norfolk
+13  Southern and its contractors that it hired,
+14  would Norfolk Southern consider re-railing a
+15  tank car that it determined was not stable?
+16     A.   No.
+17        MS. PUJARI: Objection.
+18  QUESTIONS BY MR. SWANSON:
+19     Q.   Why not?
+20     A.   For safety reasons.
+21     Q.   Would Norfolk Southern or its
+22  contractors consider re-railing a car if that
+23  tank car's pressure release device was not
+24  functioning properly?
+25     A.   Again, if you're having a
+
+```
+
+-----
+
+```
+                             Page 358
+ 1  Mr. Keltz, I believe, right?
+ 2     A.   I believe that was the FRA
+ 3  representative.
+ 4     Q.   Okay. Other than that analysis
+ 5  by the FRA or Mr. Keltz and any documents
+ 6  they might have created or testimony they
+ 7  gave, did Norfolk Southern do any independent
+ 8  analysis into any discrepancies between the
+ 9  AAR form and the actual car?
+10     A.   I'm not aware of any Norfolk
+11  Southern employees looking at -- looking at
+12  the actual characteristics versus the
+13  certificates of construction.
+14     Q.   At any time, right?
+15     A.   I'm not aware -- again, I'm not
+16  aware if it occurred, so it would be anytime,
+17  because, again, I'm not aware that it
+18  occurred.
+19     Q.   Right.
+20        And but more focused, certainly
+21  between February 3rd, when the train
+22  derailed, and February 6th, when the vent and
+23  burn was executed, nobody at Norfolk Southern
+24  had any information regarding any so-called
+25  discrepancies between the AAR Form 4-2 and
+
+```
+
+-----
+
+```
+                             Page 359
+ 1  the tank car's actual characteristics.
+ 2        Correct?
+ 3     A.   Again, I'm not aware of any - 4  any information that was supplied to NS
+ 5  showing the discrepancies between the actual
+ 6  car characteristics and the certificate of
+ 7  construction during that time.
+ 8     Q.   If you look at the
+ 9  subparagraph A in paragraph 120, it says,
+10  "Trinity Industries Leasing Company's Car 26
+11  has discrepancies between its AAR 4-2
+12  certificate of construction and the tank
+13  car's actual characteristics."
+14        Do you see that?
+15     A.   I do see that.
+16     Q.   When did anyone from Norfolk
+17  Southern -- well, let me ask it -- let me
+18  withdraw that.
+19        What evidence do you rely on in
+20  making that allegation?
+21     A.   Looking at information from the
+22  NTSB, both the Hazardous Materials Group
+23  Chair Factual reports and again the FRA's
+24  testimony concerning the investigative
+25  hearing.
+
+```
+
+-----
+
+```
+                             Page 393
+ 1          CERTIFICATE
+ 2       I, CARRIE A. CAMPBELL, Registered
+    Diplomate Reporter, Certified Realtime
+ 3  Reporter and Certified Shorthand Reporter, do
+    hereby certify that prior to the commencement
+ 4  of the examination, David Dixon, was duly
+    sworn by me to testify to the truth, the
+ 5  whole truth and nothing but the truth.
+ 6       I DO FURTHER CERTIFY that the
+    foregoing is a verbatim transcript of the
+ 7  testimony as taken stenographically by and
+    before me at the time, place and on the date
+ 8  hereinbefore set forth, to the best of my
+    ability.
+ 9
+          I DO FURTHER CERTIFY that I am
+10  neither a relative nor employee nor attorney
+    nor counsel of any of the parties to this
+11  action, and that I am neither a relative nor
+    employee of such attorney or counsel, and
+12  that I am not financially interested in the
+    action.
+13
+14
+15
+       ____________________________
+16     CARRIE A. CAMPBELL,
+       NCRA Registered Diplomate Reporter
+17     Certified Realtime Reporter
+       Notary Public    
+18
+19
+20
+21
+22
+23
+       Dated: November 6, 2023
+24
+25
+
+```
+```
+    ____________________________
+    CARRIE A. CAMPBELL,
+
+```
+

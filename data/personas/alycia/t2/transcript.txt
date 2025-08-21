@@ -1,0 +1,494 @@
+
+
+```
+ 1     UNITED STATES DISTRICT COURT
+        NORTHERN DISTRICT OF OHIO
+ 2        EASTERN DIVISION
+ 3
+   IN RE: EAST PALESTINE  ) CASE NO.
+ 4 TRAIN DERAILMENT    ) 4:23-CV-00242-BYP
+               ) JUDGE BENITA Y. PEARSON
+ 5
+ 6      MONDAY, DECEMBER 11, 2023
+ 7  CONFIDENTIAL - PURSUANT TO PROTECTIVE ORDER
+ 9      Videotaped deposition of Robert C.
+10 Wood, held at the offices of Kilpatrick
+11 Townsend & Stockton LLP, 1100 Peachtree
+12 Street NE, Suite 2800, Atlanta, Georgia,
+13 commencing at 9:03 a.m. Eastern, on the above
+14 date, before Carrie A. Campbell, Registered
+15 Diplomate Reporter, Certified Realtime
+16 Reporter, Illinois, California & Texas
+17 Certified Shorthand Reporter, Missouri,
+18 Kansas, Louisiana & New Jersey Certified
+19 Court Reporter.
+21
+        GOLKOW LITIGATION SERVICES
+22          877.370.DEPS
+           deps@golkow.com
+23
+24
+25
+
+```
+
+-----
+
+```
+ 1       A P P E A R A N C E S :
+ 2
+ 3
+     SEEGER WEISS LLP
+ 4   BY: DAVID R. BUCHANAN
+        dbuchanan@seegerweiss.com
+ 5      MAX KELLY
+        mkelly@seegerweiss.com
+ 6      LAURA MULDOWNEY
+        lmuldowney@seegerweiss.com
+ 7   55 Challenger Road, Sixth Floor
+     Ridgefield Park, New Jersey 07660
+ 9
+     and
+10
+11   BURG SIMPSON ELDREDGE HERSH &
+     JARDINE, P.C.
+12   BY: SETH A. KATZ
+        skatz@burgsimpson.com
+13   40 Inverness Drive East
+     Englewood, Colorado 80112
+15
+     and
+16
+17   SIMMONS HANLY CONROY
+     BY: JO ANNA POLLOCK
+18      jpollock@simmonsfirm.com
+     One Court Street
+19   Alton, Illinois 62002
+     Counsel for Plaintiffs
+21
+22
+23
+24
+25
+
+```
+
+-----
+
+```
+ 1   WILMER CUTLER PICKERING HALE AND DORR LLP
+     BY: SARAH BEIGBEDER PETTY
+ 2      Sarah.Petty@wilmerhale.com
+     60 State Street
+ 3   Boston, Massachusetts 02109
+ 4
+ 5   and
+ 6
+     WILMER CUTLER PICKERING HALE AND DORR LLP
+ 7   BY: ERIN FARREL
+        erin.farrel@wilmerhal.com
+ 8   350 South Grand Avenue, Suite 2400
+     Los Angeles, California 90071
+10
+     and
+11
+12   COOLEY LLP
+     BY: KOJI FUKUMURA
+13      kfukumura@cooley.com
+     10265 Science Center Drive
+14   San Diego, California 92121-1117
+15   Counsel for Norfolk Southern
+     Corporation and Norfolk Southern
+16   Railway Company
+17
+18   BARTLIT BECK HERMAN PALENCHAR & SCOTT LLP
+     BY: BRIAN SWANSON
+19      brian.swanson@bartlit-beck.com
+     54 West Hubbard, Suite 300
+20   Chicago, Illinois 60654
+21   Counsel for Trinity Industries
+     Leasing Company
+22
+23
+24
+25
+
+```
+
+-----
+
+```
+ 1   VORYS, SATER, SEYMOUR AND PEASE LLP
+     BY: ALYCIA N. BROZ
+ 2      anbroz@vorys.com
+     52 East Gay Street
+ 3   Columbus, Ohio 43215
+ 4   Counsel for Oxy Vinyls
+ 5
+ 6   KIRKLAND & ELLIS LLP
+     BY: ROBERT B. ELLIS
+ 7      robert.ellis@kirkland.com
+     300 North LaSalle
+ 8   Chicago, Illinois 60654
+ 9   Counsel for GATX and General
+     American Marks Company
+10
+11
+   ALSO PRESENT:
+12   CHRIS RITONA, trial technician,
+     Precision Trial Solutions
+13
+14
+   V I D E O G R A P H E R :
+15   JOSH COLEMAN,
+     Golkow Litigation Services
+16
+             – – –
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+```
+
+-----
+
+```
+ 1           INDEX
+ 2                      PAGE
+   APPEARANCES..................................  2
+ 4 EXAMINATIONS
+ 5  BY MR. BUCHANAN............................  9
+ 6  BY MS. BROZ................................ 236
+ 7  BY MR. ELLIS............................... 307
+ 8  BY MR. SWANSON............................. 351
+ 9  BY MR. BUCHANAN............................ 393
+10
+11          EXHIBITS
+12  No.  Description             Page
+13  1    Interview Transcript — Robert     21
+        Wood System Manager of Hazardous
+14      Materials, Norfolk Southern
+        Railway, February 8, 2023,
+15      NS-CA-001622002 - NS-CA-001622036
+16  2    Transcript of Investigative      24
+        Hearing - Day 1, June 22, 2023,
+17      NS-CA-001618803 - NS-CA-001619277
+18  3    Hazardous Materials Group Chair's   26
+        Factual Report,
+19      NS-CA-001624324 - NS-CA-001624482
+20  4    E-mail(s),              53
+        NS-CA-000018862 - NS-CA-000018863
+21
+    5    Norfolk Southern Railroad       63
+22      Emergency Response Planning
+        Guide,
+23      NO BATES
+    6    E-mail(s),              133
+24      NS-CA-002117835 - NS-CA-002117837
+25
+
+```
+
+-----
+
+```
+ 1  7    NS E-mail Explanation of Tank Car  147
+        Temperature Measurements Readings
+ 2      April 13, 2023,
+        CTRL_EPTD000000145  3      CTRL_EPTD000000155
+ 4  8    Temperature Graph with Timeline   151
+        for OCPX80370, February 5 - 6, 2023,
+ 5      NS-CA-000003200 - NS-CA-000003201
+ 6  9    Tank Car Pressures by the hour,   170
+        NS-CA-000042306
+ 7
+    10   Handbook for Vent and Burn Method  174
+ 8      of Field Product Removal, Office
+        of Research and Development,
+ 9      Washington, DC,
+        NS-CA-001639614 - NS-CA-001639657
+10
+    11   Text messages between Bryan A.    188
+11      Naranjo and Christopher Hunsicker,
+        NS-CA-001920807 - NS-CA-001920808
+12
+    12   E-mail(s),              191
+13      NS-CA-000684215 - NS-CA-000684216
+14  13   E-mail(s),              203
+        NS-CA-000030248 - NS-CA-000030267
+15
+    14   E-mail(s),              209
+16      NS-CA-001421016 - NS-CA-001421017
+17  15   Subpoena to Produce Documents,    229
+        Information, or Objects or to
+18      Permit Inspection of Premises in
+        a Civil Action, Robert Wood
+19
+    16   E-mail(s),              231
+20      NS-CA-001780975
+21  17   E-mail(s),              234
+        NS-CA-001420832
+22
+    18   Incident Status Report,       249
+23      February 4, 2023,
+        NS-CA-001623571 - NS-CA-001623580
+24
+    19   E-mail(s),              264
+25      NS-CA-000030229 - NS-CA-000030242
+
+```
+
+-----
+
+```
+ 1  20   E-mail(s),              276
+        NS-CA-000023507
+ 2
+    21   Incident Status Report,       285
+ 3      February 5, 2023,
+        NS-CA-001621932 - NS-CA-001621939
+ 4
+    22   E-mail(s),              296
+ 5      NS-CA-000029738 - NS-CA-000029739
+ 6  23   E-mail(s),              297
+        NS-CA-000030226 - NS-CA-000030227
+ 7
+    24   Incident Status Report,       300
+ 8      February 6, 2023,
+        NS-CA-001620320 - NS-CA-001620331
+ 9
+    25   E-mail(s),              335
+10      NS-CA-002010678 - NS-CA-002010679
+11  26   E-mail(s),              343
+        NS-CA-000086351 - NS-CA-000086352
+12
+    27   Blank piece of lined paper to    349
+13      list further evidence of VCM
+        being released from the valve
+14      other than the PRD
+15   (Exhibits attached to the deposition.)
+16
+   CERTIFICATE..................................397
+   ACKNOWLEDGMENT OF DEPONENT...................399
+   ERRATA.......................................400
+   LAWYER'S NOTES...............................401
+21
+22
+23
+24
+25
+
+```
+
+-----
+
+```
+ 1 QUESTIONS BY MR. SWANSON:
+ 2    Q.   You have no way to indicate
+ 3 that polymerization was occurring in the
+ 4 Trinity car.
+ 5        Right, sir?
+ 6        MS. PETTY: Objection.
+ 7        THE WITNESS: Correct.
+ 8 QUESTIONS BY MR. SWANSON:
+ 9    Q.   The pressure and temperature
+10 readings that you received from the TILX 2025
+11 car were in no way indicative of a potential
+12 BLEVE.
+13        Were they, sir?
+14        MS. PETTY: Objection.
+15        THE WITNESS: No.
+16 QUESTIONS BY MR. SWANSON:
+17    Q.   They were not, right?
+18        MS. PETTY: Objection.
+19        THE WITNESS: That's correct.
+20 QUESTIONS BY MR. SWANSON:
+21    Q.   And you know, based on the
+22 pressure and temperature readings of
+23 Trinity's 2025, that Norfolk Southern and its
+24 contractors believed the car was a candidate
+25 for re-railing.
+
+```
+
+-----
+
+```
+ 1        Right?
+ 2        MS. PETTY: Objection.
+ 3        THE WITNESS: That was part of
+ 4    the decision tree, and, yes,
+ 5    originally we did believe that.
+ 6 QUESTIONS BY MR. SWANSON:
+ 7    Q.   Right.
+ 8        What you wanted to do with the
+ 9 Trinity car, 2025, was put it back on the
+10 tracks and send it on its way.
+11        Right, sir?
+12        MS. PETTY: Objection.
+13        THE WITNESS: That's correct.
+14 QUESTIONS BY MR. SWANSON:
+15    Q.   And I'm going to give Norfolk
+16 Southern the benefit of the doubt that you
+17 wouldn't have contemplated doing that if you
+18 thought there was any risk of polymerization.
+19        Right, sir?
+20        MS. PETTY: Objection.
+21        THE WITNESS: That's correct.
+22 QUESTIONS BY MR. SWANSON:
+23    Q.   Norfolk Southern wouldn't have
+24 considered re-railing Trinity's 2025 if it
+25 believed there was any concern about a
+
+```
+
+-----
+
+```
+ 1 potential BLEVE.
+ 2        Right?
+ 3    A.   That's correct.
+ 4    Q.   What you know, based on the
+ 5 pressure and temperature readings of
+ 6 Trinity's 2025, was that that car was stable.
+ 7        Wasn't it, sir?
+ 8        MS. PETTY: Objection.
+ 9        THE WITNESS: At the time it
+10    was observed, that's correct.
+11 QUESTIONS BY MR. SWANSON:
+12    Q.   That car was stable right up to
+13 the moment that you detonated it in the vent
+14 and burn.
+15        Wasn't it, sir?
+16        MS. PETTY: Objection.
+17        THE WITNESS: That's correct.
+18 QUESTIONS BY MR. SWANSON:
+19    Q.   What you know, based on the
+20 temperature and pressure readings that you
+21 took from Trinity's 2025, was that that car
+22 performed exactly as it was built to perform
+23 in a derailment.
+24        Didn't it, sir?
+25        MS. PETTY: Objection.
+
+```
+
+-----
+
+```
+ 1        MR. FUKUMURA: Objection.
+ 2        THE WITNESS: That's correct.
+ 3 QUESTIONS BY MR. SWANSON:
+ 4    Q.   And what you know from those
+ 5 pressure and temperature readings
+ 6 specifically is that the pressure release
+ 7 device on 2025 acted exactly as it should in
+ 8 a derailment.
+ 9        Correct?
+10        MS. PETTY: Objection.
+11        MR. FUKUMURA: Objection.
+12        THE WITNESS: That's correct.
+13 QUESTIONS BY MR. SWANSON:
+14    Q.   Now, I've seen evidence in the
+15 factual report we've been talking about that
+16 the reason Norfolk Southern didn't re-rail
+17 Trinity's 2025 car was because of a damaged
+18 bolster.
+19        Is that your understanding?
+20        MS. PETTY: Objection.
+21        THE WITNESS: No.
+22 QUESTIONS BY MR. SWANSON:
+23    Q.   Okay. Let's turn, if we could,
+24 to page 85 of 158.
+25    A.   Yes.
+
+```
+
+-----
+
+```
+ 1 the derailment default anything Trinity did
+ 2 or did not do in assisting with the
+ 3 derailment response?
+ 4        MS. PETTY: Objection.
+ 5        THE WITNESS: I'm sorry, I
+ 6    didn't understand.
+ 7 QUESTIONS BY MR. SWANSON:
+ 8    Q.   As the person on the ground - 9 as a person on the ground for Norfolk
+10 Southern who was helping -- I can't read that
+11 now. Let me try it again.
+12        All right. As a Norfolk
+13 Southern employee who was on the ground
+14 helping to manage the response to the
+15 derailment, do you fault anything that
+16 Trinity did or didn't do in assisting with
+17 the derailment response?
+18    A.   No.
+19    Q.   Was Trinity consulted in any
+20 way before Norfolk Southern made the decision
+21 to vent and burn 2025?
+22        MS. PETTY: Objection.
+23        THE WITNESS: Not to my
+24    knowledge.
+25
+
+```
+
+-----
+
+```
+ 1          CERTIFICATE
+ 2       I, CARRIE A. CAMPBELL, Registered
+   Diplomate Reporter, Certified Realtime
+ 3 Reporter and Certified Shorthand Reporter, do
+   hereby certify that prior to the commencement
+ 4 of the examination, Robert C. Wood, was duly
+   sworn by me to testify to the truth, the
+ 5 whole truth and nothing but the truth.
+ 6       I DO FURTHER CERTIFY that the
+   foregoing is a verbatim transcript of the
+ 7 testimony as taken stenographically by and
+   before me at the time, place and on the date
+ 8 hereinbefore set forth, to the best of my
+   ability.
+ 9
+         I DO FURTHER CERTIFY that I am
+10 neither a relative nor employee nor attorney
+   nor counsel of any of the parties to this
+11 action, and that I am neither a relative nor
+   employee of such attorney or counsel, and
+12 that I am not financially interested in the
+   action.
+13
+14
+      ____________________________
+16    CARRIE A. CAMPBELL,
+      NCRA Registered Diplomate Reporter
+17    Certified Realtime Reporter
+      California Certified Shorthand
+18    Reporter #13921
+      Missouri Certified Court Reporter #859
+19    Illinois Certified Shorthand Reporter
+20    Texas Certified Shorthand Reporter #9328
+      Kansas Certified Court Reporter #1715
+21    New Jersey Certified Court Reporter
+      #30XI00242600
+22    Louisiana Certified Court Reporter
+23    Notary Public
+      Dated: December 12, 2023
+24
+25
+
+```
+```
+    ____________________________
+    CARRIE A. CAMPBELL,
+
+```
+

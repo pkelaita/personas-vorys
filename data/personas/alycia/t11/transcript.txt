@@ -1,0 +1,2103 @@
+
+
+```
+1
+
+```
+```
+ 1     UNITED STATES DISTRICT COURT
+         NORTHERN DISTRICT OF OHIO
+ 2        EASTERN DIVISION
+ 3
+    IN RE: EAST PALESTINE  ) CASE NO.
+ 4 TRAIN DERAILMENT    ) 4:23-CV-00242-BYP
+                ) JUDGE BENITA Y. PEARSON
+ 5
+ 6      TUESDAY, FEBRUARY 27, 2024
+ 7  CONFIDENTIAL - PURSUANT TO PROTECTIVE ORDER
+ 9      Videotaped deposition of 30(b)(6)
+10 designee of Norfolk Southern Railway Company,
+11 Robert Wood, held at the offices of
+12 Kilpatrick Townsend & Stockton LLP, 1100
+13 Peachtree Street, NE, Suite 2800, Atlanta,
+14 Georgia, commencing at 9:00 a.m. Eastern, on
+15 the above date, before Carrie A. Campbell,
+16 Registered Diplomate Reporter, Certified
+17 Realtime Reporter, Illinois, California &
+18 Texas Certified Shorthand Reporter, Missouri,
+19 Kansas, Louisiana & New Jersey Certified
+20 Court Reporter.
+22
+         GOLKOW LITIGATION SERVICES
+23          877.370.DEPS
+            deps@golkow.com
+24
+25
+
+```
+
+-----
+
+1       A P P E A R A N C E S :
+2
+3   GRANT & EISENHOFER P.A.
+BY: TUDOR FARCAS
+4      tfarcas@gelaw.com
+CALEY DEGROOTE
+5      cdegroote@gelaw.com
+123 South Justison Street, 6th Floor
+6   Wilmington, Delaware 19801
+7   Counsel for Plaintiffs
+8
+9   WILMER CUTLER PICKERING HALE AND DORR LLP
+BY: SARAH BEIGBEDER PETTY
+10      Sarah.Petty@wilmerhale.com
+BENJAMIN T. MORRIS
+11      benjamin.morris@wilmerhale.com
+60 State Street
+12   Boston, Massachusetts 02109
+13
+14   and
+15
+WILMER CUTLER PICKERING HALE AND DORR LLP
+16   BY: ERIN FARREL
+erin.farrel@wilmerhale.com
+17   350 South Grand Avenue, Suite 2400
+Los Angeles, California 90071
+Counsel for Norfolk Southern
+19   Corporation and Norfolk Southern
+Railway Company
+20
+21
+COOLEY LLP
+22   BY: KOJI FUKUMURA
+kfukumura@cooley.com
+23   10265 Science Center Drive
+San Diego, California 92121-1117
+Counsel for Robert Wood
+25
+
+
+1 1            INDEX
+2                       PAGE
+2    APPEARANCES..................................  2
+4 4  EXAMINATIONS
+3 5   BY MR. BRENZA..............................  7
+6   BY MS. BROZ................................ 74
+4 7   BY MR. FARCAS.............................. 123
+8   BY MS. COLLIER............................. 126
+5 9   BY MR. BRENZA.............................. 129
+10
+6 11           EXHIBITS
+12    No.  Description             Page
+7 13   1    NTSB Hazardous Materials Group    30
+Chair's Factual Report,
+8 14       NS-CA000002467 - NS-CA000002625
+15   2    E-mail(s),              42
+9        NS-CA000427788 - NS-CA000427790
+16
+10    3    Defendant and Third-Party       74
+17       Defendant Oxy Vinyls LP's Amended
+11        Notice of Rule 30(b)(6)
+12 18       Videotaped Deposition of Norfolk
+13        Southern Railway Company
+15    4    Group D, Exhibit 9 NS Email      86
+16 20       Explanation of Tank Car
+17        Temperature Measurements
+18 21       Readings, April 13, 2023,
+19        NS-CA000003202 - NS-CA000003203
+21    5    E-mail(s),              90
+22 23       SPSI 001746 - SPSI 001751
+23 24   6    E-mail(s),              95
+24        NS-CA004096572 - NS-CA004096573
+|Page 3 1 BARTLIT BECK HERMAN PALENCHAR & SCOTT LLP BY: LINDLEY J. BRENZA 2 lindley.brenza@bartlitbeck.com 1801 Wewatta Street 3 Denver, Colorado 80202 (303) 592-3100 4 5 and 6 BARTLIT BECK HERMAN PALENCHAR & 7 SCOTT LLP BY: NENA BENAVIDES 8 nena.benavides@bartlitbeck.com 54 West Hubbard, Suite 300 9 Chicago, Illinois 60654 (312) 494-4400 10 Counsel for Trinity Industries Leasing Company 11 12 VORYS, SATER, SEYMOUR AND PEASE LLP 13 BY: ALYCIA N. BROZ anbroz@vorys.com 14 52 East Gay Street Columbus, Ohio 43215 15 (614) 464-6400 Counsel for Oxy Vinyls 16 17 KIRKLAND & ELLIS LLP 18 BY: SYDNE K. COLLIER sydne.collier@kirkland.com 19 300 North LaSalle Chicago, Illinois 60654 20 (312) 862-2000 Counsel for GATX and General 21 American Marks Company 22 23 V I D E O G R A P H E R : JOSH COLEMAN, 24 Golkow Litigation Services 25 – – –|Page 5 1 1 7 Group D, Exhibit 32, OCPX80370 98 Shell Temperature Measurements, 2 2 February 5, 2023, 4:00 p.m. to February 6, 2023, 2:30 p.m. Data 3 3 provided by Norfolk Southern Railway, 4 4 NS-CA001622488 - NS-CA001622489 5 8 Norfolk Southern Railway Company 117 5 and Norfolk Southern 6 Corporations' Third-Party 6 Complaint 7 7 9 Text messages between Alan Shaw 134 8 and Amy Miles, 8 NS-CA-002449392 - NS-CA-002449395 9 9 10 10 (Exhibits attached to the deposition.) 11 11 12 CERTIFICATE.................................. 141 13 ACKNOWLEDGMENT OF DEPONENT................... 143 14 ERRATA....................................... 144 15 LAWYER'S NOTES............................... 145 16 16 17 17 18 18 19 19 20 20 21 21 22 22 23 23 24 24 25 25|
+|---|---|
+
+
+-----
+
+1        VIDEOGRAPHER: We are now on
+2    the record. My name is Josh Coleman.
+3    I'm the videographer for Golkow
+4    Litigation Services.
+5        Today's date is February 27,
+6    2024, and the time is approximately
+7    9 a.m. Eastern Time.
+8        This video deposition is being
+9    held in Atlanta, Georgia, in the
+10    matter of In Re: East Palestine Train
+11    Derailment Litigation.
+12        The deponent is Robert Wood as
+13    a 30(b)(6) representative from Norfolk
+14    Southern.
+15        Counsel will be noted on the
+16    stenographic record.
+17        The court reporter is Carrie
+18    Campbell and will now swear in the
+19    witness.
+20         ROBERT WOOD,
+21 of lawful age, having been first duly sworn
+22 to tell the truth, the whole truth and
+23 nothing but the truth, deposes and says on
+24 behalf of the Trinity Industries Leasing
+25 Company, as follows:
+
+
+1    A.   Director of hazardous
+2 m a t e r i a l s .
+3    Q.   How long have you been director
+4 of hazardous materials?
+5    A.   Since June of 2023.
+6    Q.   So you were not director of
+7 hazardous materials at the time of the East
+8 Palestine derailment?
+9    A.   No, I was system manager,
+10 hazardous materials, at the time of the
+11 i n c i d e n t .
+12    Q.   How long had you been system
+13 manager, hazardous materials?
+14    A.   Since 2019.
+15    Q.   You've given a deposition in
+16 this case previously.
+17        Right?
+18    A.   Yes.
+19    Q.   And you were, I assume, fully
+20 asked about your career at Norfolk Southern?
+21    A.   Yes.
+22    Q.   Okay. So we won't replicate
+23 that.
+24        Do you have anything you want
+25 to add or change about what you testified
+|Page 7 1 DIRECT EXAMINATION 2 QUESTIONS BY MR. BRENZA: 3 Q. What is your name? 4 A. Robert Wood. 5 Q. Could you spell that, please? 6 A. R-o-b-e-r-t, W-o-o-d. 7 Q. Are you an employee of Norfolk 8 Southern Railroad? 9 A. I am. 10 Q. Where do you work? 11 A. I'm based out of Atlanta, 12 G e o r g ia . 13 Q. What's the address of where you 14 work? 15 A. 650 West Peachtree Street 16 Northwest, Atlanta, Georgia 30308. 17 Q. Do you live in Atlanta as well? 18 A. No, I live in Bethlehem, 19 Georgia. 20 Q. What's the address where you 21 live? 22 23 24 Q. What is your title with Norfolk 25 S o u t h e r n ?|Page 9 1 about previously on your -- about your 2 background and occupational background? 3 MR. FUKUMURA: Objection. 4 THE WITNESS: No. 5 QUESTIONS BY MR. BRENZA: 6 Q. Okay. Do you understand that 7 when you were being deposed previously you 8 were offering facts that you personally knew? 9 A. Yes. 10 Q. Today is different. 11 Do you understand that? 12 A. Yes. 13 Q. Today you're offering facts 14 that you know, but also facts that you've 15 learned from all the facts that Norfolk 16 Southern knows. 17 R ig h t ? 18 MR. FUKUMURA: Objection. 19 MS. PETTY: Objection. 20 THE WITNESS: Yes. 21 QUESTIONS BY MR. BRENZA: 22 Q. And Norfolk Southern is 23 composed of a number of different employees. 24 Right? 25 A. Yes.|
+|---|---|
+
+
+-----
+
+1    Q.   And they have documents that
+2 bear on the East Palestine derailment.
+3        Right?
+4    A.   Yes.
+5    Q.   Did you review the documents
+6 that Norfolk Southern had that bore on the
+7 topics for today's deposition in preparation
+8 to give testimony on behalf of the company
+9 today?
+10    A.   I spoke with individuals. I
+11 reviewed some depositions and an NTSB report,
+12 I believe.
+13    Q.   So what individuals did you
+14 speak with to prepare to give testimony on
+15 behalf of Norfolk Southern today?
+16    A.   Scott Deutsch, Scott Gould, Jon
+17 Simpson, Meghan Achimasi, Geoff Craker, David
+18 Schoendorfer.
+19    Q.   Anyone else?
+20    A.   I believe that's it.
+21    Q.   What documents did you review
+22 to prepare to give testimony today on behalf
+23 of the company?
+24    A.   Depositions and NTSB report.
+25    Q.   And the NTSB report, you
+
+
+1 own, Scott Gould, Jon Simpson, David
+2 Schoendorfer, Helen Hart, Mark Dudle.
+3    Q.   What was -- would you say the
+4 last one again, please?
+5    A.   Mark Dudle, D-u-d-l-e.
+6    Q.   Okay. Why did you review those
+7 particular depositions?
+8    A.   They had the -- those were the
+9 ones that were available to me that are
+10 pertinent to the issues at hand.
+11    Q.   Okay. And did you select those
+12 depositions or did counsel provide them to
+13 you?
+14    A.   They were provided to me.
+15    Q.   Do you understand that the
+16 depositions -- have you looked at -- well,
+17 strike that.
+18        Have you looked at the
+19 deposition notice for your deposition on
+20 behalf of the company today?
+21    A.   I'm sorry, I'm not sure what
+22 you're asking.
+23    Q.   Do you know what a deposition
+24 notice is?
+25    A.   Yes.
+|Page 11 1 mentioned it a couple of times now. That's 2 the report that the national traffic {sic} 3 safety board assembled as a result of its 4 investigation into the East Palestine train 5 derailment? 6 MS. PETTY: Objection. 7 MR. FUKUMURA: Objection. 8 THE WITNESS: It was a -- the 9 report -- the public report that's out 10 from National Transportation Safety 11 Board right now. 12 QUESTIONS BY MR. BRENZA: 13 Q. Okay. 14 A. The final report is not out 15 yet. 16 Q. Okay. But the report you 17 reviewed is their preliminary report? 18 MR. FUKUMURA: Objection. 19 THE WITNESS: Yes. 20 QUESTIONS BY MR. BRENZA: 21 Q. Okay. And you reviewed 22 depositions. 23 Which depositions did you 24 review? 25 A. Drew McCarty's, Chip Day's, my|Page 13 1 Q. Okay. That's the document that 2 my client and other defendants in this case 3 served to identify the topics that they 4 wanted to ask you about today. 5 R ig h t ? 6 A. Yes. 7 Q. Have you reviewed that 8 d o c u m e n t ? 9 A. Some of it, yes. 10 Q. Okay. So you know what the 11 topics are? 12 A. Yes. 13 Q. And we're here I believe it's 14 to cover Topics 2 through 6. 15 A. I think that's correct. 16 Q. Are you prepared to answer 17 questions about those on behalf of the 18 c o m p a n y ? 19 A. Yes. 20 Q. Okay. Now, before we go on, 21 let's -- I want to talk a little bit more 22 about the NTSB report. 23 Do you feel that you reviewed 24 the NTSB report in full -- in full? 25 A. No.|
+|---|---|
+
+
+-----
+
+1    Q.   What parts of the NTSB report
+2 did you not review?
+3    A.   Well, I've scanned the entire
+4 report. I wouldn't say I've read it with -5    Q.   Okay. How about the part of -6 that has to do with the Hazardous Materials
+7 Group Chair's Factual Report?
+8    A.   Yes.
+9    Q.   Have you reviewed all of that?
+10    A.   Yes.
+11    Q.   Okay. That's the part that
+12 relates most directly to the topics we're
+13 going to talk about today.
+14        Right?
+15    A.   Yes.
+16    Q.   Do you have any disagreement
+17 with the national traffic safety board with
+18 respect to their findings in that report?
+19        MS. PETTY: Objection.
+20        THE WITNESS: No, I don't think
+21    so.
+22 QUESTIONS BY MR. BRENZA:
+23    Q.   Okay. Do you -- do you take
+24 the facts that they report from -- well, let
+25 me back up.
+
+
+1        My name is Lin Brenza, and I
+2 represent a company called Trinity. Okay?
+3        Do you know anything about
+4 Trinity?
+5    A.   Yes.
+6    Q.   And there were other defendants
+7 in the case.
+8        You're aware of that as well,
+9 too, right?
+10    A.   Yes.
+11    Q.   Each of us are going to ask you
+12 some questions. This is my turn to ask
+13 because it's our notice, so I go first.
+14        But I'm going to be, what might
+15 seem to you, very specifically interested in
+16 one particular car in the train derailment,
+17 which I'm going to call the Trinity car.
+18        O k a y ?
+19    A.   (Witness nods head.)
+20    Q.   You need to say -- you need to
+21 answer audibly.
+22    A.   Yes.
+23    Q.   Are you familiar with which of
+24 the cars we're talking about?
+25    A.   It was the vinyl chloride car
+|Page 15 1 Do you understand that in order 2 to prepare that preliminary report, the 3 national traffic safety board -- 4 MR. FUKUMURA: Transportation. 5 QUESTIONS BY MR. BRENZA: 6 Q. Sorry. 7 -- National Transportation 8 Safety Board interviewed a number of people 9 that had roles in the Palestine derailment, 10 the East Palestine derailment? 11 A. Yes. 12 Q. And they reviewed documents. 13 Right? 14 A. Yes. 15 Q. And they tried to put together 16 a comprehensive document that recorded what 17 each person observed or did on the days of 18 the derailment or in managing the derailment. 19 MS. PETTY: Objection. 20 MR. FUKUMURA: Objection. 21 QUESTIONS BY MR. BRENZA: 22 Q. Right? 23 A. Yes. 24 Q. All right. Let me -- I'm going 25 to focus you a little more now on who I am.|Page 17 1 farthest east in the derailment. 2 Q. Okay. That's correct. 3 And so the vinyl chloride cars 4 were something called tank cars. 5 R ig h t ? 6 A. Yes. 7 Q. They were 105J DOT-specified 8 tank cars. 9 R ig h t ? 10 A. Yeah, DOT 105J300Ws. 11 Q. Okay. And that's -- and that's 12 a car that the DOT specifies to have various 13 safety precautions on it. 14 R ig h t ? 15 MR. FUKUMURA: Objection. 16 MS. PETTY: Objection. 17 THE WITNESS: It is a -- it is 18 a specification container, yes. 19 QUESTIONS BY MR. BRENZA: 20 Q. It differs from a regular 21 r a i lc a r . 22 R ig h t ? 23 It's not a boxcar. Let's start 24 with that. 25 R ig h t ?|
+|---|---|
+
+
+-----
+
+1    A.   Correct.
+2    Q.   It's a tank car?
+3    A.   Correct.
+4    Q.   And it's not just a tank car;
+5 it's an insulated tank car.
+6        R i g h t ?
+7    A.   Yes.
+8    Q.   It has many inches of -- or
+9 several inches of insulation all around the
+10 t a n k .
+11        R i g h t ?
+12    A.   It has insulation and thermal
+13 p r o t e c t i o n .
+14    Q.   Okay. And then around that, it
+15 has a metal -- it has metal armor to protect
+16 i t .
+17        R i g h t ?
+18    A.   An eighth -19        MS. PETTY: Objection.
+20        THE WITNESS:  An eighth-inch
+21    metal jacket, yes.
+22 QUESTIONS BY MR. BRENZA:
+23    Q.   And at the front and the back
+24 of the tank, it has even more armor to allow
+25 it to be more survivable in a train wreck.
+
+
+1        Right?
+2        MR. FUKUMURA: Objection.
+3        THE WITNESS: Yes.
+4 QUESTIONS BY MR. BRENZA:
+5    Q.   And they still didn't release
+6 their contents.
+7        Right?
+8        MS. PETTY: Objection.
+9        MR. FUKUMURA: Objection.
+10        THE WITNESS: No, that's not
+11    correct.
+12 QUESTIONS BY MR. BRENZA:
+13    Q.   Well, I know you're going to
+14 say that they released them through the
+15 pressure relief device.
+16        Right?
+17    A.   That's correct.
+18    Q.   Other than through the pressure
+19 release device -- and we'll talk about that a
+20 little more in a minute. Other than through
+21 the pressure release device, none of those
+22 cars released any of their contents until
+23 Norfolk Southern blew them up.
+24        Right?
+25        MS. PETTY: Objection.
+|Page 19 1 R ig h t ? 2 MS. PETTY: Objection. 3 THE WITNESS: Yes, it has head 4 shields or head protection. 5 QUESTIONS BY MR. BRENZA: 6 Q. And in this case, this 7 particular derailment, all of those safety 8 aspects of those cars, the tank cars, the VC 9 tank cars, functioned as they were expected 10 to function. 11 R ig h t ? 12 MR. FUKUMURA: Objection. 13 MS. PETTY: Objection. 14 THE WITNESS: The tank car 15 didn't puncture, correct. 16 QUESTIONS BY MR. BRENZA: 17 Q. It didn't puncture. It didn't 18 release any of its material in an 19 uncontrolled way. 20 R ig h t ? 21 MS. PETTY: Objection. 22 THE WITNESS: Correct. 23 QUESTIONS BY MR. BRENZA: 24 Q. And some of those cars were 25 sitting in fire for a day or more.|Page 21 1 MR. FUKUMURA: Objection. 2 THE WITNESS: There were 3 releases from the PRDs as well as from 4 some of the seats on some of the angle 5 valves on the cars from damage due to 6 fire. 7 QUESTIONS BY MR. BRENZA: 8 Q. The pressure relief device, the 9 PRD, as you say, that is a -- yet another 10 safety device on these cars. 11 R ig h t ? 12 MS. PETTY: Objection. 13 THE WITNESS: Yes. 14 QUESTIONS BY MR. BRENZA: 15 Q. And the purpose of the pressure 16 release -- relief device is to allow a small 17 amount of contents to escape the car, to 18 reduce the pressure inside the car if it's 19 getting too high. 20 MR. FUKUMURA: Objection. 21 QUESTIONS BY MR. BRENZA: 22 Q. Right? 23 MS. PETTY: Objection. 24 THE WITNESS: It is designed to 25 release excess pressure, yes.|
+|---|---|
+
+
+-----
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   So by releasing material, the
+3 pressure relief devices were functioning as
+4 they were supposed to function.
+5        R i g h t ?
+6        MS. PETTY: Objection.
+7        MR. FUKUMURA: Objection.
+8        THE WITNESS:  They're designed
+9    to release that material under
+10    pressure, yes.
+11 QUESTIONS BY MR. BRENZA:
+12    Q.   Okay. Now, let me get back to
+13 the Trinity car.
+14        The Trinity car was one of
+15 these DOT 105J300W cars.
+16        Right?
+17    A.   Yes.
+18    Q.   Tank cars.
+19        Ones with armor and insulation
+20 and pressure relief valves.
+21        Right?
+22        MS. PETTY: Objection.
+23        THE WITNESS: Yes.
+24 QUESTIONS BY MR. BRENZA:
+25    Q.   And the Trinity car -- do you
+
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   And did you -- did you
+3 physically inspect the Trinity car?
+4    A.   I did not physically inspect
+5 it.
+6    Q.   Jon Simpson did.
+7        Right?
+8    A.   Among others.
+9    Q.   Among others?
+10    A.   Yes.
+11    Q.   And the Trinity car has
+12 something called an angle valve on it.
+13        Right?
+14    A.   All of the vinyl chloride cars
+15 have angle valves on them.
+16    Q.   The Trinity car's angle valve
+17 was functioning properly, even after the
+18 derailment.
+19        Right?
+20        MS. PETTY: Objection.
+21        MR. FUKUMURA: Objection.
+22        THE WITNESS: The angle -- the
+23    vapor angle valve for sure was because
+24    they were able to put a pressure gauge
+25    on it.
+|Page 23 1 recognize these cars by their numbers? 2 A. Yes. They're reporting marks. 3 That's how they're identified. 4 Q. Okay. So the Trinity car is 5 TILX402025. 6 Do you recognize it by that 7 number? 8 A. That sounds right. 9 Q. Okay. And it was, depending on 10 how you count, Car 26 or Car 28 in the train. 11 Right? 12 A. I believe that's correct. 13 Q. Okay. And as you said, it 14 was -- it was on the eastern-most side of the 15 derailment? 16 A. That's correct. 17 Q. Okay. The Trinity car did not 18 release any of its contents other than 19 through its pressure relief valve, as it was 20 intended to do so. 21 Right? 22 MR. FUKUMURA: Objection. 23 MS. PETTY: Objection. 24 THE WITNESS: That's correct. 25|Page 25 1 QUESTIONS BY MR. BRENZA: 2 Q. And you just said something 3 about the vapor angle valve. 4 Is that different from what I 5 said, just the angle valve, or is it the same 6 thing? 7 I just want to make sure we're 8 talking about the same thing. 9 A. They're all the same type of 10 valves, but there are vapor valves and there 11 are liquid valves. 12 Q. Okay. And so we're talking 13 about the vapor angle valve, so that's how 14 I'll refer to it now. 15 Is the vapor angle valve of the 16 Trinity car the valve that was used by the 17 shipper to load the car? 18 MS. BROZ: Objection. Form. 19 THE WITNESS: I'm not sure. In 20 general purposes, when they load a 21 car, they have to use at least one 22 liquid line and the vapor line, but 23 I'm not sure how the -- how they 24 loaded the car. 25|
+|---|---|
+
+
+-----
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   Okay. So in this case you
+3 don't know specifically how that car was
+4 loaded?
+5    A.   Correct.
+6    Q.   But the angle valve was -- on
+7 the Trinity car was still functioning, even
+8 after the car had been in a derailment.
+9        Right?
+10    A.   That vapor valve was still
+11 operational, yes.
+12    Q.   And Jon Simpson and others that
+13 were working with him were able to measure
+14 the car's temperature and pressure by using
+15 that angle valve.
+16        Right?
+17        MS. PETTY: Objection.
+18        THE WITNESS: No.
+19        They could get a pressure.
+20    They couldn't get the temperature.
+21 QUESTIONS BY MR. BRENZA:
+22    Q.   Okay. Well, there's a
+23 relationship between pressure and
+24 temperature.
+25        Isn't there?
+
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   Trinity's car, because it had
+3 been off to the side more than the other
+4 cars, had not been in any what's called pool
+5 fire in the course of the East Palestine
+6 derailment.
+7        Right?
+8        MS. PETTY: Objection.
+9        THE WITNESS: It had fire
+10    damage. I couldn't say it was in a
+11    pool fire.
+12 QUESTIONS BY MR. BRENZA:
+13    Q.   And let's just, you know,
+14 clarify what a pool fire is.
+15        Is a pool fire a pool of some
+16 material from a different car that collects
+17 on the ground and then catches on fire?
+18        MS. PETTY: Objection.
+19        THE WITNESS: It is a pool of
+20    burning liquid on the ground, yes.
+21 QUESTIONS BY MR. BRENZA:
+22    Q.   Okay. And some of the cars
+23 were in pool fires for extended periods of
+24 time, over a day.
+25        Right?
+|Page 27 1 A. Yes. 2 Q. In this case, though, they took 3 a pressure temperature -- I'm sorry, a 4 pressure measurement. 5 Isn't it correct that the 6 pressure measurement they took showed that 7 the pressure inside the Trinity car was 8 normal, just a normal pressure? 9 MR. FUKUMURA: Objection. 10 MS. PETTY: Objection. 11 THE WITNESS: It was 60 PSI. 12 QUESTIONS BY MR. BRENZA: 13 Q. And you know that from the NTSB 14 report that the cars are loaded around 15 60 PSI. 16 Right? 17 MS. PETTY: Objection. 18 THE WITNESS: Yes. 19 QUESTIONS BY MR. BRENZA: 20 Q. That's how they leave the 21 shipper's facility. 22 Right? 23 MS. PETTY: Objection. 24 MR. FUKUMURA: Objection. 25 THE WITNESS: Yes.|Page 29 1 A. Yes, for several hours. 2 Q. But Trinity's car was not. 3 Right? 4 A. It was exposed to fire. It had 5 fire damage to it. 6 Q. Okay. It had fire damage 7 because it was near other cars that were 8 having pool fires and other problems. 9 Right? 10 MR. FUKUMURA: Objection. 11 MS. BROZ: Objection. Form. 12 THE WITNESS: Yes. 13 QUESTIONS BY MR. BRENZA: 14 Q. But the -- but the Trinity car 15 temperature, at all times that it was 16 measured during the derailment and after, was 17 normal. 18 Right? 19 MR. FUKUMURA: Objection. 20 MS. PETTY: Objection. 21 THE WITNESS: No. We got a 22 pressure on the car of the 60 PSI 23 after the fires were died down. There 24 was no temperature checks on the cars 25 while the active fires were going.|
+|---|---|
+
+
+-----
+
+1        (Wood 30(b)(6) Exhibit 1 marked
+2    for identification.)
+3 QUESTIONS BY MR. BRENZA:
+4    Q.   Well, all right. I'm going to
+5 hand you what I'm marking as Exhibit 1. This
+6 is the NTSB report. We'll be referring to
+7 this a number of times, so it's worth marking
+8 a fairly large document.
+9        Is the document I've handed to
+10 you marked as Exhibit 1 of the 30(b)(6)
+11 deposition entitled "The Hazardous Materials
+12 Group Chair's Factual Report," the part of
+13 the NTSB report that you said previously you
+14 hadn't fully reviewed?
+15    A.   Yes.
+16    Q.   And if you will -- if I could
+17 direct your attention to page 92 of 158.
+18        Tell me when you're there.
+19    A.   92?
+20    Q.   Yes.
+21    A.   Okay.
+22    Q.   And do you see that on page 92
+23 of page 100 -- of 158 of the NTSB report
+24 we've marked as Exhibit 1, there are tables
+25 and graphs that show the measured temperature
+
+
+1 there.
+2        Do you see that the first car
+3 in the column, first column, is the Trinity
+4 car?
+5    A.   Yes.
+6    Q.   And there are temperatures
+7 recorded for the Trinity car.
+8        Right?
+9    A.   Yes.
+10    Q.   And each of those temperatures
+11 is 65 degrees or less.
+12        Right?
+13        MS. PETTY: Objection.
+14        THE WITNESS: Yes. Yes.
+15 QUESTIONS BY MR. BRENZA:
+16    Q.   Is it fair to say that at every
+17 point where the Trinity car's temperature was
+18 measured after the derailment, its
+19 temperature was a normal 65 degrees?
+20        MS. PETTY: Objection.
+21        MR. FUKUMURA: Objection.
+22        THE WITNESS: Yes. Once we
+23    started taking temperatures on the
+24    5th, yes.
+25
+|Page 31 1 of the different cars in the East Palestine 2 derailment? 3 A. Yes. 4 Q. And you can see that in the 5 first table, there are five tank cars where 6 temperatures were measured. 7 Right? 8 MS. PETTY: Objection. 9 THE WITNESS: Yes, beginning on 10 the -- on February 5th. 11 QUESTIONS BY MR. BRENZA: 12 Q. The first of those is the -- is 13 the Trinity car, right? TILX402025, right? 14 And it's also on the board, if 15 you need to see it -- 16 A. Yes, I can see it up there. 17 Q. -- up there, but you're welcome 18 to -- 19 A. Yeah, it's too small here. 20 Q. It is small. That's why I have 21 this magnifying glass. But -- which 22 you're -- if you need it at any time, just 23 say so. 24 A. No, I can see it on the screen. 25 Q. Good. That's why I put it up|Page 33 1 QUESTIONS BY MR. BRENZA: 2 Q. And before the 5th, the -- 3 Norfolk Southern was not attempting to 4 remediate the immediate effects of the 5 derailment. 6 Right? 7 MR. FUKUMURA: Objection. 8 MS. PETTY: Objection. 9 QUESTIONS BY MR. BRENZA: 10 Q. They were waiting for the 11 situation to stabilize? 12 MS. PETTY: Objection. 13 THE WITNESS: There were still 14 active fires. 15 QUESTIONS BY MR. BRENZA: 16 Q. Okay. 17 A. Significant active fires that 18 prevented any intervention. 19 Q. And there is one -- there is 20 one measurement that's earlier than all the 21 rest. It looks like it's at 16:00 hours. 22 And then there's a space of time where the 23 temperature wasn't continually taken. 24 Do you know who took that first 25 temperature of 65 degrees?|
+|---|---|
+
+
+-----
+
+1    A.   I don't know the individual.
+2 It would have been -- it would have been
+3 personnel from SPSI.
+4    Q.   As you sit here today, does
+5 Norfolk Southern know what temperature the
+6 Trinity car was at on February 3rd or
+7 February 4th?
+8        MR. FUKUMURA: Objection.
+9        MS. PETTY: Objection.
+10        THE WITNESS: No.
+11 QUESTIONS BY MR. BRENZA:
+12    Q.   And that's because nobody from
+13 Norfolk Southern or its contractors measured
+14 it on those days.
+15        Right?
+16        MR. FUKUMURA: Objection.
+17        THE WITNESS: During the active
+18    fires, there was no possible way to
+19    take any kind of temperature or get a
+20    core temperature on those cars.
+21 QUESTIONS BY MR. BRENZA:
+22    Q.   Is that a yes to my answer
+23 {sic}, that nobody from Norfolk Southern
+24 measured the temperature of the Trinity car
+25 on February 3rd or February 4th?
+
+
+1    A.   Yes.
+2    Q.   That's a normal temperature
+3 because that's the temperature at which the
+4 tanks are -- the cars are loaded.
+5        Right?
+6        MS. PETTY: Objection.
+7        MR. FUKUMURA: Objection.
+8        MS. BROZ: Objection. Form.
+9        THE WITNESS: Yes.
+10 QUESTIONS BY MR. BRENZA:
+11    Q.   When was the first time that
+12 someone was able to measure the pressure of
+13 the Trinity car?
+14    A.   That would have been on
+15 February 5th.
+16    Q.   And the pressure was measured
+17 by Norfolk Southern's hired contractors.
+18        Right?
+19    A.   Individuals from SPSI, yes.
+20    Q.   Do you know who measured the
+21 pressure of the Trinity car on the 5th? What
+22 person?
+23    A.   I don't know the specific
+24 individual, just it was SPSI personnel.
+25    Q.   The NTSB report that we've been
+|Page 35 1 MS. PETTY: Objection. 2 THE WITNESS: Yes. 3 QUESTIONS BY MR. BRENZA: 4 Q. The first time that Norfolk 5 Southern did measure the temperature, and 6 every time afterwards, the Trinity car's 7 temperature was normal. 8 Right? 9 MS. PETTY: Objection. 10 MR. FUKUMURA: Objection. 11 THE WITNESS: It was 12 65 degrees, is what I was told, yes. 13 QUESTIONS BY MR. BRENZA: 14 Q. Yes. 15 And that's a normal temperature 16 for a tank car. 17 Right? 18 MS. PETTY: Objection. 19 MR. FUKUMURA: Objection. 20 THE WITNESS: That will depend 21 on the commodity. 22 QUESTIONS BY MR. BRENZA: 23 Q. In this case, obviously we're 24 talking about vinyl chloride. 25 Right?|Page 37 1 speaking about discusses the assessment by 2 SRS of the damage to the tank cars beginning 3 on page 82 and going on to page 83. 4 Would you -- would you turn to 5 those pages, please? 6 A. Okay. 7 Q. The bottom of page 82 of 158, 8 do you see the paragraph beginning with the 9 words "SRS damage assessment"? 10 A. Yes. 11 Q. It says, "The SRS damage 12 assessment of the VCM tank cars on the 13 morning of February 5th found two of the five 14 tank cars on the east end actively burning in 15 their protective housings. They found no 16 evidence of mechanical breaching damage to 17 the VCM tank cars." 18 We'll just stop at that one. 19 Does that confirm for you that 20 as of February 5th, Norfolk Southern's 21 contractors found no evidence that the VCM 22 tank cars had breached or released any of 23 their contents? 24 MS. PETTY: Objection. 25 MR. FUKUMURA: Objection.|
+|---|---|
+
+
+-----
+
+1        THE WITNESS: At this point in
+2    time, they had found no breaches in
+3    any tank cars.
+4 QUESTIONS BY MR. BRENZA:
+5    Q.   Okay. It goes on to say,
+6 "Crews attached a pressure gauge to 28
+7 TILX402025" -8        Let me stop there. That's the
+9 Trinity car, right?
+10    A.   Yes.
+11    Q.   -- "and found a tank pressure
+12 of 60 PSI."
+13        Do you see that?
+14    A.   Yes.
+15    Q.   Was a tank pressure of 60 PSI
+16 for a vinyl chloride tank car a normal
+17 pressure?
+18        MS. BROZ: Objection. Form.
+19        MS. PETTY: Objection.
+20        THE WITNESS: Yes.
+21 QUESTIONS BY MR. BRENZA:
+22    Q.   Do you see that the first of
+23 the sentence goes on to say that "SRS did not
+24 find any remarkable dents, scores or gouges
+25 on the VCM tank cars. Derailment damage
+
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   Do you see that?
+3    A.   I see that, yes.
+4    Q.   What's a body bolster, if you
+5 know?
+6    A.   So the tank is a long cylinder.
+7 It is actually the frame of a tank car. So
+8 on either end of the tank cars, A end to B
+9 end, there's what's called a bolster.
+10 Basically there's a -- it makes a saddle that
+11 that tank sits on and is welded to, and then
+12 those body bolsters are what sits on the set
+13 of trucks that the railcar rolls on.
+14    Q.   Does the body bolster act like
+15 the foundation of a house?
+16        MS. PETTY: Objection.
+17        THE WITNESS: In a sense, yes.
+18 QUESTIONS BY MR. BRENZA:
+19    Q.   It holds up the tank and allows
+20 the tank to be moved on a railcar?
+21    A.   It allows the tank car to sit
+22 on its set of trucks and roll on the rails,
+23 yes.
+24    Q.   Okay. Its primary objective is
+25 supportive, right? It just tries to hold
+|Page 39 1 included bent or twisted body bolsters," and 2 then it goes on from there. 3 Do you see that? 4 A. Yes. 5 Q. Do you agree with that 6 statement, that there were no remarkable 7 dents, scores or gouges in the VCM tank cars, 8 including the Trinity car? 9 A. There were no discernible ones. 10 Q. I'm sorry, no -- 11 A. No discernible dents in the 12 tanks. These cars are jacketed so -- 13 Q. Okay. So they came through 14 physically very well from a derailment. 15 R ig h t ? 16 MS. PETTY: Objection. 17 MR. FUKUMURA: Objection. 18 THE WITNESS: Yes. 19 QUESTIONS BY MR. BRENZA: 20 Q. And the only -- the only damage 21 that there was was -- it's reported as some 22 of them had bent or twisted body bolsters. 23 MR. FUKUMURA: Objection. 24 MS. PETTY: Objection. 25|Page 41 1 things up, right? 2 A. It -- 3 MS. PETTY: Objection. 4 THE WITNESS: It supports the 5 tank, yes. 6 QUESTIONS BY MR. BRENZA: 7 Q. Okay. Are you aware of any 8 measurements of the Trinity tank car that 9 found that it had abnormally high pressure on 10 the -- during the derailment? During -- or 11 the -- during the derailment or the 12 management of the derailment? 13 MS. PETTY: Objection to the 14 form. 15 THE WITNESS: There are no 16 measurements, to my knowledge, no. 17 QUESTIONS BY MR. BRENZA: 18 Q. Well, we just discussed one 19 measurement. That was 60 PSI. 20 Right? 21 A. No measurements that indicated 22 overpressure. 23 Q. Okay. So all the measurements 24 that were taken, they were all normal? 25 MR. FUKUMURA: Objection.|
+|---|---|
+
+
+-----
+
+1        MS. PETTY: Objection.
+2        THE WITNESS: All the measures
+3    taken on that car were all normal,
+4    yes.
+5        (Wood 30(b)(6) Exhibit 2 marked
+6    for identification.)
+7 QUESTIONS BY MR. BRENZA:
+8    Q.   Okay. I'm going to hand you
+9 another exhibit. Keep that one handy. We're
+10 not done with that, but I'm going to give you
+11 a different one.
+12        Marking as Exhibit 2 is an
+13 e-mail dated February 14, 2023, from David
+14 P a t t e n .
+15        Do you see that?
+16    A.   Yes.
+17    Q.   Do you know who David Patten
+18 i s ?
+19    A.   I do.
+20    Q.   And do you see that you were
+21 one of the recipients, Robert, Robert Wood?
+22 Your name is on there?
+23    A.   Yes.
+24    Q.   Who is David Patten?
+25    A.   David Patten is a hazardous
+
+
+1 commend the companies who built and
+2 maintained those tank cars for how well they
+3 did perform, even when they were in a
+4 d e r a i l m e n t ?
+5        MS. PETTY: Objection.
+6        THE WITNESS: They are an
+7    excellent specification tank car, yes.
+8 QUESTIONS BY MR. BRENZA:
+9    Q.   And they performed just as they
+10 were supposed to in a derailment.
+11        R i g h t ?
+12        MR. FUKUMURA: Objection.
+13        MS. PETTY: Objection.
+14        THE WITNESS:  That's correct.
+15 QUESTIONS BY MR. BRENZA:
+16    Q.   Okay. All right. I'm going to
+17 move along here.
+18        Were you on-site during the
+19 d e r a i l m e n t ?
+20        MS. PETTY: Objection.
+21        THE WITNESS:  I arrived on-site
+22    about eleven o'clock on February 4th.
+23 QUESTIONS BY MR. BRENZA:
+24    Q.   Okay. And were you there -- so
+25 you were there shortly after the derailment
+|Page 43 1 materials manager based out of Greenville, 2 South Carolina, for Norfolk Southern. 3 Q. Okay. Did he report to you? 4 A. Not directly. He reported 5 directly to Paul Williams, who reports -- who 6 reported to me. 7 Q. Okay. Do you see the very last 8 sentence of the second paragraph, he writes a 9 sentence beginning with the word "VC tank 10 c a r s " ? 11 MR. FUKUMURA: What page again? 12 THE WITNESS: Yes, in that 13 second -- last sentence of the second 14 p a r a g r a p h ? 15 QUESTIONS BY MR. BRENZA: 16 Q. Correct. 17 A. Yes. 18 Q. He says, "VC tank cars 19 performed rather well considering how long 20 they were exposed to fire." 21 Do you see that? 22 A. Yes. 23 Q. Do you agree with that? 24 A. Yes. 25 Q. And would you -- would you|Page 45 1 had occurred, the day after, and how long did 2 you stay there? 3 A. I was there from 11 a.m. on the 4 4th, and I was -- can't be exact to the date, 5 but I will -- somewhere up till around the 6 10th or 11th. I was back and forth several 7 times, so... 8 Q. Okay. But you spent a 9 considerable amount of time then at the 10 derailment site in managing the derailment or 11 participating in the management? 12 MR. FUKUMURA: Objection. 13 MS. PETTY: Objection. 14 THE WITNESS: That's correct. 15 QUESTIONS BY MR. BRENZA: 16 Q. Okay. Did you, in the course 17 of managing the derailed cars, formulate 18 opinions that were different for each of the 19 cars involved? 20 MR. FUKUMURA: Objection. 21 MS. PETTY: Objection. 22 THE WITNESS: There were cars 23 more heavily damaged than others, yes. 24 QUESTIONS BY MR. BRENZA: 25 Q. So not all the cars were in the|
+|---|---|
+
+
+-----
+
+1 same boat.
+2        Fair to say?
+3        MR. FUKUMURA: Objection.
+4        THE WITNESS: Not all cars had
+5    sustained the same damage, no.
+6 QUESTIONS BY MR. BRENZA:
+7    Q.   The Trinity car came through
+8 even better than the other tank cars.
+9        Right?
+10        MS. PETTY: Objection.
+11        MR. FUKUMURA: Objection.
+12        MS. BROZ: Objection.
+13        THE WITNESS: Specific to vinyl
+14    chloride cars, it had the least
+15    damage.
+16 QUESTIONS BY MR. BRENZA:
+17    Q.   And after the Norfolk Southern
+18 contractors had been able to evaluate the
+19 Trinity car over a period of time, they
+20 concluded that the car was stable.
+21        Right?
+22        MS. PETTY: Objection.
+23        THE WITNESS: That's correct.
+24 QUESTIONS BY MR. BRENZA:
+25    Q.   If you would go back to the
+
+
+1 some concerns expressed by some Norfolk
+2 Southern personnel that something called
+3 polymerization was occurring in some of the
+4 cars.
+5        Right?
+6    A.   That's what we believed was
+7 happening, yes.
+8    Q.   Okay. But that's not what you
+9 believed was happening with the Trinity car.
+10        Right?
+11        MS. PETTY: Objection.
+12        THE WITNESS: That's correct.
+13 QUESTIONS BY MR. BRENZA:
+14    Q.   The Trinity car was stable?
+15    A.   That's correct.
+16        MS. PETTY: Objection.
+17 QUESTIONS BY MR. BRENZA:
+18    Q.   There's reference here to
+19 moving burning hopper cars away.
+20        Did Norfolk Southern hire
+21 what's known in business as wrecker companies
+22 to come to the site?
+23    A.   There were three wrecking
+24 contractors there on behalf of Norfolk
+25 Southern.
+|Page 47 1 document that we've marked previously as 2 Exhibit 1, on page 85, please. 3 Tell me when you're there. 4 A. Okay. 5 Q. Do you see a paragraph in the 6 middle of that page beginning "Following 7 that"? 8 A. Yes. 9 Q. It says, "Following that, SRS 10 crews assisted with moving burning hopper 11 cars away from the east and so the crews 12 could attempt to re-rail VCM car TILX402025 13 because the car was determined to be stable, 14 with a pressure of 60 PSIG." 15 Do you see that? 16 A. I do. 17 Q. Was it Norfolk Southern's 18 understanding that the Trinity car, at the 19 time of -- on February 3rd and 4th and 5th 20 and 6th, was stable? 21 MR. FUKUMURA: Objection. 22 MS. PETTY: Objection. 23 THE WITNESS: Yes. 24 QUESTIONS BY MR. BRENZA: 25 Q. Now, there were -- there were|Page 49 1 Q. Okay. And the one was Hulcher? 2 A. Correct. 3 Q. And Cranemasters? 4 A. Correct. 5 Q. And R.J. Corman. 6 Right? 7 A. That's correct. 8 Q. And each of those companies, 9 what they do, they're -- the nature of their 10 company is they move cars around when they 11 derail. 12 Right? 13 MR. FUKUMURA: Objection. 14 THE WITNESS: That's correct. 15 QUESTIONS BY MR. BRENZA: 16 Q. They have special equipment 17 that they use to lift very heavy cars, train 18 cars. 19 Right? 20 A. Yes. 21 Q. And Cranemasters, you might 22 guess from its name, uses cranes. 23 Right? 24 A. Yes. 25 MS. PETTY: Objection.|
+|---|---|
+
+
+-----
+
+1        THE WITNESS: Yes, they use
+2    Mantis cranes.
+3 QUESTIONS BY MR. BRENZA:
+4    Q.   And Hulcher and R.J. Corman, I
+5 think they use something called a side
+6 loader; is that -- or something along those
+7 lines?
+8    A.   They use side booms.
+9    Q.   Side booms, right. Side booms.
+10        And they had -- all of those
+11 companies had their cranes and side booms and
+12 other equipment that they needed to move cars
+13 around for Norfolk Southern on the -- on the
+14 days before the vent and burn occurred.
+15        Right?
+16        MS. PETTY: Objection.
+17        THE WITNESS: Yes.
+18 QUESTIONS BY MR. BRENZA:
+19    Q.   And they in fact moved cars
+20 around, right, to get them out of the way?
+21    A.   Yes.
+22    Q.   Did any of those entities
+23 attempt to move the Trinity car?
+24    A.   No.
+25    Q.   Did anyone at Norfolk Southern
+
+
+1    and damaging the tank.
+2 QUESTIONS BY MR. BRENZA:
+3    Q.   If the bolster had been
+4 undamaged, would Norfolk Southern have
+5 re-railed the Trinity car?
+6        MR. FUKUMURA: Objection.
+7        MS. PETTY: Objection.
+8        THE WITNESS: There's two
+9    different things there.
+10        There could be certain damage
+11    to a bolster that would prevent it
+12    from being re-railed but would still
+13    allow us to move it.
+14        If the bolster had not
+15    sustained the damage that would have
+16    allowed NS to move the car, the car
+17    would have been moved.
+18 QUESTIONS BY MR. BRENZA:
+19    Q.   Who decided that the bolster
+20 damage on the Trinity car prevented Norfolk
+21 Southern from moving the car out of the way?
+22    A.   That was a combination of
+23 Hulcher personnel and NS mechanical.
+24    Q.   So I'm going to ask you a
+25 little more specifically because we've taken
+|Page 51 1 or their contractors ask them to move the 2 Trinity car? 3 MR. FUKUMURA: Objection. 4 MS. PETTY: Objection. 5 THE WITNESS: There was 6 walkaround done with Hulcher personnel 7 and Norfolk Southern mechanical 8 personnel to see about moving the car. 9 The damage to the bolsters 10 precluded that car from being able to 11 be hooked to with side booms or the 12 Mantis cranes to the bolsters. 13 MR. FUKUMURA: Can you spell 14 Mantis crane? 15 THE WITNESS: M-a-n-t-i-s-s 16 {sic}, I believe. 17 They were unable to hook to the 18 bolsters because of the twisting and 19 the damage to it. So the only way 20 they could have moved the car was to 21 dig under and wrap their cable around 22 the barrel of the tank and drag it. 23 And our mechanical personnel 24 wouldn't allow that, and our HAZMAT 25 personnel. Too much risk of twisting|Page 53 1 depositions of both of those entities now, 2 and nobody has actually said that they made 3 that decision. 4 So if you know, who did make 5 that decision? 6 A. Geoff Craker. 7 Q. Geoff Craker. 8 For Norfolk Southern? 9 A. Yes. 10 Q. Do you know who at Hulcher was 11 involved with that decision? 12 A. I do not know. There was three 13 Hulcher personnel doing the walkaround, but I 14 don't know them by name. 15 Q. Did Geoff Craker make that 16 decision entirely on his own, or did he have 17 a chain of command that he had to clear it 18 with? 19 A. I'm sure he had a chain of 20 command, but there would have been discussion 21 also with NS HAZMAT personnel, and NS HAZMAT 22 personnel certainly wouldn't sign off on that 23 kind of move. 24 Q. And that's -- but that was your 25 group.|
+|---|---|
+
+
+-----
+
+1        Right?
+2    A.   Right.
+3    Q.   So did you get presented with
+4 this question while you were at the site,
+5 whether -6    A.   I did not. It would have been
+7 broached with whoever was on site at the
+8 time. Probably Scott Gould.
+9    Q.   Did anybody suggest repairing
+10 the bolsters on the Norfolk Southern -- or on
+11 the Trinity car?
+12    A.   No, but that wouldn't even have
+13 been an option where the car was at.
+14    Q.   Did anyone else suggest other
+15 options for ways that the Trinity car could
+16 have been moved out of the way rather than
+17 being blown up?
+18        MS. PETTY: Objection.
+19        MR. FUKUMURA: Objection.
+20        THE WITNESS: Just the way
+21    described, with wrapping the cable
+22    around the barrel of the tank.
+23 QUESTIONS BY MR. BRENZA:
+24    Q.   That's the only other option
+25 that was considered?
+
+
+1 Trinity car through its vapor angle valve?
+2        MS. PETTY: Objection.
+3        MS. BROZ: Objection. Form.
+4        THE WITNESS: No, they would
+5    have unloaded out of the liquid line.
+6 QUESTIONS BY MR. BRENZA:
+7    Q.   Did anyone discuss whether to
+8 try to unload the Trinity car through its
+9 liquid line?
+10    A.   Not in the position the car was
+11 in. It was too close in proximity to other
+12 things going on, the other cars that still
+13 had what we feel were polymerization problems
+14 going on.
+15        The only -- couldn't have got a
+16 railcar there because of the derailment and
+17 otherwise, and you couldn't get trucks in
+18 there to where that car was to unload it.
+19    Q.   So I want to unpack that a
+20 little bit.
+21        The reason you -- the reason
+22 Norfolk Southern didn't attempt to unload the
+23 Trinity car through its liquid valve was that
+24 it was too close to other cars in the -- in
+25 the wreck that were deemed to be not stable.
+|Page 55 1 A. That was the only other option 2 brought to -- that the Hulcher said they 3 could to move the tank. That was the only 4 way they had. 5 Q. Did anyone discuss unloading 6 the Trinity car? 7 A. That would have been the 8 ultimate idea to do, to move the car, to get 9 it out of harm's way, was to unload it. 10 Q. Okay. But we discussed earlier 11 the vapor angle valve of the Trinity car was 12 functional. 13 Right? 14 A. The vapor valve was, but you 15 can't unload through a vapor valve. 16 Q. Why do you say that? 17 A. Because there's no liquid 18 against the bottom of the vapor valve. It's 19 in the vapor space of the car. You have to 20 unload out of a liquid line. 21 Q. Isn't it true that if the car 22 carry -- the Trinity car had not been in a 23 train wreck and had been delivered to its 24 intended destination, that the company that 25 received that car would have unloaded the|Page 57 1 Is that right? 2 A. That's correct. 3 Q. Cars that were on fire or had 4 suffered more damage? 5 A. That's correct. 6 Q. All right. So it was Trinity's 7 physical location and space that caused 8 Norfolk Southern to decide not to try to use 9 its vapor valve -- or its liquid valve? 10 MS. PETTY: Objection. 11 MR. FUKUMURA: Objection. 12 THE WITNESS: The location of 13 the car was the biggest deciding 14 factor, yes, and the damage to the 15 bolster not allowing it to be moved. 16 QUESTIONS BY MR. BRENZA: 17 Q. You also said that in order to 18 unload the Trinity car through its liquid 19 valve, you would have to have other railcar 20 or a series of trucks to receive the 21 material. 22 Right? 23 A. That's correct. 24 Q. And Norfolk Southern didn't 25 have a way to bring another rail tank car to|
+|---|---|
+
+
+-----
+
+1 the scene because the tracks were currently
+2 occupied with the wreck.
+3        Right?
+4        MS. PETTY: Objection.
+5        THE WITNESS: That's correct.
+6 QUESTIONS BY MR. BRENZA:
+7    Q.   And I didn't understand why
+8 you -- why trucks were not available.
+9        MS. PETTY: Objection.
+10        THE WITNESS: The proximity,
+11    you would have had to put personnel
+12    and trucks to unload the car as it
+13    set, plus the terrain where it was at.
+14    It was off down a hill. It just -15    there was not a way to safely unload
+16    that car.
+17 QUESTIONS BY MR. BRENZA:
+18    Q.   Okay. Do you fault Trinity in
+19 any way for those factors?
+20        MS. PETTY: Objection.
+21        THE WITNESS: No.
+22 QUESTIONS BY MR. BRENZA:
+23    Q.   Those are just consequences of
+24 it being in a train wreck.
+25        Right?
+
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   And a BLEVE occurs when
+3 there's -- the temperature and the pressure
+4 of a tank car gets too high.
+5        Right?
+6        MS. PETTY: Objection.
+7        THE WITNESS: It's referred to
+8    as a Boiling Liquid Expanding Vapor
+9    Explosion, and they occur when tanks
+10    are exposed to extreme heat, and
+11    pressure relief mechanisms can't keep
+12    up with the increase in pressure in
+13    the car.
+14 QUESTIONS BY MR. BRENZA:
+15    Q.   And I don't want to get into
+16 this in great detail, but I think you've
+17 already said that none of those things were
+18 true about the Trinity car.
+19        Right?
+20        MS. PETTY: Objection.
+21        THE WITNESS: I'm sorry, I'm
+22    not -23 QUESTIONS BY MR. BRENZA:
+24    Q.   Well, we have discussed the
+25 Trinity car's temperature, right, and it
+|Page 59 1 MS. PETTY: Objection. 2 MR. FUKUMURA: Objection. 3 THE WITNESS: That's correct. 4 QUESTIONS BY MR. BRENZA: 5 Q. Do you know what a BLEVE is? 6 Is that -- am I saying that right? 7 A. It's a BLEVE. 8 Q. BLEVE? Is that how you say it? 9 A. Yes. 10 Q. And that's another potentially 11 explosive event that can occur when you have 12 pressurized liquids or gases. 13 Right? 14 A. Involved in fires, yes. 15 Q. Involved in fires. 16 And like the concern about 17 polymerization we discussed earlier, a BLEVE 18 was another concern that Norfolk Southern was 19 taking into account in how it managed the 20 derailment. 21 Right? 22 MS. BROZ: Objection. Form. 23 THE WITNESS: It was a concern 24 during the fire for unified command. 25 That's a known phenomenon.|Page 61 1 wasn't at a concerning temperature? 2 Right? 3 MS. PETTY: Objection. 4 THE WITNESS: Yeah. Post-fire, 5 once the fires had stopped, BLEVE was 6 not a concern. 7 QUESTIONS BY MR. BRENZA: 8 Q. Okay. BLEVE was not a concern 9 for any of the cars? 10 MR. FUKUMURA: Objection. 11 MS. PETTY: Objection. 12 QUESTIONS BY MR. BRENZA: 13 Q. For any of the VC tank cars? 14 MR. FUKUMURA: Objection. 15 MS. PETTY: Objection. Outside 16 the scope. 17 THE WITNESS: A catastrophic 18 failure we worried about, but not 19 because of BLEVE. 20 QUESTIONS BY MR. BRENZA: 21 Q. Okay. You were worried about a 22 catastrophic failure because of possible 23 polymerization? 24 A. That's correct. 25 Q. But again, not with the Trinity|
+|---|---|
+
+
+-----
+
+1 car?
+2    A.   That's correct.
+3    Q.   Okay. Did you -- did you read
+4 the portion of the NTSB report where they
+5 examined samples from the various cars after
+6 the train wreck?
+7    A.   Yes.
+8    Q.   And one of the things that they
+9 were looking for was whether there was
+10 anything -- whether there's something called
+11 polyvinyl chloride.
+12        R i g h t ?
+13    A.   Correct.
+14    Q.   And polyvinyl chloride, it's a
+15 plastic material. I think most people are
+16 familiar with it, right?
+17        It's that white stuff that
+18 household plumbing's used -- uses now.
+19        MS. PETTY: Objection.
+20        MS. BROZ: Objection. Form.
+21        THE WITNESS:  Yes.
+22 QUESTIONS BY MR. BRENZA:
+23    Q.   And if there had been
+24 polymerization occurring in the -- in the
+25 cars, polyvinyl monomer would have been
+
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   And you don't quibble with
+3 t h a t .
+4        Do you?
+5        MS. PETTY: Objection.
+6        THE WITNESS:  I don't quibble
+7    with any of the testing, no.
+8 QUESTIONS BY MR. BRENZA:
+9    Q.   Okay. Does that cause you to
+10 understand that polymerization had not been
+11 occurring?
+12        MR. FUKUMURA: Objection.
+13        MS. PETTY: Objection.
+14        THE WITNESS: I understand
+15    that's what it indicates, but in a
+16    realtime emergency we have to deal
+17    with the facts we have on the ground.
+18 QUESTIONS BY MR. BRENZA:
+19    Q.   Understood.
+20    A.   And we have to plan for the
+21 worst.
+22    Q.   Understood.
+23        And I'm not suggesting
+24 otherwise, but I'm just asking you what it
+25 tells you after the fact.
+|Page 63 1 converting into polyvinyl chloride. 2 R ig h t ? 3 MR. FUKUMURA: Objection. 4 MS. PETTY: Objection. 5 THE WITNESS: The end product 6 of polymerization of vinyl chloride is 7 polyvinyl chloride, yes. 8 QUESTIONS BY MR. BRENZA: 9 Q. Okay. So by looking at whether 10 there was any polyvinyl chloride, that gives 11 you some insight into whether there really 12 had been any polymerization going on? 13 MR. FUKUMURA: Objection. 14 MS. PETTY: Objection. 15 THE WITNESS: That was the 16 contention, yes. 17 QUESTIONS BY MR. BRENZA: 18 Q. Yeah. 19 And what the NTSB found was 20 none of the samples showed any evidence of 21 polyvinyl chloride. 22 R ig h t ? 23 MS. PETTY: Objection. 24 THE WITNESS: That's what the 25 data said, yes.|Page 65 1 And now that you have time to 2 examine the situation and run tests, it tells 3 you that though you were concerned about 4 polymerization, it actually wasn't happening? 5 MR. FUKUMURA: Objection. 6 MS. PETTY: Objection. 7 THE WITNESS: That's what the 8 tests indicate, yes. 9 QUESTIONS BY MR. BRENZA: 10 Q. Okay. What are the roles of -- 11 I'm going to ask you about some of the 12 contractors that were involved in assisting 13 Norfolk Southern deal with the derailment. 14 The first one, SPSI, what was 15 their involvement? 16 A. SPSI would have been -- they 17 were the first contractor contacted. They're 18 based out of Washington, PA, so they were -- 19 they were even the closest at the time. 20 But this incident came in as a 21 derailment with fire. They also house our 22 firefighting equipment, and they're -- they 23 have an industrial firefighting brigade. 24 They are a high-hazard contractor for a 25 myriad of -- they're well-known across the|
+|---|---|
+
+
+-----
+
+1 rail industry and chemical industry.
+2        And then ultimately when we
+3 find vinyl chloride was there, they would
+4 have been there anyway because they're one -5 they're a CHLOREP contractor.
+6    Q.   Does SPSI assist Norfolk
+7 Southern in responding to train derailments?
+8    A.   Yes. Among other contractors,
+9 y e s .
+10    Q.   But that's a big part of the
+11 purpose of that company, right, is to assist
+12 railroad companies when they have
+13 derailments?
+14        MS. PETTY: Objection.
+15        MR. FUKUMURA: Objection.
+16        THE WITNESS: That is part of
+17    their business. They do quite a bit
+18    of other stuff, too.
+19 QUESTIONS BY MR. BRENZA:
+20    Q.   Has Norfolk Southern used
+21 SPS -- SPSI previously?
+22    A.   For decades.
+23    Q.   Was another one of the
+24 contractors Norfolk Southern decided to bring
+25 into the management of the derailment a
+
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   I'm just asking whether anyone
+3 else besides Norfolk Southern had any
+4 decision-making authority in whether to hire
+5 those guys.
+6        MS. PETTY: Objection.
+7        MR. FUKUMURA: Objection.
+8        THE WITNESS:  Not for Norfolk
+9    Southern. It -10 QUESTIONS BY MR. BRENZA:
+11    Q.   It was -12    A.   We were the ones that contacted
+13 them, yes.
+14    Q.   It was all Norfolk Southern?
+15    A.   Yes.
+16        MS. PETTY: Objection.
+17 QUESTIONS BY MR. BRENZA:
+18    Q.   Okay. And no -- none of the
+19 car companies or other companies had any -20 were even asked about whether those -21 whether those companies should be hired to
+22 manage the derailment?
+23    A.   No.
+24    Q.   Is it fair to say that Norfolk
+25 Southern took the lead in managing the
+|Page 67 1 company called SRS? 2 A. Yes. 3 Q. Is that another company that 4 specializes in dealing with train 5 derailments? 6 A. They are known in -- with the 7 railroads for train derailment. They 8 specifically were brought in out of Texas 9 because they're also another CHLOREP 10 contractor. 11 Q. Have they also worked for 12 Norfolk Southern previously? 13 A. Yes. 14 Q. Many times? 15 A. Not as often as SPSI because 16 SRS is based out of Texas, and we don't 17 really operate in Texas, so... 18 Q. Did anyone other than Norfolk 19 Southern decide to hire and bring into the 20 management of the derailment SPSI and SRS? 21 MR. FUKUMURA: Objection. 22 MS. PETTY: Objection. 23 THE WITNESS: I'm sorry, I'm 24 not exactly sure what you're -- 25|Page 69 1 derailment? 2 MS. PETTY: Objection. 3 MR. FUKUMURA: Objection. 4 THE WITNESS: No. We took the 5 lead in ultimately making the 6 derailment go away, but everything 7 that was done handling the derailment 8 during the emergency was done through 9 unified command. 10 QUESTIONS BY MR. BRENZA: 11 Q. And the unified command is a 12 group of interested parties physically 13 present at the site. 14 Right? 15 A. At the command post, yes. 16 Q. And but they don't necessarily 17 have expertise in managing train derailments. 18 Right? 19 MS. PETTY: Objection. 20 THE WITNESS: That -- that's 21 correct. 22 QUESTIONS BY MR. BRENZA: 23 Q. So that's why Norfolk Southern 24 decided it would hire these other entities, 25 SPSI and SRS, to come in and advise the|
+|---|---|
+
+
+-----
+
+1 incident command how to -- how to manage the
+2 derailment.
+3        Right?
+4        MR. FUKUMURA: Objection.
+5        THE WITNESS: Well, SPSI was
+6    called before there ever was a unified
+7    command.
+8 QUESTIONS BY MR. BRENZA:
+9    Q.   Okay.
+10    A.   They were just simply the
+11 incident commander there on site.
+12    Q.   But those were the companies
+13 that purported to have the expertise on what
+14 to do in a train derailment.
+15        Right?
+16        MS. PETTY: Objection.
+17        MR. FUKUMURA: Objection.
+18        THE WITNESS: Yes.
+19 QUESTIONS BY MR. BRENZA:
+20    Q.   Okay. And that's why Norfolk
+21 Southern, and only Norfolk Southern, decided
+22 to bring them into the situation?
+23        MS. PETTY: Objection.
+24        THE WITNESS: Yes.
+25        MR. BRENZA: Okay. Why don't
+
+
+1 Southern made any attempts to -- strike that.
+2        During the derailment, the days
+3 of the derailment, did Norfolk Southern make
+4 any requests to Trinity for any documents,
+5 specifications, paperwork, anything about the
+6 construction of the tank cars?
+7        MR. FUKUMURA: Objection.
+8        MS. PETTY: Objection. Outside
+9    the scope.
+10        THE WITNESS: No.
+11 QUESTIONS BY MR. BRENZA:
+12    Q.   We talked a little bit about
+13 the pressure relief device that's part of the
+14 design of the 105J tank cars.
+15        Right?
+16    A.   Yes.
+17        MS. PETTY: Objection.
+18 QUESTIONS BY MR. BRENZA:
+19    Q.   And you're -- are you aware
+20 that the NTSB tested the pressure relief
+21 device on the -- from the Trinity car?
+22    A.   Yes.
+23    Q.   And the NTSB found, even after
+24 the derailment, that the pressure release
+25 device on the Trinity car was functioning
+|Page 71 1 we take a break. We've been going 2 about an hour. 3 VIDEOGRAPHER: We are now going 4 off the video record. The time is 5 currently 10:01 a.m. 6 (Off the record at 10:01 a.m.) 7 VIDEOGRAPHER: We are now back 8 on the video record. The time is 9 currently 10:17 a.m. 10 QUESTIONS BY MR. BRENZA: 11 Q. Mr. Wood, I just have a few 12 more, and then I'm going to pass you to one 13 of the other people that want to ask you 14 questions. 15 A couple other areas first. 16 You said you did know something about the 17 company Trinity. 18 Right? 19 A. Yes. 20 Q. Have you talked to anyone at 21 Trinity about the East Palestine derailment? 22 A. No. 23 Q. You also -- we also discussed 24 the -- well, let me back up. 25 Have you made -- has Norfolk|Page 73 1 properly. 2 Right? 3 MS. PETTY: Objection. 4 THE WITNESS: They found no 5 defects with it. 6 MR. BRENZA: Okay. I'm going 7 to reserve the rest of my time. I 8 have a little more time to ask you, 9 but there may be some issues that come 10 up from other questioning, so I'm 11 going to pass you now to the next 12 person who wants to talk. 13 Thank you. Thank you very 14 much. 15 MS. BROZ: Want to go off the 16 record? 17 VIDEOGRAPHER: Want to go off 18 the record? 19 MS. BROZ: Yes. 20 VIDEOGRAPHER: We are now going 21 off the video record. The time is 22 currently 10:19 a.m. 23 (Off the record at 10:19 a.m.) 24 VIDEOGRAPHER: We are now back 25 on the video record. The time is|
+|---|---|
+
+
+-----
+
+1    currently 10:22 a.m.
+2        (Wood 30(b)(6) Exhibit 3 marked
+3    for identification.)
+4        DIRECT EXAMINATION
+5 QUESTIONS BY MS. BROZ:
+6    Q.   Good morning, Mr. Wood. My
+7 name is Alycia Broz, and I represent Oxy
+8 Vinyls. We met before in your individual
+9 deposition. It's good to see you back again
+10 today.
+11    A.   Good to see you.
+12    Q.   All right. I'm going to hand
+13 you what we've marked as Deposition Exhibit 3
+14 and ask you to take a look at that.
+15        MR. FUKUMURA: Can you make
+16    sure we get one?
+17        MS. BROZ: It's coming around.
+18        MR. FUKUMURA: Yep.
+19 QUESTIONS BY MS. BROZ:
+20    Q.   Mr. Wood, have you had a chance
+21 to look at what we've marked as Deposition
+22 Exhibit 3?
+23    A.   Yes.
+24    Q.   Do you recognize this document?
+25    A.   Yes.
+
+
+1 Exhibit 3?
+2    A.   Correct.
+3    Q.   And you didn't review any
+4 additional deposition testimony in
+5 preparation for answering questions about
+6 Exhibit A of Deposition Exhibit 3?
+7    A.   Correct.
+8    Q.   In preparing for your
+9 deposition today, did you speak with anyone
+10 from SRS or SPSI?
+11    A.   I did not speak with them. I
+12 reviewed their depositions.
+13    Q.   And how about from ESI? In
+14 preparing for your deposition today, did you
+15 speak with anybody from ESI?
+16    A.   No.
+17    Q.   How about for Cranemasters or
+18 Hulcher? Did you speak with them in
+19 preparation for your deposition exhibit
+20 today -- or your deposition today?
+21        MR. FUKUMURA: Objection.
+22        THE WITNESS: No.
+23 QUESTIONS BY MS. BROZ:
+24    Q.   During the course of the -25 this litigation, did you attend any of the
+|Page 75 1 Q. I want to turn to the last page 2 of Deposition Exhibit 3 that's marked 3 Exhibit A. 4 Are you there? 5 A. Yes. 6 Q. Are you prepared to testify or 7 answer questions about the topics that are 8 listed in Deposition Exhibit A? 9 MS. PETTY: Objection. 10 THE WITNESS: Yes. 11 QUESTIONS BY MR. BROZ: 12 Q. Earlier today you testified 13 about what you did to prepare for your 14 deposition today. 15 Did you do anything differently 16 to prepare for the topics that Oxy Vinyls 17 noticed in Exhibit A of Exhibit 3? 18 A. No, I don't think so. 19 Q. So you did not talk to anyone 20 else, other than the individuals that you 21 identified this morning? 22 A. Correct. 23 Q. And you didn't review any 24 additional documents in preparation for 25 answering questions about Exhibit A of|Page 77 1 deposition preparation sessions for any of 2 the other Norfolk Southern witnesses? 3 A. No. 4 Q. Have we talked about everything 5 that you've done to prepare for your 6 deposition today? 7 A. Yes. 8 Q. I believe this morning you 9 testified that you spoke with Meghan 10 Achimasi? 11 A. Yes. 12 Q. And why did you speak with 13 Ms. Achimasi in preparing for your deposition 14 today? 15 A. She had had conversations with 16 Ms. Stegmann, a counterpart with Oxy who she 17 deals with. Meghan is in our marketing 18 department, and she had had conversations, 19 initiated some conversations, with Oxy on the 20 4th of February and then subsequently looped 21 me in on a conversation with Ms. Stegmann. 22 Q. And when did she loop you in on 23 the conversation with Ms. Stegmann? 24 A. It would have been on the 25 evening of the 4th.|
+|---|---|
+
+
+-----
+
+1    Q.   Of February?
+2    A.   Of February, I'm sorry.
+3    Q.   Let's break these down into two
+4 separate conversations then.
+5        What did Ms. Achimasi say that
+6 she spoke to Ms. Stegmann about on
+7 February 4, 2023?
+8    A.   Well, her initial conversations
+9 were to -- were part of notifications
+10 about -- to customers whose cars were
+11 involved in the derailment, just some of
+12 their normal notification they do. That's
+13 how the first notifications are -- or the
+14 first conversations were about.
+15    Q.   Okay. Did she have more than
+16 one conversation with Ms. Stegmann?
+17    A.   Yes.
+18    Q.   All right. So what was the
+19 second conversation about?
+20    A.   There was conversations between
+21 Ms. Achimasi and Ms. Stegmann about some
+22 concerns Oxy had about whether a BLEVE model
+23 had been done and whether the one-mile
+24 evacuation was sufficient.
+25        Subsequent, I think Meghan gave
+
+
+1    personnel had been the initial
+2    Chemtrac notifications that went
+3    through David Patten, who was not on
+4    site, so...
+5 QUESTIONS BY MS. BROZ:
+6    Q.   All right. Can we be specific
+7 when we're talking about these conversations,
+8 since there are two "shes," so we're not
+9 ambiguous as to which "she" we're referring
+10 to?
+11    A.   Yes, ma'am, I apologize.
+12        Ms. Stegmann wanted to speak
+13 with somebody who was actually on site for an
+14 update and relay those messages about -15 asking about a BLEVE model.
+16    Q.   Did Ms. Achimasi and
+17 Ms. Stegmann speak about anything else on the
+18 second conversation?
+19    A.   Just general site conditions,
+20 if there were any upset -- updates.
+21    Q.   Anything else?
+22    A.   And she was given my phone -23 I'm sorry, Ms. Stegmann was given my phone
+24 number.
+25    Q.   By Ms. Achimasi?
+|Page 79 1 Ms. Stegmann my phone number to reach out to 2 me directly at the site. 3 Stegmann had tried to reach 4 out; I was in meetings with NTSB at the time. 5 And so the next conversation was when she 6 reached back out to Ms. Achimasi because she 7 couldn't get in touch with me. 8 Q. Okay. Let's break these down 9 so we don't get confused, if that's okay -- 10 A. Okay. 11 Q. -- and take it in parts and 12 pieces. 13 A. Okay. 14 Q. So the second conversation you 15 had with Ms. -- let's start that again. 16 The second conversation that 17 Ms. Stegmann had with Ms. Achimasi was about 18 whether the BLEVE model was prepared 19 properly. 20 Correct? 21 MR. FUKUMURA: Objection. 22 THE WITNESS: That was part of 23 it. She was -- she wanted more 24 site-direct information because the 25 previous conversations with Oxy|Page 81 1 A. By Ms. Achimasi, yes. 2 Q. Did anything else -- was 3 anything else discussed on the second 4 conversation? 5 A. No. 6 Q. And then were these the only 7 two conversations that Ms. Stegmann had with 8 Ms. Achimasi on February 4th of 2023? 9 A. No. The next conversation 10 would have been about nine o'clock when she 11 couldn't -- Ms. Stegmann could not get in 12 touch with me directly. 13 Q. 9 p.m.? 14 A. I think it was about 9, yes. 15 Q. So Ms. -- because Ms. Stegmann 16 could not get in touch with you, Ms. Stegmann 17 called back Ms. Achimasi? 18 A. That's correct. 19 Q. Okay. What did they discuss on 20 the 9 p.m. call on February 4th? 21 A. Meghan reached out to me and 22 got me looped into a conference call. 23 Q. So the three of you were on a 24 conference call? 25 A. Yes.|
+|---|---|
+
+
+-----
+
+1    Q.   On 9 p.m. on February 4th?
+2    A.   I believe that's -- I believe
+3 that time's correct.
+4    Q.   Okay.
+5    A.   Somewhere in that neighborhood.
+6    Q.   Great.
+7        And then what did the three of
+8 you discuss?
+9    A.   Well, the initial conversation
+10 was she was trying to get clarification about
+11 the one-mile evacuation zone. And I
+12 explained to her that that was -- the
+13 one-mile evacuation is the -- recommended in
+14 the DOT Emergency Response Guide when a tank
+15 car of vinyl chloride is involved in fire.
+16    Q.   Did you discuss anything else
+17 on that call?
+18    A.   Would have just been any
+19 general site update at the time. Fires were
+20 still ongoing.
+21    Q.   Anything else?
+22    A.   Well, I think the question was
+23 asked again about the BLEVE model, but -- and
+24 one was subsequently done.
+25    Q.   Was anything else discussed
+
+
+1    A.   The same things that were
+2 expressed about the BLEVE model and site
+3 conditions and concerns about whether a
+4 one-mile evacuation was sufficient.
+5    Q.   Did they discuss anything else?
+6    A.   Not to my knowledge, no.
+7    Q.   In preparing for your
+8 deposition, did Ms. Achimasi relay any other
+9 conversations she had with anyone else from
+10 Oxy Vinyls between February 3rd and
+11 February 6, 2023?
+12    A.   No.
+13    Q.   So we've talked about all the
+14 conversations that Ms. Achimasi has had with
+15 anyone from Oxy Vinyls between February 3rd
+16 and February 6, 2023?
+17    A.   Yes.
+18    Q.   I'm going to be doing a little
+19 bit of cleanup from this morning's
+20 deposition, so I apologize if I'm jumping
+21 around a little bit. If you're confused at
+22 any time as to what I'm asking about, please
+23 ask me.
+24    A.   Okay.
+25    Q.   Okay. You understand that
+|Page 83 1 during that call? 2 A. I don't believe so. 3 Q. Did Ms. Achimasi have any other 4 conversations with Ms. Stegmann between 5 February 3rd and February 6, 2023? 6 A. No. 7 Q. Did you have any conversations, 8 other than what we've discussed, with 9 Ms. Achimasi between February 3rd and 10 February 6, 2023? 11 A. No. 12 MR. FUKUMURA: With anyone? 13 MS. BROZ: It's with 14 Ms. Achimasi. 15 QUESTIONS BY MS. BROZ: 16 Q. Is that clear to you, Mr. Wood? 17 A. Yes. 18 Q. Okay. Did Ms. Achimasi have 19 any other conversa -- let me -- let me start 20 that again. 21 Did Ms. Achimasi speak with 22 Ms. Hart between February 3rd and February 6, 23 2023? 24 A. Yes. 25 Q. And what did they discuss?|Page 85 1 TILX402025, GATX95098, OCPX80235, OCPX80179, 2 and OCPX80370 were the five vinyl chloride 3 railcars that were part of the derailment in 4 East Palestine? 5 A. That's correct. 6 Q. Has Norfolk Southern produced 7 all of the temperature readings from the five 8 vinyl chloride railcars that were taken by 9 Norfolk Southern or its contractors between 10 February 3rd and February 6, 2023? 11 A. To my knowledge, all data has 12 been provided. 13 Q. Has Norfolk Southern withheld 14 from its production any temperature readings 15 of the five vinyl chloride railcars that were 16 taken between February 3rd and February 6, 17 2023? 18 A. We have not. 19 Q. And the same for the pressure 20 readings. Has Norfolk Southern produced all 21 of the pressure readings of the five vinyl 22 chloride railcars that were taken by Norfolk 23 Southern or its contractors between 24 February 3rd and February 6, 2023? 25 MR. FUKUMURA: Objection.|
+|---|---|
+
+
+-----
+
+1        THE WITNESS: There was only
+2    pressure taken on one car, the TILX
+3    car, and all that data has been
+4    provided.
+5 QUESTIONS BY MS. BROZ:
+6    Q.   And you have not withheld from
+7 your production any pressure readings that
+8 were taken from the five vinyl chloride
+9 railcars?
+10        MR. FUKUMURA: Objection.
+11        THE WITNESS: We have not.
+12        (Wood 30(b)(6) Exhibit 4 marked
+13    for identification.)
+14 QUESTIONS BY MS. BROZ:
+15    Q.   Mr. Wood, I'm going to hand you
+16 what we've marked as Deposition Exhibit 4 and
+17 ask you to take a look at that.
+18    A.   Yes.
+19    Q.   Do you recognize this document?
+20    A.   Yes.
+21    Q.   And what is it?
+22    A.   It's an e-mail from Ron Wray.
+23    Q.   To whom?
+24    A.   To Ruben Payan. He's with
+25 NTSB. He was the lead for NTSB.
+
+
+1        THE WITNESS: With the
+2    exception of the statement about
+3    temperature measurements were tracked
+4    on the spreadsheet until 1 a.m. -5 QUESTIONS BY MS. BROZ:
+6    Q.   Okay. What is inaccurate about
+7 that?
+8    A.   -- on February 6th.
+9        We tracked temperatures all the
+10 way up through the morning.
+11    Q.   Do you know when you stopped
+12 tracking temperatures in the morning?
+13    A.   I would have to go back and
+14 refer to the spreadsheets, the ultimate
+15 spreadsheets, but I believe the temperatures
+16 were taken all the way up till one o'clock.
+17    Q.   On February 6th?
+18    A.   On -- yes. In the afternoon.
+19    Q.   Other than that, does this
+20 accurately describe the process that was used
+21 to take and record temperature readings of
+22 the five vinyl chloride railcars?
+23    A.   Yes.
+24        With the exception -- I'm
+25 sorry. With the exception there would have
+|Page 87 1 Q. Okay. And what is the date of 2 this e-mail? 3 A. This is April 13th. 4 Q. Of what year? 5 A. 2023. 6 Q. This is also marked as Group D, 7 Exhibit 9, from the National Transportation 8 Safety Board investigation hearing? 9 A. Yes. 10 Q. I want you to read through the 11 e-mail for me, if you would, please. 12 A. I need these glasses. 13 Out loud or just -- 14 Q. Just to yourself. 15 A. Okay. 16 Q. I want to ask you some 17 questions about it. 18 A. Okay. 19 Q. Does the e-mail between Ron 20 Wray and Payan, Ruben, accurately describe 21 the process that was used to take and record 22 temperature readings from the five vinyl 23 chloride railcars between February 3rd and 24 February 6, 2023? 25 MS. PETTY: Objection.|Page 89 1 been shift change at 6 a.m., and those 2 numbers wouldn't have been relayed to me or 3 Jon. They would have been relayed to 4 probably Scott Deutsch. 5 Q. And when Scott Deutsch received 6 those numbers after 6 a.m., would they have 7 also been recorded on the same spreadsheet? 8 A. Yes. 9 Q. And did Scott Deutsch then 10 record the temperature from 6 a.m. until the 11 end of the day on February 6, 2023? 12 A. Until temperature readings 13 were -- ceased to be taken leading up to the 14 vent and burn. 15 Q. And Scott Deutsch is an 16 employee of Norfolk Southern? 17 A. Yes. 18 Q. Did anyone other than Scott 19 Deutsch record temperatures between 6 a.m. on 20 February 6th up until the time of the vent 21 and burn? 22 A. I don't believe so, no. 23 Q. And is this, what we've marked 24 as Deposition Exhibit 4, accurate in that 25 SPSI was the only -- let me try that again.|
+|---|---|
+
+
+-----
+
+1        What we've marked as Deposition
+2 Exhibit 4, turning your attention back to
+3 that, did only SPSI and its employees take
+4 temperature readings from the five vinyl
+5 chloride tank cars?
+6        MS. PETTY: Objection.
+7        THE WITNESS: It was SPSI
+8    employees who did the temperatures.
+9 QUESTIONS BY MS. BROZ:
+10    Q.   And no one else took
+11 temperatures from the cars?
+12    A.   Not to my knowledge, no.
+13        (Wood 30(b)(6) Exhibit 5 marked
+14    for identification.)
+15 QUESTIONS BY MS. BROZ:
+16    Q.   Mr. Wood, I've handed you what
+17 we've marked as Deposition Exhibit 5 and ask
+18 you to look through that.
+19    A.   Okay.
+20    Q.   Have you seen this document
+21 b e f o r e ?
+22    A.   I have not.
+23    Q.   I will represent to you that it
+24 was produced by SPSI in this litigation.
+25        O k a y ?
+
+
+1    A.   Yes.
+2    Q.   And then the next car is the
+3 O C P X 8 0 2 3 5 .
+4        Is that right?
+5    A.   Yes.
+6    Q.   And that they registered a
+7 temperature reading of 67 degrees Fahrenheit.
+8        Is that right?
+9    A.   Yes, that's what's shown.
+10    Q.   Then the next car is OCPX80179?
+11    A.   Yes.
+12    Q.   And they registered a
+13 temperature reading of 85 degrees Fahrenheit.
+14        Is that correct?
+15    A.   Yes.
+16    Q.   And the next car is GATX095098.
+17        C o r r e c t ?
+18    A.   Correct.
+19    Q.   And the temperature reading of
+20 60 degrees Farenheit at three different
+21 places in the jacket.
+22        Is that right?
+23    A.   Yes.
+24    Q.   And this was all on February 5,
+|Page 91 1 A. Okay. 2 Q. Let's turn to the bottom 3 right-hand corner, the Bates number, SPSI 4 0 0 1 7 4 7 . 5 A. Uh-huh. 6 Q. Are you there? 7 A. Yes. 8 Q. And you see that the five vinyl 9 chloride railcars that we've been talking 10 about today are listed on this piece of 11 p a p e r . 12 C o r r e c t ? 13 A. That's correct. 14 Q. And it says that the vinyl 15 chloride cars are listed from east to west, 16 at the very top there. 17 A. Correct. 18 Q. And that the TILX402025 was the 19 eastern-most vinyl chloride railcar. 20 C o r r e c t ? 21 A. Correct. 22 Q. And SPSI registered a 60 PSI 23 pressure gauge reading at 12:30 p.m. on 24 February 5th. 25 C o r r e c t ?|Page 93 1 Is that correct? 2 A. Correct. 3 Q. And then the last car is the 4 O C P X 8 0 3 7 0 . 5 Do you see that? 6 A. Yes. 7 Q. And it says they took a 8 temperature reading of 135 degrees Fahrenheit 9 at 14:30 on February 5th. 10 Is that right? 11 A. Yes, that was the temperature 12 from the -- from the tank shell they got. 13 Q. And 14:30 is 2:30 p.m.? 14 A. Yes. 15 Q. And then they took another 16 temperature reading of 138 degrees Fahrenheit 17 at 15:30 on February 5th. 18 Is that right? 19 A. Yes. 20 Q. And that was 3:30 p.m. 21 Is that right? 22 A. Yes. 23 Q. And then a temperature reading 24 of 135 degrees Fahrenheit at 16:30 on 25 February 5th.|
+|---|---|
+
+
+-----
+
+1        Is that right?
+2    A.   That's what's listed, yes.
+3    Q.   And that's 4:30 p.m.?
+4    A.   Correct.
+5    Q.   And then after the parens, it
+6 says two other holes in the jackets, they
+7 took temperature readings of 100 degrees
+8 F a h r e n h e i t .
+9        Do you see that?
+10    A.   I see that.
+11    Q.   And that was on February 5th at
+12 4:30 p.m.?
+13    A.   Yes.
+14    Q.   Did Norfolk Southern ever
+15 record those two temperature readings of
+16 100 degrees Fahrenheit on OCPX80370?
+17    A.   No.
+18    Q.   And why not?
+19    A.   The temperature that was
+20 transmitted to us was the 135s and the 138s
+21 from the open section of the jacket where
+22 they had true access. They knew they were
+23 getting the temperature from the tank.
+24    Q.   Were the 100-degree temperature
+25 readings transmitted to you?
+
+
+1 one.
+2        Let me know when you've had a
+3 chance to look at the document.
+4    A.   Okay.
+5    Q.   Okay. Mr. Wood, would you
+6 please identify this document for us?
+7    A.   This is an e-mail from myself
+8 to Helen Hart with some attachments.
+9    Q.   And what is the date of the
+10 e - m a i l ?
+11    A.   February 6th.
+12    Q.   And you're responding to an
+13 e-mail that Helen wrote to you and others
+14 also on February 6th.
+15        Is that right?
+16    A.   Yes.
+17    Q.   And one of the attachments to
+18 those e-mail is a spreadsheet.
+19        Is that right?
+20    A.   It appears to be two
+21 s p r e a d s h e e t s .
+22    Q.   Let's talk about the first
+23 spreadsheet. And I believe it's called Tank
+24 Car Pressures by the Hour.
+25        Do you see that?
+|Page 95 1 A. No. 2 Q. Were the 100 temperature degree 3 readings transferred to anyone at Norfolk 4 S o u t h e r n ? 5 A. No. 6 Q. When was the first time that 7 you became aware of the 100-degree 8 temperature readings on OCPX80370? 9 A. From this document. 10 Q. Today? 11 A. Yes. 12 Q. And you're answering as the 13 corporate representative of Norfolk Southern? 14 A. Yes. 15 Q. So the first time that Norfolk 16 Southern became aware of these 100-degree 17 temperature readings is today? 18 A. Yes. 19 Q. You can set that document 20 aside. 21 (Wood 30(b)(6) Exhibit 6 marked 22 for identification.) 23 QUESTIONS BY MS. BROZ: 24 Q. Everybody is going to need to 25 pull their reading glasses out for this next|Page 97 1 A. Yes. 2 Q. Is that actually tank car 3 temperatures by the hour? 4 A. That is correct. 5 Q. And you sent that spreadsheet 6 to Ms. Hart on February 6th. 7 Is that right? 8 A. According to this e-mail, yes. 9 Q. And was this the spreadsheet 10 that you were maintaining on the ground at 11 East Palestine where you were recording the 12 temperature measurements taken by SPSI? 13 A. Yes. 14 Q. Before sending this e-mail to 15 Ms. Hart on February 6th, did you change any 16 of the temperature readings that are 17 contained in the attachment? 18 A. They don't appear to be. 19 Q. They look accurate to you? 20 A. Yes. 21 Q. And it's hard to see, I know, 22 but would you agree with me that between 23 16:00 on February 4th and 05:00 on 24 February 6th, Norfolk Southern recorded 25 temperatures for OCPX80370?|
+|---|---|
+
+
+-----
+
+1    A.   Yes.
+2    Q.   And that would be between
+3 4 p.m. Eastern on February 5th and 5 a.m.
+4 Eastern on February 6th?
+5    A.   Yes.
+6    Q.   And it looks like Norfolk
+7 Southern recorded temperatures at the top of
+8 each hour.
+9        Is that accurate?
+10    A.   Yes, it was right around that
+11 time. Not necessarily exact.
+12    Q.   Okay. You can set that aside.
+13        (Wood 30(b)(6) Exhibit 7 marked
+14    for identification.)
+15 QUESTIONS BY MS. BROZ:
+16    Q.   Mr. Wood, I've handed you what
+17 we've marked as Deposition Exhibit 7.
+18        Do you recognize this document?
+19    A.   Yes.
+20    Q.   And what is it?
+21    A.   This is a graph of temperature
+22 data that was shown at the NTSB hearing in
+23 June of 2023.
+24    Q.   Is it marked as NTSB Group
+25 Exhibit D, 32?
+
+
+1    A.   Yes.
+2    Q.   And you -- and I just want to
+3 confirm before we get to that.
+4        You were a member of the
+5 hazardous materials committee?
+6    A.   This particular group with -7    Q.   Yes.
+8    A.   Yes.
+9    Q.   And your name is actually shown
+10 on page 5 of 158.
+11        Is that correct?
+12    A.   Should be, yes. Let me go
+13 confirm the page.
+14        Y e s .
+15    Q.   As a member of the hazardous
+16 materials group?
+17    A.   Yes.
+18    Q.   And you had a chance to review
+19 this report before it was issued to the
+20 p u b l i c ?
+21        MS. PETTY: Objection.
+22        THE WITNESS:  I did.
+23 QUESTIONS BY MS. BROZ:
+24    Q.   And you could make any
+25 corrections that you wanted to?
+|Page 99 1 A. Yes. 2 Q. And the cover page of this 3 document, which is NS-CA-1622488, says that 4 this data was provided by Norfolk Southern 5 Railway. 6 Is that correct? 7 A. Yes. 8 Q. If we turn to the actual chart. 9 And this chart represents that 10 no data was provided between 1 a.m. on 11 February 5th and 7 a.m., roughly, on 12 February 6th. 13 Is that correct? 14 MS. PETTY: Objection. 15 THE WITNESS: That's what it 16 shows. Do not know why that data was 17 not there. 18 QUESTIONS BY MS. BROZ: 19 Q. And can you turn back to 20 Deposition Exhibit 1? 21 And I want you to turn back to 22 page 92 of 158. 23 A. Yes. 24 Q. Okay. And if you look at the 25 Table 12.|Page 101 1 MS. PETTY: Objection. 2 THE WITNESS: Yes. 3 QUESTIONS BY MS. BROZ: 4 Q. Let's go back to Table 12, 5 page 92 of 158. 6 A. Yes. 7 Q. And you also see that there are 8 no temperature readings between 1 a.m. on 9 February 6th and 7 a.m. on -- 1 a.m. on 10 February 5th and 7 a.m. on February 6th. 11 Is that correct? 12 A. I see that, yes. 13 Q. Why didn't Norfolk Southern 14 provide temperature readings it took between 15 1 a.m. on February 5th and 7 a.m. on 16 February 6th to the NTSB? 17 MS. PETTY: Objection. 18 THE WITNESS: I'm not sure why. 19 It should have been. All that data 20 was there. If they got sent a 21 different version of the spreadsheet, 22 an earlier version, I cannot explain. 23 QUESTIONS BY MS. BROZ: 24 Q. Your testimony today is that 25 Norfolk Southern provided the temperature|
+|---|---|
+
+
+-----
+
+1 readings between 1 a.m. on February 5th and
+2 7 a.m. on February 6th to the NTSB prior to
+3 this report being issued?
+4        MS. PETTY: Objection.
+5        THE WITNESS: I know as of
+6    today, everything's been provided.
+7 QUESTIONS BY MS. BROZ:
+8    Q.   I'm not asking as of today.
+9 I'm asking as of the date of this report.
+10    A.   I am not sure by the date of
+11 this report.
+12    Q.   And you prepared to answer
+13 questions about the temperature readings that
+14 were taken prior to being deposed today?
+15    A.   Yes.
+16    Q.   And you did not determine
+17 whether this information was provided to the
+18 NTSB prior to the date of this report?
+19    A.   I recorded the data in the
+20 spreadsheet up until 5 a.m. that morning.
+21 How that information didn't get translated
+22 immediately to NTSB, I can't say.
+23    Q.   And in fact, you sent that
+24 spreadsheet to Ms. Hart on February 6th?
+25        MS. PETTY: Objection.
+
+
+1    A.   Yes.
+2    Q.   And we're going to focus on
+3 Topic Number 7 now.
+4    A.   Okay.
+5    Q.   Give you a chance to read that.
+6    A.   Yes.
+7    Q.   Okay. Can we have an
+8 understanding that all of the questions on
+9 this topic will be for the time period
+10 between February 3rd and February 8, 2023?
+11    A.   Yes.
+12    Q.   Keeping in mind that time
+13 period, did a representative from Oxy Vinyls
+14 attend any of the formal meetings between
+15 Norfolk Southern and unified command?
+16        MR. FUKUMURA: Objection.
+17        THE WITNESS: There were a lot
+18    of folks in the command post. I know
+19    Oxy personnel, once they arrived on
+20    site, were present at the command
+21    post.
+22        The number of people and who
+23    exactly was in a meeting, I couldn't
+24    say.
+25
+|Page 103 1 THE WITNESS: Yes. 2 QUESTIONS BY MS. BROZ: 3 Q. So Ms. Hart and others at 4 Norfolk Southern had a copy of the 5 spreadsheet with all of the data in it as of 6 February 6th? 7 MS. PETTY: Objection. 8 THE WITNESS: Yes. 9 QUESTIONS BY MS. BROZ: 10 Q. You can set that aside. 11 Can you turn to what we've 12 marked -- let me think here. Your exhibit 13 notice. What did we mark your exhibit 14 notice? Exhibit 3. 15 Can you turn to Exhibit 3, 16 please? 17 A. Well, okay. 18 Q. Okay. 19 A. Sorry. 20 Q. Are you there? 21 A. Yes, I'm sorry. 22 Q. That's okay. There's a lot of 23 paper flying around. 24 And if you could turn to 25 Exhibit A.|Page 105 1 QUESTIONS BY MS. BROZ: 2 Q. Do you have any specific 3 recollection of Oxy Vinyls attending any of 4 the formal meetings between Norfolk Southern 5 and unified command? 6 MR. FUKUMURA: Objection. 7 THE WITNESS: Well, the 8 meetings were not between Norfolk 9 Southern -- Norfolk Southern was part 10 of unified command, and we were -- 11 Norfolk Southern was present at those, 12 all of those meetings. 13 QUESTIONS BY MS. BROZ: 14 Q. And was Oxy Vinyls present at 15 any of those meetings? 16 A. They were present at the 17 command post. I can't say what meetings they 18 sit in on and what meetings they didn't. I 19 do not know. This was a very large group of 20 individuals. 21 Q. Was Oxy Vinyls ever present at 22 any meeting with unified command? 23 A. I cannot say. 24 Q. And you're testifying as the 25 corporate representative of Norfolk Southern?|
+|---|---|
+
+
+-----
+
+1    A.   Yes.
+2    Q.   And no one from Norfolk
+3 Southern knows whether anyone from Oxy Vinyls
+4 attended any of the meetings with unified
+5 command?
+6    A.   That's correct.
+7    Q.   Did a representative from Oxy
+8 Vinyls attend any of the formal meetings
+9 between Norfolk Southern and the incident
+10 commander?
+11        MR. FUKUMURA: Objection.
+12        THE WITNESS: No.
+13 QUESTIONS BY MS. BROZ:
+14    Q.   Did a representative from Oxy
+15 Vinyls attend any formal meetings between
+16 Norfolk Southern and the US or the Ohio EPA?
+17        MR. FUKUMURA: Objection.
+18        MS. PETTY: Objection.
+19        THE WITNESS: I'm not aware of
+20    any.
+21        MS. BROZ: We've been going
+22    about an hour. If we could take a
+23    break so I could look at my questions.
+24        VIDEOGRAPHER: We are now going
+25    off the video record. The time is
+
+
+1        THE WITNESS: Correct.
+2 QUESTIONS BY MS. BROZ:
+3    Q.   Between the time that the
+4 pressure relief devices activated and the
+5 time that they -- let's strike that.
+6        Between February 3rd and
+7 February 6, 2023, did Norfolk Southern
+8 believe that the vinyl chloride pressure
+9 relief devices were not operating properly?
+10        MS. PETTY: Objection.
+11        THE WITNESS:  When the PRDs
+12    activated, which I don't believe the
+13    first ones activated until after
+14    midnight into the 4th, I don't have
+15    the exact time, but they appeared to
+16    be operating properly.
+17 QUESTIONS BY MS. BROZ:
+18    Q.   So Norfolk Southern believed as
+19 long as the PRDs were activating, they were
+20 operating properly?
+21        MS. PETTY: Objection.
+22        THE WITNESS: All we could tell
+23    is they were operating.
+24 QUESTIONS BY MS. BROZ:
+25    Q.   And is it the function of a PRD
+|Page 107 1 currently 11 a.m. 2 (Off the record at 11:00 a.m.) 3 VIDEOGRAPHER: We are now back 4 on the video record. The time is 5 currently 11:12 a.m. 6 QUESTIONS BY MS. BROZ: 7 Q. Mr. Wood, I want to talk again 8 about the five vinyl chloride railcars. 9 Okay? 10 A. Okay. 11 Q. So I'm jumping around. I'm 12 just trying to tell you where I'm going. 13 At some point in time between 14 February 3rd and February 6, 2023, the 15 pressure relief devices in the five vinyl 16 chloride railcars activated. 17 Is that correct? 18 MR. FUKUMURA: Objection. 19 THE WITNESS: Correct. 20 QUESTIONS BY MS. BROZ: 21 Q. At some point in time, all five 22 vinyl chloride railcars' pressure relief 23 devices stopped activating. 24 Is that correct? 25 MR. FUKUMURA: Objection.|Page 109 1 to go off or to activate when a railcar is 2 heated up or the pressure increases? 3 MS. PETTY: Objection. 4 THE WITNESS: The pressure 5 relief device is designed to activate 6 at a set pressure to vent excess 7 pressure and then reclose. 8 QUESTIONS BY MS. BROZ: 9 Q. And all five vinyl chloride 10 railcars' pressure relief devices vented 11 excess pressure at some point between 12 February 3rd and February 6, 2023? 13 A. They all activated. 14 Q. And when they were activating, 15 were they operating properly? 16 MS. PETTY: Objection. 17 MR. FUKUMURA: Objection. 18 THE WITNESS: They were 19 operating. That's all I could -- all 20 I could say. 21 QUESTIONS BY MS. BROZ: 22 Q. Should they have been doing 23 something different? 24 MS. PETTY: Objection. 25 MR. FUKUMURA: Objection.|
+|---|---|
+
+
+-----
+
+1        THE WITNESS: They should open
+2    under excess pressure. Now, whether
+3    they opened at the right pressure or
+4    anything else, I can't say. Just can
+5    say they operated.
+6 QUESTIONS BY MS. BROZ:
+7    Q.   Between February 3rd and
+8 February 6, 2023, did Norfolk Southern
+9 believe that any of the pressure relief
+10 devices were not functioning properly?
+11    A.   There came a time -- these
+12 devices, the ones we could see, all had lazy
+13 fires burning from them, because we would
+14 expect under fire conditions the O-rings to
+15 be damaged. So they wouldn't completely seal
+16 back up after long discharge, specifically
+17 with this product when it burns.
+18        And there came a point in time
+19 that those fires snuffed out, which led us to
+20 believe that the ports had clogged up.
+21    Q.   The ports of what?
+22    A.   Of the PR -- the pressure
+23 relief device.
+24    Q.   So once the fires went out, it
+25 was Norfolk Southern's belief that the
+
+
+1        THE WITNESS: Mainly for four
+2    of them.
+3 QUESTIONS BY MS. BROZ:
+4    Q.   So we're excluding the TILX
+5 car?
+6        MS. PETTY: Objection.
+7        THE WITNESS: Correct.
+8 QUESTIONS BY MS. BROZ:
+9    Q.   And was the only malfunction
+10 that Norfolk Southern believed was happening
+11 with respect to the pressure relief devices
+12 was that the PRDs were being clogged up by
+13 polymerization?
+14        MS. PETTY: Objection.
+15        MR. FUKUMURA: Objection.
+16        THE WITNESS: That was one of
+17    the possibilities we believed, yes.
+18 QUESTIONS BY MS. BROZ:
+19    Q.   Did Norfolk Southern believe
+20 that there were any other mechanical failures
+21 of the pressure relief devices of the five -22 of the four vinyl chloride railcars?
+23        MS. PETTY: Objection.
+24        THE WITNESS: Don't know from
+25    what we knew at the time, but there
+|Page 111 1 pressure relief devices were no longer 2 functioning properly? 3 A. It was one of the 4 possibilities. 5 Q. Was that for all five vinyl 6 chloride railcars? 7 A. Four, mainly, but we couldn't 8 rule out the possibility in any of them. 9 Q. So it's Norfolk Southern's 10 testimony that at least four of the five 11 vinyl chloride railcars' pressure relief 12 devices stopped activating properly when the 13 fires were snuffed out? 14 MR. FUKUMURA: Objection. 15 MS. PETTY: Objection. 16 THE WITNESS: No. We believed 17 polymerization was going on that was 18 clogging up the PRDs that made the 19 lazy fires go out. These were not 20 open PRDs at the time. 21 QUESTIONS BY MS. BROZ: 22 Q. Was that for all five vinyl 23 chloride railcars? 24 MR. FUKUMURA: Objection. 25 Asked and answered.|Page 113 1 was a loud noise from one of the cars 2 when the PRD went off. 3 QUESTIONS BY MS. BROZ: 4 Q. Which car was that? 5 A. Should have been the -- I'll 6 have to refresh my memory of the car number 7 that discharged for an hour post-fire. 8 Q. The OCPX80179? 9 A. Yeah. When it went off, there 10 was a loud banging sound. 11 Q. And you believe that loud 12 banging sound came from the PRD? 13 A. We didn't know. It -- but it 14 coincided with the activation of that PRD. 15 Q. So setting aside the TILX car, 16 Norfolk Southern believed that it was 17 possible that the four PRDs were not 18 activating properly because polymerization 19 was gumming up the PRD themselves? 20 MR. FUKUMURA: Objection. 21 THE WITNESS: That's what we 22 believed. 23 QUESTIONS BY MS. BROZ: 24 Q. Did Norfolk Southern believe 25 that the four -- the four vinyl chloride|
+|---|---|
+
+
+-----
+
+1 railcars' PRDs were not operating properly
+2 for any other reason other than the potential
+3 polymerization?
+4        MS. PETTY: Objection.
+5        THE WITNESS: We felt certain
+6    that the components were damaged due
+7    to the fire.
+8 QUESTIONS BY MS. BROZ:
+9    Q.   And what evidence did you have
+10 that the components were damaged due to the
+11 fire?
+12    A.   Just teardown of the valves
+13 after the fact.
+14    Q.   I'm talking between
+15 February 3rd and February 6, 2023. What
+16 evidence did Norfolk Southern have that the
+17 components of the PRDs were damaged due to
+18 the fire?
+19    A.   We do not have evidence. It's
+20 just the type of damage we would expect in
+21 fire situations.
+22    Q.   Between February 3rd and
+23 February 6, 2023, did Norfolk Southern have
+24 any other evidence that the PRDs in the four
+25 vinyl chloride railcars were not operating
+
+
+1 contained in what we've marked as Deposition
+2 Exhibit 1?
+3    A.   That's the NTSB report, yes.
+4    Q.   So the answer to my question is
+5 yes?
+6    A.   Yes.
+7        MS. PETTY: Objection.
+8 QUESTIONS BY MS. BROZ:
+9    Q.   Earlier this morning you talked
+10 about the decision to hire SRS and SPSI.
+11        Do you recall that?
+12    A.   Yes.
+13    Q.   Who -- what person from Norfolk
+14 Southern made the decision to hire SRS?
+15    A.   The initial contact with them?
+16 SRS contacted Dave Schoendorfer. So David
+17 Schoendorfer from Norfolk Southern.
+18    Q.   Okay. How about for SPSI?
+19    A.   Scott Deutsch would have been
+20 the initial call to them.
+21    Q.   Before hiring SPSI, did
+22 Mr. Deutsch or anyone from Norfolk Southern
+23 ask SPSI if they had expertise in determining
+24 if vinyl chloride -- if vinyl chloride
+25 monomer was polymerizing?
+|Page 115 1 p r o p e r ly ? 2 A. No. 3 Q. Okay. How about after 4 February 6, 2023? What evidence does Norfolk 5 Southern have that the PRDs in the four vinyl 6 chloride railcars were not operating 7 properly? 8 A. Well, even from the NTSB 9 report, there was damage to O-rings, again, 10 what we would expect in fire situations. 11 There was a PRD that was jammed 12 that they never could get to activate up 13 to -- they raised the pressure to 275 PSI, 14 and the valve still wouldn't open. And 15 they -- for safety reasons, they wouldn't 16 extend past that. 17 Q. So all of the evidence that -- 18 A. And then one was damaged so bad 19 that it -- 20 Q. I'm sorry, I didn't mean to cut 21 you off. 22 A. -- couldn't be tested. 23 Q. So all of the evidence that 24 Norfolk Southern has after February 6, 2023, 25 that the PRDs were not operating properly is|Page 117 1 MR. FUKUMURA: Objection. 2 MS. PETTY: Objection. 3 THE WITNESS: No. 4 QUESTIONS BY MS. BROZ: 5 Q. Are you aware of anyone from 6 Norfolk Southern telling unified command 7 prior to the vent and burn that Norfolk 8 Southern did not know whether SPSI had 9 experience in determining whether vinyl 10 chloride monomer was polymerizing? 11 MS. PETTY: Objection. 12 MR. FUKUMURA: Objection. 13 MS. PETTY: Assumes facts. 14 THE WITNESS: No, but they knew 15 that SPSI and SRS were both CHLOREP 16 certified contractors, level 3. 17 (Wood 30(b)(6) Exhibit 8 marked 18 for identification.) 19 QUESTIONS BY MS. BROZ: 20 Q. I'm going to hand you what 21 we've marked as Deposition Exhibit 8. And 22 you don't have to read the whole thing, I 23 promise. 24 A. Okay. 25 Q. It's a third-party complaint|
+|---|---|
+
+
+-----
+
+1 that was filed by Norfolk Southern against
+2 Oxy Vinyls and other defendants.
+3        Okay?
+4    A.   Okay. Yes.
+5    Q.   All right. Can you turn to
+6 page 20 of the complaint?
+7    A.   Yes.
+8    Q.   And to paragraph 93?
+9    A.   Yes.
+10    Q.   Do you see that first sentence
+11 there where it says, "On a subsequent call,
+12 an Oxy Vinyls senior vice president of
+13 manufacturing who was not at the scene stated
+14 that polymerization was not occurring"?
+15    A.   Yes.
+16    Q.   Do you know what Norfolk
+17 Southern -- how Norfolk Southern responded to
+18 this statement by the Oxy Vinyls senior vice
+19 president?
+20        MR. FUKUMURA: Objection.
+21        THE WITNESS: The conversations
+22    between -- would have been SPSI and, I
+23    believe, Scott Gould and Jon Simpson.
+24    I don't know that anything was -- that
+25    that was ever questioned.
+
+
+1    A.   Yes.
+2    Q.   And that was on that same call?
+3    A.   Yes.
+4    Q.   Who was that individual from
+5 Oxy Vinyls?
+6    A.   I do not know.
+7    Q.   And what did Norfolk Southern
+8 say in response to that statement?
+9        MR. FUKUMURA: Objection.
+10        MS. PETTY: Objection.
+11        THE WITNESS: I don't know that
+12    there was anything said in response to
+13    it.
+14 QUESTIONS BY MS. BROZ:
+15    Q.   The call just end?
+16    A.   No, I -- I'm sure there were
+17 conversations had. I don't know exactly how
+18 the conversation ended.
+19    Q.   Okay. And let me turn your
+20 attention to what we've marked as Deposition
+21 Exhibit 3, please.
+22    A.   Okay.
+23    Q.   Turn to Tab 15, and review that
+24 for me, please.
+25    A.   Yeah.
+|Page 119 1 QUESTIONS BY MS. BROZ: 2 Q. Did Scott Gould or Jon Simpson 3 say anything in response to this statement? 4 A. I don't believe to the 5 individual, no. 6 Q. How -- what was next said 7 during that conversation? 8 A. Well, the first -- the 9 conversation that -- with any discussion 10 about the material not polymerizing, there 11 was somebody else in the room from Oxy, I 12 can't say who they were, said that it could 13 polymerize under exposure to excessive heat, 14 and if it got contamination -- I think 15 specifically rust was mentioned. 16 But I don't know that there was 17 any feedback specific to the not polym -- not 18 polymerizing. 19 Q. Okay. And it's your testimony 20 that on this conversation referenced in 21 paragraph 33 where Oxy Vinyls' senior vice 22 president of manufacturing said that 23 polymerization was not occurring, that 24 someone else on the call from Oxy Vinyls 25 stated that it could be polymerizing?|Page 121 1 Yes. 2 Q. And in preparation for your 3 deposition today, you spoke with both 4 Mr. Simpson and Mr. Gould. 5 Is that correct? 6 A. Correct. 7 Q. And did you ask them about the 8 conversations they had with Oxy Vinyls in 9 preparation for Topic 15? 10 A. Yes. 11 Q. And they weren't -- they were 12 not able to tell you what happened after the 13 vice president -- senior vice president of 14 manufacturing from Oxy Vinyls said no 15 polymerization was happening on the call that 16 took place? 17 MR. FUKUMURA: Objection. 18 THE WITNESS: All that was 19 discussed, we talked about, was the 20 discussions regarding polymerization. 21 That's the extent of my discussions 22 with them. 23 QUESTIONS BY MS. BROZ: 24 Q. And they didn't tell you what 25 they said in response to the senior vice|
+|---|---|
+
+
+-----
+
+1 president's comment?
+2        MR. FUKUMURA: Objection.
+3        MS. PETTY: Objection.
+4        THE WITNESS: I believe any of
+5    the back-and-forth was between the
+6    CHLOREP contractors and them that Jon
+7    and Scott were merely present at
+8    the -- during the call.
+9 QUESTIONS BY MS. BROZ:
+10    Q.   And they were present during
+11 that communication?
+12    A.   Yes.
+13    Q.   And you don't know what was
+14 said?
+15        MS. PETTY: Objection.
+16        THE WITNESS: Outside of the
+17    polymerization discussion, no, I do
+18    not.
+19        MS. BROZ: I am going to end my
+20    questioning here, but if I have any
+21    follow-up questions, then I will come
+22    back on the record.
+23        THE WITNESS: Okay.
+24        VIDEOGRAPHER: We are now going
+25    off the video record. The time is
+
+
+1    pretty known figures based on pressure
+2    cars.
+3        Generally, like a PRD is going
+4    to be set somewhere around 33 percent
+5    of the burst pressure of the car.
+6    It's not exact, but give or take. So
+7    those are fairly known.
+8        The problem is, that's for a
+9    pristine tank car, not after one's
+10    been involved in a derailment.
+11 QUESTIONS BY MR. FARCAS:
+12    Q.   Did anybody at Norfolk Southern
+13 attempt to do any calculations about what the
+14 burst pressure and corresponding temperature
+15 would be on these five vinyl chloride cars?
+16        MS. PETTY: Objection.
+17        THE WITNESS: No.
+18 QUESTIONS BY MR. FARCAS:
+19    Q.   I wanted to also ask you -- if
+20 you wouldn't mind turning to Exhibit 4.
+21    A.   Okay.
+22    Q.   And there is a line, it looks
+23 like, about -- oh, I would say, 10 or 12
+24 lines. It says, "SPSI's temperature readings
+25 were relayed by phone or text to SPSI, to
+|Page 123 1 currently 11:29 a.m. 2 (Off the record at 11:29 a.m.) 3 VIDEOGRAPHER: We are now back 4 on the video record. The time is 5 currently 11:32 a.m. 6 DIRECT EXAMINATION 7 QUESTIONS BY MR. FARCAS: 8 Q. Good afternoon, Mr. Wood. My 9 name is Tudor Farcas, and I represent the 10 plaintiffs in this matter. 11 How are you? 12 A. Good afternoon. Fine. 13 Q. I wanted to ask -- and I only 14 have a few questions. 15 First I wanted to ask, did 16 Norfolk Southern, or anybody at Norfolk 17 Southern, ever inquire what the burst 18 pressure and corresponding temperature of the 19 five vinyl chloride cars would be? 20 MR. FUKUMURA: Objection. 21 MS. PETTY: Objection. 22 THE WITNESS: There is a 23 general rule of thumb for tank cars, 24 for their burst pressure relative to 25 their rated pressure. Those are|Page 125 1 Robert Wood or Jon Simpson, who then entered 2 those readings onto a spreadsheet for 3 tracking purposes." 4 Did I read that correctly? 5 A. Yes. 6 Q. I wanted to ask you, did -- was 7 there only one spreadsheet, or did 8 Mr. Simpson also have a spreadsheet and you 9 had a spreadsheet on your computer, or was 10 there only one single document maintained? 11 MS. PETTY: Objection to the 12 form. 13 THE WITNESS: One spreadsheet. 14 QUESTIONS BY MR. FARCAS: 15 Q. And both you and Mr. Simpson 16 were entering temperatures into that 17 spreadsheet. 18 Do I have that correctly? 19 A. Yes. 20 MR. FARCAS: Okay. Nothing 21 further. Thank you. I'm done. 22 VIDEOGRAPHER: We are now going 23 off the video record. The time is 24 currently 11:34 a.m. 25 (Off the record at 11:34 a.m.)|
+|---|---|
+
+
+-----
+
+1        VIDEOGRAPHER: We are now back
+2    on the video record. The time is
+3    currently 11:35 a.m.
+4        DIRECT EXAMINATION
+5 QUESTIONS BY MS. COLLIER:
+6    Q.   Good afternoon, Mr. Wood. My
+7 name is Sydne Collier, and I represent
+8 General -- GATX Corporation and General
+9 American Marks Company.
+10        A few, quick questions for you,
+11 still focused, of course, on the five vinyl
+12 chloride cars that we've been discussing.
+13        Did Norfolk Southern consult
+14 with a Bob Gold regarding those five VCM tank
+15 cars?
+16    A.   I believe -- if I remember
+17 correctly, I think either SRS or SPSI reached
+18 out to him.
+19    Q.   Did NS have any direct contact
+20 with Bob Gold?
+21    A.   I do not believe so.
+22    Q.   Do you recall -- does -23 from Bob Gold discussing either with SPSI or
+24 SRS, was that information communicated
+25 between those two parties then relayed to NS?
+
+
+1 with Union Pacific Railroad.
+2    Q.   Okay. So testimony today is
+3 that Norfolk Southern did not have direct
+4 communication with a Pat Student regarding
+5 the five VCM cars?
+6        MR. FUKUMURA: Objection.
+7        THE WITNESS: That's correct.
+8 QUESTIONS BY MS. COLLIER:
+9    Q.   What about is -- are you aware
+10 what information, if any, Pat Student would
+11 have conveyed, whether to SPSI or SRS,
+12 concerning the five VCM cars?
+13        MS. PETTY: Objection.
+14        THE WITNESS: More than likely,
+15    it would have been with regards to
+16    polymerization.
+17 QUESTIONS BY MS. COLLIER:
+18    Q.   But -- and -- but you, NS, are
+19 not aware of exactly what information was
+20 conveyed?
+21        MS. PETTY: Objection.
+22        THE WITNESS: No, I am not.
+23        MS. COLLIER: Mr. Wood, I
+24    believe that's it for me. Thank you
+25    for your time.
+|Page 127 1 MR. FUKUMURA: Objection. 2 THE WITNESS: I believe it 3 probably was at the local, with 4 whoever from NS they might have been 5 dealing with, Scott Gould or Scott 6 Deutsch. 7 QUESTIONS BY MS. COLLIER: 8 Q. What information did Bob Gold 9 provide to SPSI or SRS? 10 A. I'm not sure. 11 Q. You, as a corporate 12 representative of Norfolk Southern, are not 13 sure what information Bob Gold would have 14 conveyed regarding these five VCM cars? 15 MS. PETTY: Objection. 16 THE WITNESS: I am not. 17 QUESTIONS BY MS. COLLIER: 18 Q. Okay. What about Pat Student? 19 Same question, did NS consult with a Pat 20 Student regarding the five VCM tank cars? 21 A. I believe the same applies. I 22 mean, I know who Pat Student is. 23 Q. Pat Student -- well, who is Pat 24 Student? 25 A. He's a former HAZMAT officer|Page 129 1 THE WITNESS: Okay. 2 VIDEOGRAPHER: We are now going 3 off the video record. The time is 4 currently 11:38 a.m. 5 (Off the record at 11:38 a.m.) 6 VIDEOGRAPHER: We are now back 7 on the video record. The time is 8 currently 11:39 a.m. 9 REDIRECT EXAMINATION 10 QUESTIONS BY MR. BRENZA: 11 Q. Mr. Wood, would you pull out 12 Exhibit 1 again? It's the NTSB -- 13 A. Yes. 14 Q. -- Hazardous Materials Group 15 factual report. 16 A. Yes. 17 Q. And turn to page 94, please. 18 Are you there? 19 A. Yes. 20 Q. Now, you were asked some 21 questions about the role that SPSI and SRS 22 played by other counsel. I want to just 23 follow up a little bit on that. 24 Do you see at the top of 25 page 94 of Exhibit 1 there's a discussion|
+|---|---|
+
+
+-----
+
+1 beginning in the second sentence with the
+2 words "the IC"?
+3    A.   Yes.
+4    Q.   And IC stands for incident
+5 command.
+6        Right?
+7    A.   Yes. Or incident commander.
+8    Q.   The sentence says, "The IC told
+9 NTSB investigators that none of those present
+10 at this meeting objected to conducting the
+11 vent and burn based on the information that
+12 was presented and the perceived BLEVE hazard
+13 identified by Norfolk Southern, SPSI and
+14 SRS."
+15        Do you see that?
+16    A.   Yes.
+17    Q.   Is that accurate, to your
+18 understanding?
+19    A.   I wouldn't have referred to it
+20 as a BLEVE. I would have called it a
+21 catastrophic tank car failure, but, yes,
+22 that's correct.
+23    Q.   But the -- but the meeting
+24 that's being described is one where Norfolk
+25 Southern and SPSI and SRS are presenting
+
+
+1 QUESTIONS BY MR. BRENZA:
+2    Q.   Okay. And it was a choice.
+3        Right?
+4        MS. PETTY: Objection.
+5        THE WITNESS: Yes.
+6 QUESTIONS BY MR. BRENZA:
+7    Q.   If you look at the next
+8 sentence, it says, "These discussions also
+9 revolved around the need to vent and burn all
+10 five vinyl chloride tank cars as opposed to
+11 just one or two."
+12        Do you see that?
+13    A.   Yes.
+14    Q.   Do you recall that there was a
+15 time in the management of the East Palestine
+16 derailment when the plan was only to vent and
+17 burn one or two of the vinyl tank cars?
+18        MS. PETTY: Objection.
+19        THE WITNESS: There were
+20    discussions about how many cars needed
+21    to be vent and burned. We were
+22    originally going to move the TILX car.
+23 QUESTIONS BY MR. BRENZA:
+24    Q.   The Trinity car?
+25    A.   The Trinity car.
+|Page 131 1 information to the incident commander about 2 what they perceive to be the existing risks 3 and the need for the vent and burn operation? 4 MR. FUKUMURA: Objection. 5 MS. PETTY: Objection. 6 THE WITNESS: That's correct. 7 QUESTIONS BY MR. BRENZA: 8 Q. And the vent and burn 9 operation, just to be clear, is -- was a 10 procedure where explosives were intentionally 11 affixed to the vinyl chloride cars and the 12 vinyl chloride cars were detonated. 13 Right? 14 A. That's not exactly the case. 15 There are shape charges put at specific 16 points on the car, vapor space and liquid 17 phase, to facilitate a controlled burn of the 18 product. 19 Q. Okay. But it's an intentional 20 choice that Norfolk Southern and the incident 21 command made to destroy these cars in a 22 controlled way? 23 MS. PETTY: Objection. 24 THE WITNESS: It was the 25 decision of unified command, yes.|Page 133 1 The ultimate decision come down 2 after consultation with all of the ER 3 contractors. And specific to the demolition 4 folks and the proximities of the cars -- 5 Q. Okay. 6 A. -- required that they all be 7 done. 8 Q. So one of the cars that 9 originally was not going to be part of the 10 vent and burn was the Trinity car. 11 Right? 12 A. That's correct. 13 Q. And then if you look at the 14 sentence reading further into the paragraph, 15 it says, "SPSI and SRS argued that a safety 16 concern could ensue over the effects venting 17 and burning fewer tank cars might have on the 18 remaining tank cars." 19 Do you see that? 20 A. Yes. 21 Q. Is that accurate, again, to 22 your recollection? 23 A. Yes. They worried about the 24 effects of the proximity and the radiant heat 25 generated from the other cars causing worse|
+|---|---|
+
+
+-----
+
+1 problems -- causing more damage to the other
+2 cars.
+3    Q.   And one of the cars they were
+4 concerned about that would receive this sort
+5 of collateral damage was the Trinity car.
+6        Right?
+7    A.   That's correct.
+8        MS. PETTY: Objection.
+9 QUESTIONS BY MR. BRENZA:
+10    Q.   And so instead of allowing
+11 fewer cars to be vented and burned, they
+12 decided to vent and burn the Trinity car as
+13 well because it would have been damaged by
+14 the venting and burning fewer than all of
+15 them?
+16        MS. PETTY: Objection.
+17        THE WITNESS: It was a safety
+18    concern that -- the feeling was if
+19    they didn't do all five, they could
+20    set off a chain reaction in the cars
+21    they didn't vent and burn that might
+22    re -- might lead to an uncontrolled
+23    release as opposed to a controlled
+24    release.
+25        (Wood 30(b)(6) Exhibit 9 marked
+
+
+1        What I want to ask you -- what
+2 I want to ask you doesn't have to do with
+3 exactly who Amy Miles is, so you should be
+4 able to still answer these questions.
+5        Do you see that on the
+6 second -- well, the page ending in 394, at
+7 7:17, Alan Shaw writes a text that says,
+8 "Another view of the wreck. These are the
+9 cars we blew."
+10        Do you see that?
+11    A.   I see that.
+12    Q.   And then Amy Miles responded,
+13 "Great. They held up long enough for us to
+14 take controlled action."
+15        Right? Do you see that?
+16    A.   Yes.
+17    Q.   And then Alan Shaw, if you go
+18 to the very bottom of the page, he says, "We
+19 expected" -- "We expect to have the track
+20 back in service by 11 a.m. tomorrow."
+21        Do you see that?
+22    A.   Yes.
+23    Q.   And then if you go to the next
+24 page, he says, "That beats my initial
+25 estimate by about 36 hours."
+|Page 135 1 for identification.) 2 QUESTIONS BY MR. BRENZA: 3 Q. I'm going to hand you what I'm 4 going to mark as -- what are we up to, 5 Exhibit 9? 6 Exhibit 9 is a printout of a 7 set of text communications between Alan Shaw 8 and Amy Miles dated, looks like, February 6th 9 of 2023. 10 Do you see that? 11 A. Uh-huh, yes. 12 Q. And February 6, 2023, was the 13 day of the vent and burn. 14 Right? 15 A. That's correct. 16 Q. And Alan Shaw is the CEO of 17 Norfolk Southern. 18 Right? 19 A. That's correct. 20 Q. Who is Amy Miles, if you know? 21 A. I'm not sure. I'm going to 22 have to see by the text content. 23 I apologize, but I'm not sure 24 who Amy Miles is. 25 Q. Okay. Very well.|Page 137 1 Do you see that? 2 A. Yes. 3 Q. And whoever Amy Miles is, she 4 says, "Great news. Congrats. Kudos to the 5 team." 6 Do you see that? 7 A. Yes. 8 Q. Is it true that by venting and 9 burning all five vinyl tank cars, Norfolk 10 Southern was able to reopen its rail line 11 sooner than it originally had expected it 12 would have to wait? 13 MS. PETTY: Objection. 14 MR. FUKUMURA: Objection. 15 MS. PETTY: Outside the scope. 16 THE WITNESS: The vent and burn 17 brought a safe end to problems we 18 thought existed at the site, but there 19 was still other work to be done. 20 QUESTIONS BY MR. BRENZA: 21 Q. And my question was, did the 22 vent and burn of all five tank cars allow the 23 train rails to reopen earlier than Norfolk 24 Southern originally thought they would have 25 to wait?|
+|---|---|
+
+
+-----
+
+1        MS. PETTY: Objection.
+2        MR. FUKUMURA: Objection.
+3        MS. PETTY: Outside the scope
+4    of the noticed topics.
+5        THE WITNESS: That's
+6    probably -- probably true. It's
+7    really not sure, until you actually
+8    get in and start wrecking, how long
+9    it's going to take to clear a site and
+10    rebuild track, aside from the vent and
+11    burn.
+12        So my guess would be yes, but I
+13    couldn't say that positively.
+14 QUESTIONS BY MR. BRENZA:
+15    Q.   Well, the CEO of Norfolk
+16 Southern said that by venting and burning,
+17 that the -- the railcars, the VC cars, that
+18 the reopening of the tracks would occur
+19 36 hours earlier than he thought they would.
+20        Right?
+21        MS. PETTY: Objection.
+22        THE WITNESS: Estimated. It's
+23    an estimate.
+24 QUESTIONS BY MR. BRENZA:
+25    Q.   And you don't have any reason
+
+
+1        MS. PETTY: Nothing further
+2    from Norfolk Southern.
+3        MR. BRENZA: All right. It's a
+4    wrap.
+5        VIDEOGRAPHER: We are now going
+6    off the video record. The time is
+7    currently 11:58 a.m.
+8   (Deposition concluded at 11:58 a.m.)
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+|Page 139 1 to disagree that Mr. Shaw -- that that was an 2 accurate reflection of what Mr. Shaw thought 3 at the time, that he'd be able to reopen the 4 tracks 36 hours sooner as a result of the 5 vent and burn? 6 MR. FUKUMURA: Objection. 7 MS. PETTY: Objection to the 8 form and outside the scope. 9 THE WITNESS: That's his 10 opinion expressed. 11 QUESTIONS BY MR. BRENZA: 12 Q. Okay. And it's the opinion of 13 the CEO of the company? 14 A. That's correct. 15 MR. FUKUMURA: Objection. 16 MS. PETTY: Objection. 17 MR. BRENZA: Okay. That's all 18 I got. Thank you. 19 VIDEOGRAPHER: We are now going 20 off the video record. The time is 21 currently 11:49 a.m. 22 (Off the record at 11:49 a.m.) 23 VIDEOGRAPHER: We are now back 24 on the video record. The time is 25 currently 11:58 a.m.|Page 141 1 1 CERTIFICATE 2 I, CARRIE A. CAMPBELL, Registered 2 Diplomate Reporter, Certified Realtime 3 Reporter and Certified Shorthand Reporter, do 3 hereby certify that prior to the commencement 4 of the examination, Robert Wood, was duly 4 sworn by me to testify to the truth, the 5 whole truth and nothing but the truth. 5 6 I DO FURTHER CERTIFY that the foregoing is a verbatim transcript of the 6 7 testimony as taken stenographically by and before me at the time, place and on the date 7 8 hereinbefore set forth, to the best of my ability. 8 9 I DO FURTHER CERTIFY that I am 9 10 neither a relative nor employee nor attorney nor counsel of any of the parties to this 10 11 action, and that I am neither a relative nor employee of such attorney or counsel, and 11 12 that I am not financially interested in the action. 12 13 14 13 ____________________________ 16 16 CARRIE A. CAMPBELL, 14 NCRA Registered Diplomate Reporter 17 Certified Realtime Reporter 15 California Certified Shorthand 18 Reporter #13921 16 Missouri Certified Court Reporter #859 19 Illinois Certified Shorthand Reporter 17 #084-004229 20 Texas Certified Shorthand Reporter #9328 18 Kansas Certified Court Reporter #1715 21 New Jersey Certified Court Reporter 19 #30XI00242600 20 22 Louisiana Certified Court Reporter 21 #2021012 22 23 Notary Public 23 Dated: February 28, 2024 24 24 25 25|
+|---|---|
+
+
+-----
+
+1       INSTRUCTIONS TO WITNESS
+2
+3       Please read your deposition over
+4 carefully and make any necessary corrections.
+5 You should state the reason in the
+6 appropriate space on the errata sheet for any
+7 corrections that are made.
+8       After doing so, please sign the
+9 errata sheet and date it. You are signing
+10 same subject to the changes you have noted on
+11 the errata sheet, which will be attached to
+12 your deposition.
+13       It is imperative that you return
+14 the original errata sheet to the deposing
+15 attorney within thirty (30) days of receipt
+16 of the deposition transcript by you. If you
+17 fail to do so, the deposition transcript may
+18 be deemed to be accurate and may be used in
+19 court.
+20
+21
+22
+23
+24
+25
+
+
+ERRATA
+3  PAGE  LINE CHANGE
+25
+|Page 143 1 ACKNOWLEDGMENT OF DEPONENT 2 3 4 I,______________________, do hereby certify that I have read the foregoing 5 pages and that the same is a correct transcription of the answers given by me to 6 the questions therein propounded, except for the corrections or changes in form or 7 substance, if any, noted in the attached Errata Sheet. 8 9 10 11 12 ________________________________________ Robert Wood DATE 13 14 15 Subscribed and sworn to before me this 16 _______ day of _______________, 20 _____. 17 My commission expires: _______________ 18 19 Notary Public 20 21 22 23 24 25|Page 145 1 – – – – – – – LAWYER'S NOTES 2 – – – – – – – 3 PAGE LINE 4 ____ ____ _____________________________ 5 ____ ____ _____________________________ 6 ____ ____ _____________________________ 7 ____ ____ _____________________________ 8 ____ ____ _____________________________ 9 ____ ____ _____________________________ 10 ____ ____ _____________________________ 11 ____ ____ _____________________________ 12 ____ ____ _____________________________ 13 ____ ____ _____________________________ 14 ____ ____ _____________________________ 15 ____ ____ _____________________________ 16 ____ ____ _____________________________ 17 ____ ____ _____________________________ 18 ____ ____ _____________________________ 19 ____ ____ _____________________________ 20 ____ ____ _____________________________ 21 ____ ____ _____________________________ 22 ____ ____ _____________________________ 23 ____ ____ _____________________________ 24 ____ ____ _____________________________ 25|
+|---|---|
+
+

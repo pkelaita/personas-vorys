@@ -10,6 +10,8 @@ import backoff
 from dotenv import load_dotenv
 from l2m2.client import AsyncLLMClient
 from l2m2.exceptions import LLMRateLimitError
+from llm_router import normalize_model_label
+from run_analysis import _SupportsLLMCall
 
 load_dotenv()
 
@@ -71,7 +73,7 @@ def load_json_file(filepath: str) -> Optional[Union[Dict[str, Any], List[Any]]]:
 
 
 async def process_results(
-    results: List[Union[str, Exception]],
+    results: List[Union[str, BaseException]],
     task_metadata: List[Tuple[str, str]],
 ) -> Tuple[int, int, int, int]:
     base_yes = 0
@@ -124,13 +126,13 @@ async def process_results(
     LLMRateLimitError,
     max_tries=60,
     on_backoff=lambda details: print(
-        f"Rate limit hit, retrying in {details['wait']:.1f} seconds... "
-        f"(attempt {details['tries']}/{details['max_tries']})",
+        f"Rate limit hit, retrying in {float(details.get('wait', 0.0)):.1f} seconds... "
+        f"(attempt {details.get('tries', '?')}/{details.get('max_tries', '?')})",
         end="",
     ),
 )
 async def call_with_backoff(
-    client: AsyncLLMClient,
+    client: _SupportsLLMCall,
     prompt: str,
 ) -> str:
     """Calls the LLM with exponential backoff for rate limit errors."""
@@ -146,7 +148,7 @@ async def call_with_backoff(
 
 
 async def compare_single_analysis(
-    client: AsyncLLMClient,
+    client: _SupportsLLMCall,
     chunk_key: str,
     base_prediction: str,
     persona_prediction: str,
@@ -201,13 +203,17 @@ async def compare_single_analysis(
     base_metadata = (chunk_key, "base")
     persona_metadata = (chunk_key, "persona")
 
-    task_base = call_with_backoff(
-        client=client,
-        prompt=prompt_base,
+    task_base = asyncio.create_task(
+        call_with_backoff(
+            client=client,
+            prompt=prompt_base,
+        )
     )
-    task_persona = call_with_backoff(
-        client=client,
-        prompt=prompt_persona,
+    task_persona = asyncio.create_task(
+        call_with_backoff(
+            client=client,
+            prompt=prompt_persona,
+        )
     )
 
     return (task_base, base_metadata, task_persona, persona_metadata), None
@@ -215,8 +221,9 @@ async def compare_single_analysis(
 
 async def compare_analyses(persona_name: str, transcript_key: str, model: str) -> None:
     persona_dir = os.path.join("data", "personas", persona_name, transcript_key)
-    base_analysis_file = os.path.join(persona_dir, f"{model}_base_analysis.json")
-    persona_analysis_file = os.path.join(persona_dir, f"{model}_persona_analysis.json")
+    norm_model = normalize_model_label(model)
+    base_analysis_file = os.path.join(persona_dir, f"{norm_model}_base_analysis.json")
+    persona_analysis_file = os.path.join(persona_dir, f"{norm_model}_persona_analysis.json")
     chunk_file = os.path.join(persona_dir, "strategy_chunks.json")
 
     base_analysis = load_json_file(base_analysis_file)
@@ -261,6 +268,11 @@ async def compare_analyses(persona_name: str, transcript_key: str, model: str) -
             base_prediction = base_analysis.get(chunk_key)
             persona_prediction = persona_analysis.get(chunk_key)
 
+            if not isinstance(base_prediction, str) or not isinstance(persona_prediction, str):
+                print("Skipping: Base or persona prediction missing or not a string.")
+                skips += 1
+                continue
+
             # Get next chunk text
             chunk_index = int(
                 chunk_key.split("-")[1]
@@ -286,6 +298,11 @@ async def compare_analyses(persona_name: str, transcript_key: str, model: str) -
 
             if error:
                 print(f"Skipping: {error}")
+                skips += 1
+                continue
+
+            if not result:
+                print("Skipping: No tasks returned for this chunk.")
                 skips += 1
                 continue
 

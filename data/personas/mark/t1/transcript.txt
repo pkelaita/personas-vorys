@@ -1,0 +1,3751 @@
+1
+1 STATE of OHIO,
+SS:
+2 COUNTY of CUYAHOGA.
+4 IN THE COURT OF COMMON PLEAS
+6 JOHN T. MURRAY, et cetera, et al.,
+7 Plaintiffs,
+8 vs. Case No. CV 2018 905172
+Judge John P. O'Donnell
+9 RITE AID of OHIO, INC.,et al.,
+10 Defendants.
+12 Zoom deposition of WILLIAM C. BECKER, M.D.,
+13 a witness herein, called by the Defendants James
+14 Gallagher, M.D. and Gallagher & Gallagher, M.D.S.,
+15 LLC, for the purpose of cross-examination, pursuant
+16 to the Ohio Rules of Civil Procedure, taken before
+17 Frank P. Versagi, RPR, Notary Public in and for the
+18 State of Ohio, taken at Versagi Court Reporters,
+19 Brendan Place, North Olmsted, OHIO, on MONDAY,
+20 **NOVEMBER 1, 2021, commencing at 2:31 p.m., pursuant**
+21 to Notice of Deposition.
+23 _Frank Versagi Court Reporters, Inc._
+_Brendan Place - Suite 270, 23823 Lorain Road_
+24 _North Olmsted, Ohio 44070 440-623-3316_
+_frank@versagicourtreporters.com_
+25
+Versagi Court Reporters, Inc.
+
+
+-----
+
+2
+1 APPEARANCES:
+2 On behalf of the Plaintiffs:
+3 (via Zoom)
+4 Mark M. Abramowitz, Esq.
+DiCello Levitt Gutzler
+5 7556 Mentor Avenue
+Mentor, Ohio 44060
+Mabramowitz@dicellolevitt.com
+7
+On behalf of the Defendants James Gallagher, M.D.,
+8 and Gallagher & Gallagher, M.D.S., LLC:
+9 (via Zoom)
+10 Marc W. Groedel, Esq.
+Reminger Co., L.P.A.
+11 1400 Midland Building
+Cleveland, Ohio 44115
+Mgroedel@reminger.com
+13
+14 On behalf of the Defendants Rite Aid of Ohio, Inc.,
+and Rite Aid Headquarters Corporation:
+15
+(via Zoom)
+16
+John M. McManus, Esq.
+17 The McManus Firm
+117 West Fourth Street
+18 Suite 201
+Royal Oak, Michigan 48067
+John@TheMcManuslawfirm.com
+20
+On behalf of Drs. Gallagher and Gallagher:
+21
+(via Zoom)
+22
+Stephen P. Griffin, Esq.
+23 Griffin Law, LLC
+4051 Whipple Avenue NW, Suite 201
+24 Canton, Ohio 44718
+25 Sgriffin@griff-law.com
+Versagi Court Reporters, Inc.
+
+
+-----
+
+3
+1 INDEX PAGE
+2
+3 WITNESS: WILLIAM C. BECKER, M.D. PAGE
+4 Cross-examination by Mr. Groedel 4
+5 Cross-examination by Mr. McManus 119
+6
+7
+8
+10
+11 (NO DEPOSITION EXHIBITS MARKED)
+12
+13
+15 (for objection and word index, see appendix)
+16
+18
+19
+20
+21
+22
+23
+24
+25
+Versagi Court Reporters, Inc.
+
+
+-----
+
+4
+1 WILLIAM C. BECKER, M.D.
+2 of lawful age, being first duly sworn, as
+3 hereinafter certified, was examined and testified as
+4 follows:
+6 CROSS-EXAMINATION
+7 BY MR. GROEDEL:
+8 Q Doctor, can you please state your name for the
+9 record.
+10 A William C. Becker.
+11 Q Dr. Becker, my name is Marc Groedel. I
+12 represent Dr. Gallagher. I'm going to ask you
+13 some questions today about the opinions that
+14 you hold in this matter.
+15 I assume you have been deposed before?
+16 A Yes.
+17 Q So because we're doing this via Zoom, we might
+18 have a few glitches along the way. I would
+19 just ask that to the extent that you can, wait
+20 for me to finish my question before you start
+21 giving your answer, and I will try to do
+22 likewise. If at any point in time, though, I
+23 end up interrupting you inadvertently before
+24 you finish your answer, please let me know,
+25 okay?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+5
+1 A Okay.
+2 Q You understand that my purpose here today is
+3 to explore and have you identify all of the
+4 standard of care criticisms you have of
+5 Dr. Gallagher; you understand that?
+6 A Yes.
+7 Q I assume you understand that you're under oath
+8 and you understand the implications of that
+9 oath, correct?
+10 A Correct.
+11 Q Where are you now?
+12 A I am in New Haven, Connecticut.
+13 Q Is anybody with you in the room?
+14 MR. ABRAMOWITZ: I am.
+15 Q Who is with you?
+16 A Mark Abramowitz.
+17 Q Is anybody else with you in the room?
+18 A No.
+19 Q If I ask a question that you don't understand,
+20 will you let me know?
+21 A Yes.
+22 Q If you answer a question, I'm going to assume
+23 you understood it and answered it truthfully;
+24 fair enough?
+25 A Fair.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+6
+1 Q If you need to take a break for any reason,
+2 let me know, I'm sure we'll be able to
+3 accommodate you. The only thing that I would
+4 ask is if there is a question pending, you
+5 answer the question and you can then go ahead
+6 and take the break. You can take a break for
+7 any reason; understood?
+8 A Understood.
+9 Q All right. Very good. Doctor, I have a copy
+10 of the report that you wrote in this case
+11 that's dated November 27, 2020; is that the
+12 only report that you have written in this
+13 case?
+14 A That's the final report.
+15 Q Are there any other reports that you have
+16 written?
+17 MR. ABRAMOWITZ: Objection.
+18 Q You can answer.
+19 A No.
+20 MR. GROEDEL: Mark, are you the
+21 screen?
+22 MR. ABRAMOWITZ: I'm on this screen
+23 here. Can you see me, as well?
+24 MR. GROEDEL: I just wasn't sure if
+25 you were hooked in as well.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+7
+1 MR. ABRAMOWITZ: I'm turning here to
+2 the right, that's why I might not show up.
+3 MR. GROEDEL: Very good.
+4 BY MR. GROEDEL:
+5 Q Doctor, you have identified a number of
+6 materials that you reviewed in your report of
+7 November 27. Have you reviewed any additional
+8 information since writing your report?
+9 A No.
+10 Q Is there any other information that you have
+11 requested that you don't have that you think
+12 you need to have in order to testify at trial?
+13 A No.
+14 MR. ABRAMOWITZ: I also sent him the
+15 expert reports, all the expert reports, all
+16 the defendants.
+17 Q So you've received the expert reports that
+18 were authored by physicians who are testifying
+19 on behalf of the defendants?
+20 A Yes.
+21 Q Do you know any of those physicians either
+22 personally or by way of reputation?
+23 A No.
+24 Q While you were reviewing the materials for
+25 this case, did you prepare any notes of any
+Versagi Court Reporters, Inc.
+
+
+-----
+
+8
+1 kind?
+2 A No.
+3 Q Doctor, your business address is what?
+4 A It is there on the top of my report. It
+5 should be 950 Campbell Avenue, West Haven,
+6 Connecticut.
+7 Q What sort of building, is that a hospital, is
+8 that a free-standing office building, what is
+9 that?
+10 A That's a hospital.
+11 Q Is that where your main office is located?
+12 A Yes, that's correct.
+13 Q Who is your employer?
+14 A I have two employers. VA Connecticut Health
+15 System and Yale School of Medicine.
+16 Q So what are your responsibilities as an
+17 employee of the VA Connecticut Health Care
+18 System?
+19 A I am the Medical Director of a clinic and I
+20 run a number of research studies.
+21 Q What are your responsibilities as an employee
+22 of Yale?
+23 A To run other research studies.
+24 Q What you just told me, does that encompass all
+25 of the professional work that you do?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+9
+1 A I do additionally teach medical students and
+2 residents as part of both of those roles.
+3 Q Both as an employee of VA Connecticut Health
+4 and the Yale School?
+5 A Correct.
+6 Q We have been provided with a copy of your CV.
+7 Did you bring a copy of that with you?
+8 A Yes.
+9 Q The CV that I have is 24 pages and the last
+10 article or reference is number 126; is that an
+11 up-to-date CV?
+12 A Yes.
+13 Q Are there any changes, additions, corrections
+14 that you believe you need to make?
+15 A I don't believe so.
+16 Q So what I would like to do now is talk to you
+17 a little bit or have you tell me a little bit
+18 about your current practice, what it entails
+19 professionally.
+20 A My clinical practice is running a multi
+21 disciplinary pain clinic at the VA Hospital,
+22 where we help individuals, we treat
+23 individuals with chronic pain, which sometimes
+24 also have opiate addiction.
+25 Q Well, is that the extent of your clinical
+Versagi Court Reporters, Inc.
+
+
+-----
+
+10
+1 practice?
+2 A I also serve as a teaching attending physician
+3 on the inpatient hospital wards for four weeks
+4 a year.
+5 Q Where is that at?
+6 A At West Haven VA.
+7 Q So your clinical practice entails running the
+8 pain clinic, and then serving as an attending
+9 on the inpatient service several weeks out of
+10 the year?
+11 A Yes.
+12 Q So do you see patients in an outpatient basis,
+13 in an office basis?
+14 A Yes.
+15 Q Describe for me when you see patients on an
+16 outpatient basis.
+17 A That's the multi-disciplinary pain clinic runs
+18 in an outpatient setting.
+19 Q How many days a week do you work at that
+20 outpatient clinic?
+21 A One.
+22 Q What day of the week is that?
+23 A Tuesday.
+24 Q So on Tuesday what are you doing during that
+25 day?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+11
+1 A I am seeing patients and discussing patients
+2 with my colleagues, making treatment decisions
+3 and implementing them.
+4 Q About how many patients do you believe that
+5 you see in direct care on a hands-on basis on
+6 that Tuesday?
+7 A Usually approximately 12 to 20.
+8 Q What do you do on Monday?
+9 A The research studies that I am involved with.
+10 Q What actually is entailed with these research
+11 studies? What are you doing?
+12 A Well, every research project has pretty
+13 standard set of phases from designing the
+14 research, writing up the manuals of
+15 procedures, then carrying out the research,
+16 collecting data, analyzing data, and then
+17 publishing the data. So with approximately
+18 ten projects ongoing, variety of those in a
+19 different stage of completion, basically
+20 seeing them through at their various stages to
+21 completion.
+22 Q On that Monday are you providing any clinical
+23 care to patients?
+24 A If there is a phone call that it is urgent
+25 that no one else is able to help with, I will
+Versagi Court Reporters, Inc.
+
+
+-----
+
+12
+1 sometimes get involved in a clinical case, but
+2 that's not necessarily scheduled and could or
+3 could not be the case on any given Monday.
+4 Q Fair to say then that the vast majority of
+5 your time on Monday is spent with handling
+6 your research projects as opposed to actually
+7 seeing patients?
+8 A Correct.
+9 Q So what do you do on Wednesday?
+10 A Research projects.
+11 Q Same thing that you were doing on Monday?
+12 A Correct.
+13 Q And the same limited, if any, involvement with
+14 actual hands-on clinical care?
+15 A Correct.
+16 Q What do you do on Thursday?
+17 A Research projects.
+18 Q Same thing as Wednesday?
+19 A Yes.
+20 Q What about Friday?
+21 A Friday we do have a team, a clinical team
+22 huddle that lasts an hour, and we make sure
+23 that there were -- if there were any events
+24 that happened since our Tuesday clinic that
+25 need to be addressed, we decide who is going
+Versagi Court Reporters, Inc.
+
+
+-----
+
+13
+1 to manage them; but other than that hour
+2 clinical huddle, I'm also working on research
+3 projects.
+4 Q If it's an eight hour day, one hour is spent
+5 with that team clinical huddle that discusses
+6 patients who are seen in the clinic?
+7 A Yes.
+8 Q And the remainder of that day is spent with
+9 the research that you have already described?
+10 A Yes.
+11 Q Do you have any professional responsibilities
+12 on either Saturday or Sunday?
+13 A Well, I'm generally catching up with grant
+14 writing and writing up manuscripts, but there
+15 are no structured hours doing that.
+16 Q And the same would be true on Sunday?
+17 A Correct.
+18 Q So I assume there is no hands-on clinical care
+19 that you provide on either Saturday or Sunday?
+20 A Correct. Unless it's during my four weeks of
+21 inpatient hospital work.
+22 Q What percentage of your professional time
+23 would you say is involved handling
+24 administrative responsibilities for the
+25 various projects that you are involved in?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+14
+1 A I'm not sure if you're trying to separate out
+2 the administrative responsibilities of those
+3 projects, or that was just meant to mean
+4 research in general; but my professional
+5 effort is split 20 percent clinical, 80
+6 percent research.
+7 Q The 20 percent clinical, that would involve
+8 the Tuesday that you're seeing patients?
+9 A Yes.
+10 Q The 80 percent research is what you already
+11 told us about?
+12 A Yes.
+13 Q Are you saying then that you have some
+14 administrative responsibilities within that 80
+15 percent research?
+16 A Yeah. I mean, I'm responsible for making sure
+17 that the reports get back to the NIH and
+18 things are being accounted for in the way they
+19 need to, to show productivity, so yes.
+20 Q So limiting your answer to your research
+21 responsibilities, what percentage of your time
+22 would you say is devoted to administrative
+23 functions?
+24 A 20 percent of the research effort.
+25 Q I assume you know what Dr. Gallagher does for
+Versagi Court Reporters, Inc.
+
+
+-----
+
+15
+1 a living?
+2 A Yes.
+3 Q Have you ever worked as a primary care
+4 physician like Dr. Gallagher?
+5 A Not in a community setting, no.
+6 Q Well, have you ever worked as a primary care
+7 physician at all?
+8 A Yes.
+9 Q In what respect?
+10 A I was a primary care physician at the
+11 Philadelphia VA from 2007 to 2009.
+12 Q Would that have been the extent of your
+13 experience as a primary care physician?
+14 A No. I was also a primary care physician when
+15 I returned to Yale from 2007 to 2012.
+16 Q Anything else?
+17 A No, that's all.
+18 Q So tell me what sort of work you did and where
+19 you did it as a primary care physician when
+20 you were in Philadelphia?
+21 A I was managing a panel of approximately 800
+22 patients with their adult medical problems
+23 full time at the Philadelphia VA.
+24 Q You were employed by the VA at that time?
+25 A Correct.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+16
+1 Q So were you working like in a big office or
+2 out of a VA Medical Center? Explain that to
+3 me.
+4 A Yeah. Multi physician practice, 15 to 20
+5 full-time internists out of the VA.
+6 Q What about your work at Yale from 2009 to
+7 2012, explain that for me.
+8 A There I was teaching faculty, so I had my own
+9 panel of patients; but I was also supervising
+10 residents with their panel of patients.
+11 Q Did you actually provide hands-on care to
+12 patients while you were at Yale?
+13 A Yes.
+14 Q During that period of time?
+15 A Yes.
+16 Q How often were you doing that, roughly?
+17 A Two and a half days a week.
+18 Q About how often were you providing direct
+19 hands-on care to patients when you were
+20 working as a primary care physician in
+21 Philadelphia?
+22 A Seven half days a week.
+23 Q I'm sorry?
+24 A Seven half days a week.
+25 Q So just tell us a little bit about the pain
+Versagi Court Reporters, Inc.
+
+
+-----
+
+17
+1 clinic that you are working at now. What sort
+2 of services does it provide, what type of
+3 patients do you see?
+4 A We take referrals from primary care providers
+5 throughout VA Connecticut of their patients
+6 who are struggling with chronic pain that have
+7 not responded well to first line treatment.
+8 So we get involved to add diagnostic expertise
+9 and to try to match patients with improved
+10 treatments to help them do better.
+11 Q Are there physicians besides internal medicine
+12 folks that work at this clinic?
+13 A Yes.
+14 Q What are the other specialists that work at
+15 this clinic?
+16 A We have a psychiatrist who works with me.
+17 Q Anybody else?
+18 A There are trainees who also rotate through us,
+19 physician trainees, some of whom are
+20 internists, some are psychiatrists; but the
+21 only other attending level physician is a
+22 psychiatrist.
+23 Q So this clinic that you have been referring to
+24 where you see patients on Tuesdays, there is
+25 two attending physicians that work at this
+Versagi Court Reporters, Inc.
+
+
+-----
+
+18
+1 clinic?
+2 A Yes.
+3 Q What's the role of the psychiatrist?
+4 A Well, many of the patients we see have
+5 co-occurring psychiatric disorders that's
+6 complicating their chronic pain, and she helps
+7 weigh in on optimizing their care plans.
+8 Q If you have a patient at your clinic that you
+9 think would benefit from medication assisted
+10 therapy, such as methadone or Suboxone, do you
+11 provide that sort of treatment at your clinic?
+12 A We provide Suboxone. We can't -- well, we are
+13 not allowed to prescribe methadone for opiate
+14 use disorder, but we do refer patients to the
+15 opioid treatment program to do so, but we do
+16 provide Suboxone.
+17 Q I assume you don't provide methadone because
+18 you got to have special license from the
+19 government to utilize that medicine?
+20 A Correct.
+21 Q The psychiatrist that works with you, is that
+22 psychiatrist capable of recognizing when a
+23 patient has an addiction disorder?
+24 A Yes.
+25 Q An opioid use disorder?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+19
+1 A Yes.
+2 Q Is that a skill that most or if not all
+3 psychiatrists have or should have?
+4 A So I heard two different questions. That they
+5 have or that they should have. I would say
+6 not all of them -- most don't have it, but
+7 most should have it.
+8 Q Why do you say that?
+9 A Well, the data shows that a majority of
+10 psychiatrists don't feel comfortable
+11 diagnosing addiction, but if they're taking
+12 care of patients who have mental health
+13 issues, addiction is very commonly
+14 co-occurring, so they probably should gain
+15 comfort with that.
+16 Q Would you agree that most psychiatrists are
+17 sufficiently skilled to recognize when a
+18 patient might have an opioid use disorder or
+19 an addiction disorder?
+20 MR. ABRAMOWITZ: Objection, but can
+21 answer.
+22 A Most physicians skilled? Yes.
+23 Q I know you have written a number of articles
+24 and have spoken on opioid use disorder. I'm
+25 just wondering whether there are any
+Versagi Court Reporters, Inc.
+
+
+-----
+
+20
+1 particular articles, one or more, that you
+2 plan on citing to a trial to support the
+3 opinions you plan on offering?
+4 MR. ABRAMOWITZ: Objection, but you
+5 can answer.
+6 A I have not made any plan to do that, any
+7 particular articles.
+8 Q Recognizing that you're well-versed in the
+9 field, as you sit here today, you don't plan
+10 on citing to any specific article that you
+11 have written to support your opinions at
+12 trial; is that correct?
+13 MR. ABRAMOWITZ: Objection, but you
+14 may answer.
+15 A I haven't made that plan. I may end up doing
+16 that, but as I sit here today, I haven't made
+17 a plan to do that.
+18 Q Well, I mean, this is my one and only chance
+19 to find out exactly what you're going to say
+20 and why you're going to say it prior to trial,
+21 so that's why I am asking the question; but
+22 without waiving any objection that I might
+23 have to what you may end up telling us later
+24 on, I would ask that if you do plan on citing
+25 to any of your specific writing to support
+Versagi Court Reporters, Inc.
+
+
+-----
+
+21
+1 your opinions at trial, that you let
+2 Mr. Abramowitz know as soon as possible so
+3 that he can advise the rest of us about that,
+4 okay?
+5 A Okay.
+6 Q Thank you. Can you give me an idea as to
+7 approximately how many hours you have spent
+8 reviewing records, depositions, and other
+9 materials in this case?
+10 A Approximately 12 to 15 hours.
+11 Q Do you have any billing records that would
+12 reflect what you billed Mr. Abramowitz thus
+13 far?
+14 A I do not have them all pulled together at this
+15 time.
+16 Q Would you be able to do that for us and send
+17 them to him so that he can send them to us?
+18 MR. ABRAMOWITZ: Mr. Groedel, I'll
+19 take care of that.
+20 MR. GROEDEL: Thank you.
+21 MR. ABRAMOWITZ: No problem.
+22 Q I want to ask you a few questions about your
+23 prior experience in medical malpractice
+24 litigation.
+25 Can you tell me approximately how many
+Versagi Court Reporters, Inc.
+
+
+-----
+
+22
+1 other times you have been involved as an
+2 expert in a medical malpractice case?
+3 A Three prior times, so this is my fourth.
+4 Q Those three prior times, can you tell me
+5 whether they were on behalf of the family or
+6 plaintiff bringing the case, or the defendant
+7 medical provider?
+8 A Twice with the plaintiff, once with the
+9 defendant.
+10 Q Were all three of these cases involving
+11 narcotic usage?
+12 A Yes.
+13 Q What's your charge for reviewing records and
+14 depositions?
+15 A My charges for case review is $400 an hour,
+16 and depositions $500 an hour.
+17 Q Besides this case, have you given a deposition
+18 in a medical malpractice case?
+19 A Yes.
+20 Q How many times?
+21 A This will be my third time.
+22 Q The two other times, were they for defendant
+23 medical providers or plaintiffs?
+24 A One plaintiff, one defendant.
+25 Q Have you testified in trial before?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+23
+1 A No.
+2 Q What do you charge for trial testimony?
+3 A Looking up my fee schedule here. $5,000 per
+4 day, plus travel expenses.
+5 Q You say you got a formal fee schedule?
+6 A Yes.
+7 Q Would you send a copy of that to
+8 Mr. Abramowitz so that he can send that along
+9 to us; do you have any problem with that?
+10 MR. ABRAMOWITZ: We have no problem
+11 with that. We'll get that to you, Marc.
+12 MR. GROEDEL: Thank you.
+13 Q Are you scheduled to testify at the trial of
+14 this matter?
+15 MR. ABRAMOWITZ: Objection, but you
+16 can answer.
+17 A I have not been scheduled, but I'm willing to
+18 do so.
+19 Q Besides this case, are there any other cases
+20 that you have reviewed either for the DiCello
+21 firm or for Mr. Stombaugh?
+22 A No.
+23 Q To your knowledge, are you on the roster of
+24 any company that advertises its ability to
+25 find expert witnesses?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+24
+1 A No.
+2 Q I assume you don't advertise your services as
+3 an expert witness?
+4 A Correct.
+5 Q How did the DiCello firm find you to review
+6 this case?
+7 MR. ABRAMOWITZ: Objection, but you
+8 can answer.
+9 A I actually don't know. I don't know.
+10 Q Do you recall how you were contacted, was it
+11 by telephone, email, letter, in person?
+12 MR. ABRAMOWITZ: Objection, but you
+13 can answer.
+14 A I don't recall.
+15 Q When you were reviewing the records in this
+16 case, would I be correct in assuming that you
+17 were aware that Mr. Dukeshire had died?
+18 A You would be correct.
+19 Q Would I be correct in assuming that when you
+20 were reviewing these records, you knew that he
+21 had died from narcotics?
+22 A Yes.
+23 Q Or illicit drugs?
+24 A Yes.
+25 Q We know from the records we received in
+Versagi Court Reporters, Inc.
+
+
+-----
+
+25
+1 discovery that Mr. Dukeshire received
+2 narcotics from other physicians before he came
+3 under the care of Dr. Gallagher; I assume you
+4 were aware of that?
+5 A Yes.
+6 Q Do you know which physicians provided
+7 Mr. Dukeshire with narcotics prior to him
+8 becoming a patient of Dr. Gallagher's?
+9 A The names of those physicians you are asking?
+10 Q Yes.
+11 A No. I saw them in the record but I didn't
+12 commit them to memory.
+13 Q Sure. Well, these were physicians I believe
+14 who are affiliated with Family Health Services
+15 of Erie County, and you mentioned them as one
+16 of the records that you reviewed, correct?
+17 A Yes.
+18 Q Do you believe that any of the physicians that
+19 prescribed narcotics to Mr. Dukeshire before
+20 he came to see Dr. Gallagher breached the
+21 standard of care in providing those narcotics?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A I don't believe I have a complete set of
+25 records to be able to comment on their meeting
+Versagi Court Reporters, Inc.
+
+
+-----
+
+26
+1 or not meeting the standard of care.
+2 Q Well, assuming that you have received all of
+3 the records from Family Health Services of
+4 Erie County that exist, do you have an opinion
+5 as to whether or not those physicians provided
+6 care that met the standard of care when they
+7 prescribed narcotics for Mr. Dukeshire?
+8 MR. ABRAMOWITZ: Objection. I'm not
+9 sure that's a fair assumption here. We just
+10 don't know that at this time, if we have all
+11 the records or not.
+12 Q Do you have an opinion?
+13 A No.
+14 Q Is there anything that you saw in the Family
+15 Health Services record that caused you to
+16 think gee, I don't have all of the records
+17 from this office?
+18 MR. ABRAMOWITZ: Objection.
+19 A I'm sorry. Was there anything in those
+20 records that made we wonder whether I might
+21 not have all the records?
+22 Q Correct.
+23 A I can't answer that.
+24 Q As you sit here today, you are not prepared to
+25 state that the doctors at Family Health
+Versagi Court Reporters, Inc.
+
+
+-----
+
+27
+1 Services breached the standard of care; is
+2 that correct?
+3 A That's correct.
+4 Q Were you aware from the records that the
+5 family had reported to medical providers in
+6 2010 that Mr. Dukeshire had a history of
+7 polysubstance abuse?
+8 A Yes.
+9 Q What was your understanding as to what was
+10 being abused?
+11 A Cocaine and alcohol.
+12 Q Not narcotics?
+13 A I don't recall opioids being a piece of that.
+14 Q So I assume you were aware that in 2011 and
+15 2012 Mr. Dukeshire was being treated with
+16 narcotics for back pain, correct?
+17 A Correct.
+18 Q To your knowledge, were those physicians aware
+19 of Mr. Dukeshire's history of prior cocaine
+20 and alcohol abuse?
+21 MR. ABRAMOWITZ: Objection. Calls for
+22 speculation.
+23 MR. GROEDEL: No, it doesn't. It
+24 calls for him to give an answer based upon the
+25 records.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+28
+1 MR. ABRAMOWITZ: Of what they knew or
+2 did not know, it's more than what's in the
+3 records, so I think it is speculation. You
+4 didn't ask what's in those records, you asked
+5 what they knew. I think those are different.
+6 I think that's speculation.
+7 Q Based upon the records that you reviewed, were
+8 the physicians who were treating Mr. Dukeshire
+9 in 2011 and 2012 aware of Mr. Dukeshire's
+10 history of cocaine and alcohol abuse?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A I'm not sure.
+14 Q Based upon the records that you have seen, was
+15 there any evidence that the physicians at
+16 Family Health Care followed the guidelines of
+17 the Ohio Administrative Code with respect to
+18 the use of narcotics?
+19 A I'm not sure.
+20 Q You couldn't tell from the records one way or
+21 the other?
+22 A Correct.
+23 Q What's your understanding as to what opioids
+24 Mr. Dukeshire received from the doctors at
+25 Family Health Care?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+29
+1 MR. ABRAMOWITZ: Objection, but you
+2 can answer.
+3 A I do not recall.
+4 Q From your review of those records, could you
+5 tell whether or not the narcotics that he
+6 received from that facility alleviated his
+7 pain?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A I'm not sure.
+11 Q Is there evidence in the records at Family
+12 Health Care that in 2012 Mr. Dukeshire was
+13 referred to a pain management specialist?
+14 A I'm not sure.
+15 Q If he had been referred to a pain management
+16 specialist at that point in time, and we're
+17 talking about May of 2012, would that have
+18 been an appropriate referral?
+19 MR. ABRAMOWITZ: Objection, but you
+20 can answer.
+21 A I can speak in the general sense that if
+22 someone's primary care group or primary care
+23 provider is hoping to get expert opinion, that
+24 referral to an expert is appropriate.
+25 Q What do pain management physicians do?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+30
+1 A Well, in general help, use their expertise,
+2 diagnostic and treatment expertise to improve
+3 the patient's pain and functioning.
+4 Q Do they utilize methadone or Suboxone?
+5 A Well, so methadone, as you may be aware, can
+6 be used for the treatment of pain, as well as
+7 the treatment of opioid use disorder. So some
+8 pain specialists do use methadone for the
+9 treatment of pain. Increasingly, pain
+10 specialists are getting themselves trained in
+11 the use of Suboxone, but that's a more recent
+12 phenomenon I would say.
+13 Q I would assume that pain management physicians
+14 would be particularly adept at recognizing
+15 when a patient may be addicted to narcotics?
+16 A You said you can assume that, so are you
+17 asking me if I have that same assumption?
+18 Q Yes.
+19 A I don't have that same assumption.
+20 Q You don't believe pain management physicians
+21 are capable of determining when a patient may
+22 have an addiction disorder?
+23 A Some are capable. They are all capable. Some
+24 are adept, which is the word you used, and
+25 some are not.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+31
+1 Q You would agree that a pain management
+2 physician generally would be capable of
+3 recognizing when a patient should be referred
+4 to an addiction medicine specialist?
+5 A Yes.
+6 Q Do you know whether or not Mr. Dukeshire saw a
+7 pain management specialist in May of 2012 or
+8 thereabouts?
+9 MR. ABRAMOWITZ: Objection, but you
+10 can answer.
+11 A I'm not sure.
+12 Q Were you aware that a tox screen from Bellevue
+13 Hospital in October of 2012 was positive for
+14 methadone and cocaine?
+15 MR. ABRAMOWITZ: Objection, but you
+16 can answer.
+17 A No, I was not.
+18 Q Assuming that that tox screen was accurate,
+19 where would somebody like Mr. Dukeshire be
+20 able to access methadone?
+21 MR. ABRAMOWITZ: Objection, but you
+22 can answer.
+23 A He could have gotten it as a pain management
+24 prescription, he could have gotten it from the
+25 streets, or he could have gotten it from an
+Versagi Court Reporters, Inc.
+
+
+-----
+
+32
+1 opioid treatment program.
+2 Q Do you have any knowledge as to where he would
+3 have received methadone?
+4 A No.
+5 Q If a physician saw that tox screen result, in
+6 other words, the result that was positive for
+7 methadone or cocaine, should that physician
+8 have referred Mr. Dukeshire to an addiction
+9 medicine specialist?
+10 A Well, you know, a little more context would be
+11 necessary to fully answer that, but illicit
+12 cocaine use would very often generate, me to
+13 generate a referral to addiction specialists.
+14 Q What was your understanding from everything
+15 you know about this case as to when
+16 Mr. Dukeshire was using cocaine?
+17 MR. ABRAMOWITZ: Objection, but you
+18 can answer.
+19 A That it was prior to -- well, the only
+20 documentation of it was that it was prior to
+21 him joining Dr. Gallagher's practice.
+22 Q Do you have any information to indicate that
+23 he was using cocaine at all after he was with
+24 Dr. Gallagher?
+25 MR. ABRAMOWITZ: Objection, but you
+Versagi Court Reporters, Inc.
+
+
+-----
+
+33
+1 can answer.
+2 A I have no indication of that.
+3 Q I mean do you have any reason to believe that
+4 he was utilizing cocaine from when he started
+5 treating with Dr. Gallagher?
+6 A Well, there's a history of use of cocaine and
+7 we have no urine drug test during his time
+8 with Dr. Gallagher, so it's certainly possible
+9 but we have no way to know.
+10 Q Based upon everything that you have seen in
+11 this case, is there any evidence that you saw
+12 that Mr. Dukeshire was suffering any adverse
+13 effects from the opioids that he was receiving
+14 in 2010, 2011, 2012, or 2013 before he began
+15 treating with Dr. Gallagher?
+16 A I don't know.
+17 Q What information would you need to have, if
+18 you think there is information out there, that
+19 might allow you to answer that question?
+20 A I would need to re-review the records from
+21 that practice.
+22 Q When was the last time you looked at the
+23 records in this case?
+24 MR. ABRAMOWITZ: Objection, but you
+25 can answer.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+34
+1 A Those particular records or any records?
+2 Q Any records?
+3 A Yesterday.
+4 Q What records did you review yesterday?
+5 MR. ABRAMOWITZ: Objection, but you
+6 can answer.
+7 A I focused on Dr. Gallagher's records.
+8 Q Any other records?
+9 A Hospitalization records.
+10 Q While Mr. Dukeshire was under Dr. Gallagher's
+11 care?
+12 A Yes.
+13 Q When is the last time you looked at the
+14 records from Family Health Services of Erie
+15 County?
+16 MR. ABRAMOWITZ: Objection, but you
+17 can answer.
+18 A When they were first sent to me. I would
+19 have -
+20 Q Which was when?
+21 A I am not sure.
+22 MR. ABRAMOWITZ: Objection. You can
+23 answer.
+24 A I'm not sure off the top of my head.
+25 Q Well, your report is dated November 27, 2020,
+Versagi Court Reporters, Inc.
+
+
+-----
+
+35
+1 does that provide you with any guidance as to
+2 when you would have reviewed those records?
+3 MR. ABRAMOWITZ: Objection, but you
+4 can answer.
+5 A Before then.
+6 Q Well, yeah. You didn't really help me much
+7 with that one, Doctor.
+8 Can you be anymore definitive than
+9 that?
+10 A I would say roughly approximately three to six
+11 months before then.
+12 Q Do you have an understanding as to the length
+13 of time in which Mr. Dukeshire was using
+14 cocaine?
+15 MR. ABRAMOWITZ: Objection, but you
+16 can answer.
+17 A No, I don't.
+18 Q So if somebody is using cocaine, does the
+19 length of time and the frequency with which
+20 they use it need to be considered before you
+21 determine whether or not they are actually
+22 addicted to it?
+23 A Length of time and frequency are factors, but
+24 ultimately it is how much impact the use of
+25 the substance is having on their ability to
+Versagi Court Reporters, Inc.
+
+
+-----
+
+36
+1 function in a normal life.
+2 Q Do you have any knowledge as to whether or not
+3 Mr. Dukeshire's cocaine usage was having an
+4 adverse impact upon his ability to function?
+5 MR. ABRAMOWITZ: Objection, but you
+6 can answer.
+7 A I don't.
+8 Q To your knowledge, did Mr. Dukeshire tell
+9 Dr. Gallagher about his history of prior
+10 cocaine use?
+11 MR. ABRAMOWITZ: Objection, you can
+12 answer.
+13 A I don't believe that he did.
+14 Q Is it your understanding that Mr. Dukeshire
+15 had a history of alcohol addiction?
+16 A Yes.
+17 Q What's your understanding about that
+18 condition?
+19 A That it had resolved prior to him joining
+20 Dr. Gallagher's practice.
+21 Q Do you have an understanding as to how it
+22 resolved?
+23 A I don't remember.
+24 Q Do you have an understanding as to how long he
+25 had that addiction for?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+37
+1 A I don't remember.
+2 Q Was it your understanding that Dr. Gallagher
+3 made an attempt to obtain Mr. Dukeshire's
+4 records from Family Health Care?
+5 MR. ABRAMOWITZ: Objection, but you
+6 can answer.
+7 A Yes.
+8 Q Was it your understanding that those records
+9 were ever sent to Dr. Gallagher?
+10 MR. ABRAMOWITZ: Objection, you can
+11 answer.
+12 A I believe they were.
+13 Q You believe they were?
+14 A Yeah.
+15 Q Upon what do you base that information?
+16 I assume you are looking at something?
+17 A Yeah. I thought I saw reference to it in his
+18 records, but now I don't believe I -- I think
+19 I am mistaken. I would need to go back and
+20 check.
+21 Q It's quite possible that although he asked for
+22 them, he never received those records?
+23 MR. ABRAMOWITZ: Objection, but you
+24 can answer.
+25 A Okay. So what I'm -- I am not certain that he
+Versagi Court Reporters, Inc.
+
+
+-----
+
+38
+1 asked for them, and I am not certain that he
+2 received them.
+3 Q Is it true that the narcotics that
+4 Mr. Dukeshire received prior to him starting
+5 with Dr. Gallagher was to help control his
+6 back pain?
+7 MR. ABRAMOWITZ: Objection, but you
+8 can answer.
+9 A I believe that's true.
+10 Q Is back pain the most common reason why
+11 narcotic medications are prescribed in this
+12 country?
+13 A I believe that's true.
+14 Q What was your understanding as to how long
+15 Mr. Dukeshire had been suffering from back
+16 pain prior to his starting up with
+17 Dr. Gallagher?
+18 MR. ABRAMOWITZ: Objection. You can
+19 answer.
+20 A I'd say my understanding was in the order of
+21 years.
+22 Q I saw some reference in the record to him
+23 having a history of 20 years worth of back
+24 pain, does that sound about right to you?
+25 A Yes.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+39
+1 Q So if Mr. Dukeshire had been seen by a pain
+2 management specialist in 2012 or 2013 before
+3 he started with Dr. Gallagher, do you have an
+4 opinion as to what treatment he likely would
+5 have received at that point?
+6 MR. ABRAMOWITZ: Objection, but you
+7 can answer.
+8 A No.
+9 Q Is there a possibility that if he had been
+10 seen by a pain management specialist in 2012
+11 or early 2013, he would have been referred to
+12 an addiction medicine specialist?
+13 MR. ABRAMOWITZ: Objection, but you
+14 can answer.
+15 A Is there a possibility of that?
+16 Q Yes.
+17 A Yes.
+18 Q Is there a probability of that?
+19 A I don't know.
+20 Q So I know that in your report you discuss the
+21 presence of red flags with respect to
+22 Mr. Dukeshire, and your opinion that
+23 Dr. Gallagher didn't appropriately respond to
+24 those red flags.
+25 What I would like you to do now is to
+Versagi Court Reporters, Inc.
+
+
+-----
+
+40
+1 identify for me each and every instance where
+2 you believe a red flag was present or
+3 occurring.
+4 A Okay.
+5 MR. ABRAMOWITZ: You want him to go
+6 through the records one-by-one, look at each
+7 visit, or the gestalt of it? How would you
+8 like to handle that, rather than just -
+9 MR. GROEDEL: Well, I mean, I want
+10 him to identify each and every red flag. I
+11 mean, you can do it -- the doctor can do it
+12 any way he thinks would be the best way to
+13 communicate his opinions to me on that issue.
+14 I'll leave it to Dr. Becker.
+15 A Okay. Well, some I can be a little more
+16 specific in terms of dates, but others will be
+17 more general in terms of concepts.
+18 So one of the major red flag categories
+19 that pops up a number of times is running out
+20 early from -- his prescription running out and
+21 asking for early refills, which I believe
+22 started happening as early of April of 2014,
+23 and then again June 2014, then July 2015,
+24 August 2015, November 2015, April 2016, and
+25 then again October 2017, which is right before
+Versagi Court Reporters, Inc.
+
+
+-----
+
+41
+1 he died.
+2 Q Let me stop you for a moment there.
+3 Do you have an understanding as to
+4 whether or not Mr. Dukeshire was having
+5 increased complaints of pain beyond his usual
+6 baseline on those occasions that caused him to
+7 run out of his narcotics early?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A I know on several of those instances
+11 Mr. Dukeshire was complaining of increased
+12 pain.
+13 Q Are there occasions when patients on narcotics
+14 take more than they should because they are
+15 having more pain than what they are usually
+16 dealing with?
+17 A So the treatment agreement signed says that if
+18 you are having increased pain, call us and we
+19 can talk about what we can do. This issue of
+20 escalating one's dose on one's own is really
+21 concerning for loss of control; and I have no
+22 doubt that Mr. Dukeshire reported pain as a
+23 potential reason for doing this, but doesn't
+24 make it safe or consistent with the treatment
+25 agreement.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+42
+1 Q When you say treatment agreement, what
+2 agreement are you referring to?
+3 A Well, he signed a treatment agreement in
+4 November of 2016.
+5 Q Is it your belief that any one of these
+6 episodes where he ran out early required
+7 different action on the part of Dr. Gallagher
+8 than what was provided?
+9 A That any one required a different action?
+10 Q Yes.
+11 A It's my belief that any one of them pass maybe
+12 the initial one, should have been reacted to
+13 differently.
+14 Q For instance, when he ran out early, for
+15 instance, say in June of 2014, you believe
+16 that episode should have warranted some action
+17 on Dr. Gallagher's part?
+18 A Correct. Correct.
+19 Q What action do you believe was required?
+20 A We really needed a urine drug test there to
+21 see if this patient is taking what I am
+22 prescribing and not taking things that I am
+23 not prescribing.
+24 Q Anything else?
+25 A Definitely a query of the prescription drug
+Versagi Court Reporters, Inc.
+
+
+-----
+
+43
+1 monitoring program to see if there were other
+2 sources of medication.
+3 Q I'm not sure I understood what you mean by
+4 that.
+5 A Checking the prescription drug monitoring
+6 program.
+7 Q You mean to see whether or not he was being
+8 prescribed other narcotics or other
+9 medications?
+10 A Right.
+11 Q Do you have an opinion based on reasonable
+12 medical probability as to what a urine drug
+13 screen would have shown if one had been
+14 obtained in June of 2014?
+15 MR. ABRAMOWITZ: Objection, but you
+16 can answer.
+17 A No, I don't.
+18 Q Do you have an opinion as to what a urine drug
+19 screen would have shown beyond his narcotics
+20 that he was being given by Dr. Gallagher at
+21 any point in time prior to his death?
+22 MR. ABRAMOWITZ: You asked -- I
+23 apologize, Marc. Can you ask it again?
+24 Q The idea behind a urine drug screen,
+25 Dr. Becker, is to see whether or not the
+Versagi Court Reporters, Inc.
+
+
+-----
+
+44
+1 patient is taking medications other than what
+2 is being prescribed, correct?
+3 A Well, taking -- A, taking what is being
+4 prescribed; and B, making sure nothing that
+5 isn't being prescribed is being taken.
+6 Q Are you able to tell us that a urine drug
+7 screen obtained at any time before
+8 Mr. Dukeshire's death would have shown that he
+9 was taking something beyond what Dr. Gallagher
+10 was prescribing?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A I think it's possible, but I can't say with
+14 any certainty.
+15 Q So just that we're clear here, you are unable
+16 to state to within a reasonable degree of
+17 medical probability that a urine drug screen
+18 taken at any point in time before
+19 Mr. Dukeshire's death, would have revealed
+20 anything other than what Dr. Gallagher was
+21 prescribing, correct?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A With medical certainty?
+25 Q Probability, yeah.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+45
+1 A So I would say that it wouldn't have surprised
+2 me to find something other than what was being
+3 prescribed.
+4 Q It also wouldn't surprise you to see a urine
+5 drug test that showed only the use of
+6 narcotics being prescribed, correct?
+7 MR. ABRAMOWITZ: Objection, but you
+8 can answer.
+9 A If all had shown only what was being
+10 prescribed, that would have been surprising.
+11 Q At what point do you believe a urine drug
+12 screen would have shown something other than
+13 narcotics being prescribed by Dr. Gallagher?
+14 MR. ABRAMOWITZ: Objection, but you
+15 can answer.
+16 A It's hard to say. It's too hard to speculate.
+17 Q Because it would be speculation to say that a
+18 urine drug screen would have shown something
+19 other than narcotics at any point in time
+20 while Mr. Dukeshire was alive, correct?
+21 MR. ABRAMOWITZ: Objection.
+22 A No.
+23 MR. ABRAMOWITZ: You can answer.
+24 A He's fairly clearly demonstrating symptoms of
+25 the disease of opioid addiction. It's a
+Versagi Court Reporters, Inc.
+
+
+-----
+
+46
+1 relapsing disease that causes periods of more
+2 intense use than others. We don't have any
+3 urine drug tests to look at so I could match
+4 his varying points of acting more erratically
+5 to say well, there could have been something
+6 in his urine if it had been looked for; but to
+7 say exactly when these times would be, I am
+8 not prepared to do that.
+9 Q Because it would be speculation?
+10 MR. ABRAMOWITZ: Objection, you can
+11 answer.
+12 A I don't know how else to describe imagining
+13 what the results of the urine tox would be
+14 that was never drawn, but should have been.
+15 Q Which is why you can't say a urine drug screen
+16 would have shown something other than
+17 narcotics, true?
+18 MR. ABRAMOWITZ: Objection. You've
+19 asked and he answered already.
+20 Q Are you thinking about it?
+21 A No.
+22 Q No what?
+23 A No, I am not thinking about it.
+24 Q Can you answer the question then?
+25 A No.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+47
+1 MR. ABRAMOWITZ: I think he's saying
+2 that he already answered it.
+3 Q Beyond these running out early instances, are
+4 there any other red flags that you believe
+5 were present in Mr. Dukeshire's case that
+6 warranted different action on the part of
+7 Dr. Gallagher?
+8 A Yes. There were at least three episodes where
+9 it appeared Mr. Dukeshire had an episode of
+10 drug toxicity, which could have been due to an
+11 overdose of opioids, opioids plus
+12 benzodiazepines. One in February 2016, one
+13 June 2017, and then another in August 2017,
+14 where various points he was confused, slurring
+15 his speech, required admission to the
+16 hospital; and these episodes are compared to,
+17 as I mentioned, overdose, and if we're trying
+18 to be thoughtfully prescribing these
+19 medications, which we should be, a patient is
+20 experiencing these sorts of symptoms, they
+21 need to be really delved into, and it doesn't
+22 appear that they were.
+23 Q So you believe the episodes of February 2016,
+24 June 2017, and August 2017 represented
+25 overdoses?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+48
+1 A Yeah.
+2 Q Which you believe were red flags?
+3 A Right. The harms of this treatment are
+4 outweighing any benefit, and it's really
+5 concerning for the diseased patients -- well,
+6 his prior ability to control his use of the
+7 medication.
+8 Q Any other red flags that you believe are
+9 present in this case?
+10 A Well, I think the fact that his family,
+11 various members of his family are coming to
+12 Dr. Dukeshire to explain their concern about
+13 the way Mr. Dukeshire is using his medication,
+14 the way he had been acting; that they had set
+15 up various ways to help him count his
+16 medication, keep track of his medication; and
+17 even with those pretty concerted efforts they
+18 weren't able to. That is a red flag for sure,
+19 red flags, plural.
+20 Q In what respect was Dr. Dukeshire -- I'm
+21 sorry, Dr. Gallagher told that Mr. Dukeshire
+22 was using his medications inappropriately by
+23 family members?
+24 A I believe the son had come to -- either come
+25 in person or made a phone call to
+Versagi Court Reporters, Inc.
+
+
+-----
+
+49
+1 Dr. Gallagher to express concern. The wife
+2 phone called, and I think came in person; and
+3 then a daughter, as well, made a phone call.
+4 Q Did any of Mr. Dukeshire's family members tell
+5 Dr. Gallagher that he was purchasing narcotics
+6 on the street?
+7 A I am not sure.
+8 Q Did any of Mr. Dukeshire's family members tell
+9 Dr. Gallagher that Mr. Dukeshire was
+10 purchasing narcotics on the street, crushing
+11 them, and snorting them?
+12 MR. ABRAMOWITZ: Objection, but you
+13 can answer.
+14 A Not that I am aware of.
+15 Q Based on your review of the deposition
+16 testimony, would it be fair to -- well, would
+17 you agree that Mr. Dukeshire's family members
+18 were aware that Mr. Dukeshire was purchasing
+19 narcotics on the street?
+20 MR. ABRAMOWITZ: Objection, but you
+21 can answer.
+22 A I am not sure what they were aware of.
+23 Q Didn't you read Mrs. Dukeshire's testimony
+24 where she said that she knew that her husband
+25 was purchasing narcotics from friends of his?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+50
+1 MR. ABRAMOWITZ: Objection, but you
+2 can answer.
+3 A I did read that.
+4 Q Are there any other red flags that you believe
+5 are present in this case?
+6 A Let's see. The early refills, the overdoses,
+7 the family concern, family rationing his
+8 medication. Oh, another one. This is a
+9 general kind of category, it's hard to point
+10 to specific instances, per se; but the over
+11 time not pursuing other aspects of his medical
+12 care and kind of focusing all his energy on
+13 filling the medication often early, sort of
+14 letting everything else to do with his health
+15 and wellness just kind of go. That to me is a
+16 big red flag that this person has developed an
+17 addiction.
+18 Q In other words, the patient's non compliance
+19 with respect to other aspects of his medical
+20 care to you is a red flag?
+21 A Yeah. Or maybe as I put it or I will rephrase
+22 it, a singular focus on getting the
+23 medications at the exclusion of pursuing other
+24 necessary medical care.
+25 Q Any other red flags?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+51
+1 A I think those are the main ones I can recall
+2 at this time.
+3 Q In your report you make reference to the Ohio
+4 Administrative Code, and I'm wondering what
+5 specific code you are referring to?
+6 MR. ABRAMOWITZ: Objection, but you
+7 can answer.
+8 A I don't know that I have the actual title of
+9 the code, but the Federation of State Medical
+10 Boards developed a model policy for the use of
+11 controlled substances. And Ohio -- that came
+12 out in 2013 -- and Ohio adopted its own
+13 version, as many states did, that was modeled
+14 after the Federation's policy.
+15 I was just going to say, it essentially
+16 outlines best practices and the stewardship
+17 and how to safely manage controlled substances
+18 to be patient centered and safe.
+19 Q Do you know when Ohio essentially in its
+20 Administrative Code adopted the information in
+21 the Federation of State Medical Boards?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A I do not know off the top of my head. I would
+25 have to do some digging.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+52
+1 Q Well, do you know whether or not the Ohio
+2 Administrative Code set out guidelines that
+3 were in effect when Mr. Dukeshire was under
+4 the care of Dr. Gallagher?
+5 A I believe so, yes.
+6 Q You're just not sure exactly when?
+7 A Correct.
+8 Q Do you believe that the information and the
+9 recommendations contained in the
+10 Administrative Code are standard of care
+11 requirements?
+12 MR. ABRAMOWITZ: Objection, but you
+13 can answer.
+14 A I guess I'm not sure standard of care
+15 requirements? Establishing a standard of care
+16 is how I would say.
+17 Q Well, so for instance, if a physician didn't
+18 follow any portion of the Administrative Code
+19 guidelines, would you consider a lack of or
+20 the absence of following those guidelines to
+21 be a breach of the standard of care?
+22 A Yes.
+23 MR. ABRAMOWITZ: Marc, I don't want to
+24 rush you for a break, but we've been going for
+25 about an hour here. Is it a good time for
+Versagi Court Reporters, Inc.
+
+
+-----
+
+53
+1 one?
+2 MR. GROEDEL: We can take a break
+3 now if you would like. Ten minutes or so; is
+4 that okay with you, Doctor?
+5 THE WITNESS: Yes.
+7 (Recess taken)
+9 MR. GROEDEL: Doctor, we're back on
+10 the record. Just a couple of minor cleanup
+11 points that I forgot to follow up on.
+12 Q With respect to medical literature, I assume
+13 based on what you've told us previously, as
+14 you sit here today, you don't plan on citing
+15 to any medical literature beyond what you have
+16 written; is that correct?
+17 MR. ABRAMOWITZ: Objection, you can
+18 answer.
+19 A I would -- I have a number of thoughtful
+20 colleagues in the field who have written
+21 impactful things. I would like to reserve the
+22 right to also present or reference their
+23 material, but I haven't identified what those
+24 might be.
+25 Q Without waiving my objection to the late
+Versagi Court Reporters, Inc.
+
+
+-----
+
+54
+1 identification of that literature, I would ask
+2 that if you do identify any literature from
+3 other folks beyond yourself, you identify that
+4 literature for Mr. Abramowitz so he can let us
+5 know about it?
+6 A Yes.
+7 MR. MCMANUS: I will second that
+8 request also as it relates to my client Rite
+9 Aid. Thank you.
+10 A Yes.
+11 Q You made reference, Doctor, to the treatment
+12 agreement that Mr. Dukeshire signed during the
+13 course of his treatment with Dr. Gallagher,
+14 correct?
+15 A Yes.
+16 Q That's treatment agreements that are
+17 frequently entered into between patients and
+18 physicians when those patients are receiving
+19 narcotics on a regular basis?
+20 A Yes.
+21 Q Based upon everything you know about this
+22 case, would you agree that Mr. Dukeshire
+23 violated that agreement on a number of
+24 occasions?
+25 MR. ABRAMOWITZ: Objection. You can
+Versagi Court Reporters, Inc.
+
+
+-----
+
+55
+1 answer.
+2 A He violated it and Dr. Gallagher did too.
+3 Q In what respect did Mr. Dukeshire violate that
+4 agreement?
+5 A I'm fairly certain the -- one of the lines
+6 is -- asks that the patient not increase the
+7 dose of the medication on their own, which the
+8 patient did.
+9 Q Does the agreement also obligate the patient
+10 not to purchase narcotics outside of those
+11 that are being prescribed by Dr. Gallagher?
+12 MR. ABRAMOWITZ: Objection, but you
+13 can answer.
+14 A I'm not sure I would agree that it obligates
+15 the patient not to do that. My understanding
+16 of these documents is that it says if this -
+17 we advise you not to do that, we think that
+18 would be unsafe, and if that is to happen,
+19 we'll have to reconsider the appropriateness
+20 of this treatment.
+21 Q Wouldn't you agree that it would have been a
+22 breach of the treatment agreement if
+23 Mr. Dukeshire was purchasing narcotics from
+24 friends or other people besides Dr. Gallagher;
+25 that's a breach of the agreement, isn't it?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+56
+1 A That is a breach of the agreement. I'm trying
+2 to put a point on your phrasing that it
+3 obligates patients to do something. I don't
+4 think it obligates patients to do anything.
+5 It advises them.
+6 Q It tells them things that they shouldn't be
+7 doing, correct?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A Tells them things that if they do, the
+11 appropriateness of the treatment will be
+12 reassessed.
+13 Q Do you have an opinion as to what
+14 Dr. Gallagher likely would have done had he
+15 been told that Mr. Dukeshire was purchasing
+16 narcotics on the street and then crushing them
+17 and snorting them?
+18 MR. ABRAMOWITZ: Objection, but you
+19 can answer.
+20 A What Dr. Gallagher would have done? No, I
+21 don't have an opinion. I -- no, I don't.
+22 MR. ABRAMOWITZ: This is a speculation
+23 of what Dr. Gallagher himself would do, or
+24 what a prudent physician would do in that
+25 situation?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+57
+1 MR. GROEDEL: I'm going to ask the
+2 next question.
+3 Q Do you have an opinion as to what
+4 Dr. Gallagher should have done if he had been
+5 told by anyone that Mr. Dukeshire was
+6 purchasing narcotics on the street, crushing
+7 them, and snorting them on a fairly regular
+8 basis?
+9 A What he should have done is made the diagnosis
+10 of opioid use disorder with that information,
+11 and then provided addiction treatment himself
+12 to the patient, or provided a warm handoff to
+13 a treatment facility, so that that treatment
+14 facility could provide addiction treatment.
+15 Q Are you able to state an opinion to within a
+16 reasonable degree of probability as to whether
+17 a referral to that sort of facility would have
+18 avoided Mr. Dukeshire's death?
+19 MR. ABRAMOWITZ: Objection, you can
+20 answer.
+21 A A referral with the appropriate, you know,
+22 what I am saying a warm handoff, meaning the
+23 provider that's on the other end of the
+24 referral knows of the patient, knows when to
+25 expect them. A meaningful way that the
+Versagi Court Reporters, Inc.
+
+
+-----
+
+58
+1 patient can actually engage with the
+2 treatment, yes, that could have prevented
+3 Mr. Dukeshire's death.
+4 Q So when you say could have prevented, are you
+5 able to say to within a reasonable degree of
+6 medical certainty that referral to an
+7 addiction center would have in all likelihood
+8 prevented Mr. Dukeshire's death?
+9 A Well, referral to an addiction center, and
+10 initiation of appropriate medication, yes.
+11 Q Are you able to state to within a reasonable
+12 degree of medical probability that
+13 Mr. Dukeshire would have been compliant with
+14 the treatment that would have been offered to
+15 him at an addiction center?
+16 MR. ABRAMOWITZ: Objection.
+17 Speculation. You can answer, if you can.
+18 A I'm not going to speculate on that.
+19 Q Are you saying that because it requires
+20 speculation to give an answer?
+21 A It is -- hum? I think it is within reasonable
+22 certainty that he would have been compliant
+23 with that treatment, yes.
+24 Q Why do you believe he would have been
+25 compliant with that treatment?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+59
+1 A Because he would recognize that his source of
+2 opioids was going away and that he would need
+3 to pursue this treatment to forestall going
+4 into opiate withdrawal.
+5 Q Did you see any evidence of Mr. Dukeshire
+6 exhibiting signs of opiate withdrawal while he
+7 was under Dr. Gallagher's care?
+8 A I don't believe that I did.
+9 Q I may have asked you this before, if so, I
+10 apologize: Are you going to have an opinion at
+11 trial as to whether or not Mr. Dukeshire
+12 utilized heroin at any point in time prior to
+13 his death?
+14 MR. ABRAMOWITZ: Objection. Other
+15 than the fatal dose, I mean, we know that he
+16 did that.
+17 MR. GROEDEL: Well, no, we don't.
+18 Q But go ahead.
+19 A So sorry? Am I going to -- could you please
+20 repeat the question?
+21 Q Let me just start at this point: We know the
+22 autopsy showed there was evidence of morphine
+23 in the toxicology report, correct?
+24 A Right.
+25 Q Is it your opinion that that morphine was due
+Versagi Court Reporters, Inc.
+
+
+-----
+
+60
+1 to the ingestion of heroin?
+2 MR. ABRAMOWITZ: Objection, but you
+3 can answer.
+4 A I mean, it could have been, but you clearly
+5 know that already.
+6 Q So you are saying it's something that could
+7 have been part of what he ended up taking on
+8 the day that he died?
+9 A Yes.
+10 Q Forgetting about that day for a moment, the
+11 day that he died, is there any evidence that
+12 Mr. Dukeshire utilized heroin?
+13 MR. ABRAMOWITZ: Objection, you can
+14 answer.
+15 A Not that I am aware of, other than if a urine
+16 toxicology was done, we would have had more
+17 basis to comment.
+18 Q We know from the records that Mr. Dukeshire
+19 had two back surgeries performed in December
+20 of '2014, correct?
+21 A Correct.
+22 Q I assume you saw from the records that he had
+23 documented significant degenerative changes in
+24 his lumbar spine, correct?
+25 A Correct.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+61
+1 Q And he was having a lot of back pain as a
+2 result?
+3 A Correct.
+4 Q I assume you don't have any criticisms of the
+5 decision to go ahead and provide two
+6 operations in an attempt to alleviate his back
+7 pain, true?
+8 A I'm not a surgeon. I am not going to comment
+9 on that.
+10 Q Surgeries don't always alleviate back pain,
+11 true?
+12 A That is true.
+13 Q Why is that?
+14 MR. ABRAMOWITZ: Objection. If you
+15 can answer.
+16 A Well, the back is complicated physiologically,
+17 muscles, ligaments, bones. The target that is
+18 aimed at for surgical decompression can
+19 sometimes be the source of the pain, and
+20 sometimes not.
+21 Q Was it appropriate for Mr. Dukeshire to
+22 receive narcotic medication following these
+23 two operations?
+24 MR. ABRAMOWITZ: Objection, but you
+25 can answer.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+62
+1 A So limited two to three day supply for
+2 incisional pain is appropriate, but beyond
+3 that, typically not needed, so inappropriate.
+4 Q We know from the records that Mr. Dukeshire's
+5 back pain returned in May of 2015 when he was
+6 complaining of severe radiating pain. Do you
+7 have an opinion as to whether or not it was
+8 appropriate to treat him with narcotics for
+9 those complaints of back pain?
+10 A It would have been appropriate to take a very,
+11 very close look at whether the benefit of
+12 doing that would have outweighed the risk.
+13 And there is a number of things working
+14 against him on the risk side of things that
+15 would have ultimately led me to think it was
+16 probably too risky and the benefit would be
+17 fairly minimal.
+18 Q Is it your opinion that it was beneath the
+19 standard of care to prescribe narcotics for
+20 Mr. Dukeshire when he had recurrent low back
+21 pain in May of 2015?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A I am not going to say beneath the standard of
+25 care, no.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+63
+1 Q We know from the records that Mr. Dukeshire
+2 also had a history of right knee infection and
+3 abscesses; is that correct?
+4 A Yes.
+5 Q Is it your understanding that a draining
+6 abscess can be painful?
+7 A Yes.
+8 MR. ABRAMOWITZ: Objection. You can
+9 answer.
+10 Q We know from the records that in early 2015 he
+11 needed to be hospitalized in Toledo for
+12 further care for that knee abscess, correct?
+13 A Yes.
+14 Q Are you critical of the decision to treat him
+15 with narcotics for the right knee pain he was
+16 suffering from at that point?
+17 MR. ABRAMOWITZ: Objection, but you
+18 can answer.
+19 A No, I am not critical.
+20 Q We know that he was readmitted to the hospital
+21 in April of 2015 because his knee pain
+22 returned. Are you critical of the decision to
+23 treat him with narcotics once again during
+24 that admission?
+25 MR. ABRAMOWITZ: Objection, but you
+Versagi Court Reporters, Inc.
+
+
+-----
+
+64
+1 can answer.
+2 A Not critical of the use during admission for
+3 the drainage procedure, which is painful, a
+4 couple days post procedure. Ongoing use would
+5 have required more consideration, and again,
+6 harms probably would have outweighed the
+7 benefits in my opinion.
+8 Q I assume you are aware that Mr. Dukeshire
+9 required seven separate surgical procedures
+10 for his right knee over about a three year
+11 period of time; is that correct?
+12 A That's correct.
+13 Q And you would agree that those recurrent
+14 infections would be a source of pain?
+15 A Yes.
+16 Q And would require narcotics?
+17 A Again, the sort of a blanket "requiring
+18 narcotics" is a tough -- it's hard to answer
+19 in a blanket way. A couple days surrounding
+20 the procedures makes a lot of sense, but
+21 having a year's worth, less sense, because of
+22 the, again, the declining benefit of taking
+23 them and the increasing risks.
+24 Q Did you have an understanding as to whether
+25 the left knee infections in 2017 was keeping
+Versagi Court Reporters, Inc.
+
+
+-----
+
+65
+1 Mr. Dukeshire from working at all?
+2 A I do not recall if that was the reason for
+3 keeping him out of work.
+4 Q You would agree, though, that his recurrent
+5 left knee infections were an ongoing source of
+6 pain for him over the last few years of his
+7 life?
+8 MR. ABRAMOWITZ: Objection, you can
+9 answer.
+10 A Yes.
+11 Q Would that abscess that required seven
+12 surgical procedures over the course of a few
+13 years, would that have an impact upon his
+14 gait?
+15 MR. ABRAMOWITZ: Objection, but you
+16 can answer.
+17 A I'm not sure.
+18 Q We also know from the records that
+19 Mr. Dukeshire developed ulcers on his buttocks
+20 while he was under Dr. Gallagher's care,
+21 correct?
+22 A Yes.
+23 Q What is your understanding as to how those
+24 ulcers developed, what caused them?
+25 A Well, he did have an admission to the hospital
+Versagi Court Reporters, Inc.
+
+
+-----
+
+66
+1 I believe in 2014, heavy man, I think he was
+2 in ICU, he was on mechanical ventilation.
+3 Sometimes these develop, start as pressure
+4 ulcers, I think that is how this one started,
+5 and then once they are established, then they
+6 are often hard to resolve because of the extra
+7 fat tissue. The antibodies don't penetrate
+8 very well, et cetera, et cetera. So yeah, I
+9 think it started with the hospitalization.
+10 Q These ulcers, they can be painful?
+11 A Yes.
+12 Q And it would not be unreasonable to treat
+13 ulcers like that with narcotics?
+14 MR. ABRAMOWITZ: Objection, but you
+15 can answer.
+16 A It's fairly atypical to treat those with
+17 opioids. The main treatment is to drain them,
+18 dress them, try to debride the dead tissue.
+19 Not a lot of innervation back there on your
+20 posterior buttocks with a lot of adipose
+21 tissue there, while I did say it would be
+22 painful, I'm not sure painful enough to
+23 warrant extended courses of opioids.
+24 Q Do you believe any of the physicians who
+25 prescribed opioids to treat those ulcers
+Versagi Court Reporters, Inc.
+
+
+-----
+
+67
+1 breached the standard of care?
+2 MR. ABRAMOWITZ: Objection, but you
+3 can answer.
+4 A So anybody who used those in a long term
+5 fashion without doing appropriate monitoring
+6 of what was going on with those opioids was
+7 breaching the standard of care. I'm not going
+8 to say the decision to use them at all was
+9 below the standard of care, but the decision
+10 to not follow up appropriately and monitor
+11 was.
+12 Q Were you aware that Mr. Dukeshire was seen by
+13 a pain management specialist in February of
+15 A Yes.
+16 MR. ABRAMOWITZ: Objection.
+17 Q Based upon everything you know about this
+18 case, did that pain management specialist
+19 refer Mr. Dukeshire to an addiction
+20 specialist?
+21 A I am not certain.
+22 Q Well, do you believe that that pain management
+23 specialist should have referred Mr. Dukeshire
+24 to an addiction specialist?
+25 MR. ABRAMOWITZ: Objection, but you
+Versagi Court Reporters, Inc.
+
+
+-----
+
+68
+1 can answer.
+2 A So the responsibility for how the opioids are
+3 being monitored and the harm that may be
+4 accruing from them is on the prescriber to
+5 manage. And so I don't -- the referring pain
+6 physician was not the prescriber, I don't
+7 think it was their duty to do so.
+8 Q You don't have any criticisms of the pain
+9 management specialist if he didn't feel that
+10 addiction referral was required, correct?
+11 A Correct.
+12 Q We know from the records that Mr. Dukeshire
+13 was an inpatient at Elmwood Health Care Center
+14 in May and June of 2014 for his wounds, you're
+15 aware of that?
+16 A Yes.
+17 Q Would it have been appropriate to treat him
+18 with narcotics for those wounds?
+19 A Again, I would have recommended short courses
+20 for a matter of several days while those
+21 wounds were being debrided, but in terms of
+22 ongoing long term treatment, not appropriate.
+23 Q We know from the records that in July of 2015
+24 Mr. Dukeshire was admitted to Firelands
+25 Hospital for a large painful buttocks ulcer,
+Versagi Court Reporters, Inc.
+
+
+-----
+
+69
+1 was it appropriate for him to be treated with
+2 narcotics during that admission?
+3 MR. ABRAMOWITZ: Objection, but you
+4 can answer.
+5 A During the admission, yes.
+6 Q We know that his buttocks ulcer flared up
+7 again in July of 2017 and he was treated for
+8 that problem at the Bethesda Care Center, was
+9 it appropriate for him to be treated with
+10 narcotics during that admission?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A Yes, during the admission.
+14 Q It looks like Mr. Dukeshire started having
+15 pain related to carpal tunnel syndrome
+16 sometime in 2015, did you notice that in the
+17 records?
+18 A Yes.
+19 Q That's a painful condition?
+20 A Yes.
+21 Q Would it be appropriate to treat somebody with
+22 narcotics for that condition?
+23 MR. ABRAMOWITZ: Objection, but you
+24 can answer.
+25 A No. Really the treatment of choice for carpal
+Versagi Court Reporters, Inc.
+
+
+-----
+
+70
+1 tunnel syndrome is braces, non steriodal anti
+2 inflammatory drugs, and exercises, physical
+3 therapy, and ultimately surgery.
+4 Q What is your understanding as to whether
+5 Mr. Dukeshire had surgery for his carpal
+6 tunnel symptoms?
+7 A I'm not sure.
+8 Q Would an MRSA infection of the wrist be a
+9 painful condition?
+10 A Possibly.
+11 Q Could require narcotics, potentially?
+12 A Could require narcotics, potentially?
+13 Potentially, yes.
+14 Q I also saw some reference to Mr. Dukeshire
+15 having a left biceps tear; were you aware of
+16 that?
+17 A Yes.
+18 Q What's your understanding as to how that
+19 injury occurred?
+20 A I believe this was during a period of time he
+21 was repossessing cars. He might have gotten
+22 in a scuffle.
+23 Q Would that sort of injury be painful?
+24 A Yes.
+25 Q Might require narcotics?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+71
+1 A It might, but it might not.
+2 Q I want to switch gears a little bit and ask
+3 you some questions about Mr. Dukeshire's
+4 medical conditions.
+5 We know from the records that he had a
+6 history of severe obstructive sleep apnea,
+7 correct?
+8 A Correct.
+9 Q CPAP is the appropriate treatment for that?
+10 A Yes.
+11 Q Mr. Dukeshire had the CPAP device?
+12 A I believe he did. He did possess one.
+13 Q Is it your understanding that he was non
+14 compliant with respect to the CPAP?
+15 MR. ABRAMOWITZ: Objection, but you
+16 can answer.
+17 A Yes, it is my understanding.
+18 Q I mean, it's not all that unusual for patients
+19 with obstructive sleep apnea to not use the
+20 CPAP device because they find it very
+21 uncomfortable, correct?
+22 A Correct.
+23 Q So from your understanding, Mr. Dukeshire's
+24 sleep apnea was essentially untreated because
+25 he wasn't using his CPAP device?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+72
+1 MR. ABRAMOWITZ: Objection, but you
+2 can answer.
+3 A Yes.
+4 Q What sort of symptoms can a patient exhibit if
+5 they have sleep apnea that's not being
+6 sufficiently treated with a CPAP device?
+7 MR. ABRAMOWITZ: Objection, but you
+8 can answer.
+9 A Daytime somnolence is the most -- you know,
+10 daytime sleepiness is the most common symptom.
+11 Q They can become drowsy while driving?
+12 A Yes.
+13 Q It can affect their memory and concentration?
+14 A Yes.
+15 Q The records indicate that Dr. Gallagher
+16 referred Mr. Dukeshire for a sleep clinic
+17 evaluation on two occasions, I assume you're
+18 aware of that?
+19 A Yes.
+20 Q Is it your understanding that Mr. Dukeshire
+21 failed to keep those appointments?
+22 A Yes.
+23 Q Does the record indicate that Dr. Gallagher on
+24 a number of occasions spoke to Mr. Dukeshire
+25 about the importance of using his CPAP device?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+73
+1 A Yes.
+2 Q Do you have an opinion in this case as to what
+3 likely would have happened had Mr. Dukeshire
+4 seen a sleep clinic physician as Dr. Gallagher
+5 had recommended?
+6 MR. ABRAMOWITZ: Objection, but you
+7 can answer.
+8 A Not going to comment outside my area of
+9 specialty.
+10 Q Do you have an opinion as to whether an
+11 evaluation by a sleep medicine specialist
+12 would have led to a change in his narcotic
+13 dosage?
+14 MR. ABRAMOWITZ: Objection, but you
+15 can answer.
+16 A Hum? I don't know.
+17 Q Possible?
+18 A Possible.
+19 Q Do you know what would be involved with a
+20 sleep clinic evaluation for somebody with
+21 obstructive sleep apnea?
+22 A Yeah. Typically do an overnight polysomnogram
+23 and assess how many apneic episodes the
+24 patient is experiencing.
+25 Q Regardless of the result, is the essential
+Versagi Court Reporters, Inc.
+
+
+-----
+
+74
+1 treatment for this condition using the CPAP
+2 device?
+3 A Well, there are -- I mean, first of all,
+4 there's a variety of masks that they can try.
+5 There are others. CPAP is one version of
+6 ventilation. There are a couple others that
+7 are sometimes better tolerated by patients,
+8 but positive airway pressure is the main
+9 modality, that is true.
+10 Q It looks like Mr. Dukeshire was actually
+11 scheduled for a sleep study in March of 2017
+12 and was a no show for that; you're aware of
+13 that?
+14 A Yes.
+15 Q If Mr. Dukeshire was able to regularly use his
+16 CPAP device, what impact would that have had
+17 on his overall health?
+18 MR. ABRAMOWITZ: Objection, but you
+19 can answer.
+20 A Typically leads to better quality sleep,
+21 overall improved sense of restfulness, which
+22 does tend to help improve mood and even pain.
+23 Q Lessens the amount of pain one would have?
+24 A It can, yeah.
+25 Q We of course know that Mr. Dukeshire was
+Versagi Court Reporters, Inc.
+
+
+-----
+
+75
+1 morbidly obese, correct?
+2 A Yes.
+3 Q Does the record indicate that Dr. Gallagher on
+4 multiple occasions talked to Mr. Dukeshire
+5 about the importance of losing weight?
+6 A Yes.
+7 Q To your knowledge, did Mr. Dukeshire follow up
+8 on any of these recommendations?
+9 A Not to my knowledge.
+10 Q Would a bariatric evaluation have been helpful
+11 to Mr. Dukeshire?
+12 A Yes, probably.
+13 Q Were you aware that he failed to appear for a
+14 bariatric evaluation that had been scheduled
+15 for him?
+16 A Yes.
+17 Q So based upon the records that you have seen
+18 and the deposition testimony that you have
+19 seen, would you agree that while he was under
+20 Dr. Gallagher's care, Mr. Dukeshire had a
+21 number of different stressors in his life?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A Yes, I would agree.
+25 Q What was your understanding as to what
+Versagi Court Reporters, Inc.
+
+
+-----
+
+76
+1 different stressors were going on in
+2 Mr. Dukeshire's life while he was under
+3 Dr. Gallagher's care?
+4 A I think he was experiencing a failing business
+5 and having financial stress due to that. He
+6 was also experiencing family stress, some of
+7 which was due to his irritable and labile
+8 mood, which was probably related to opiate
+9 addiction.
+10 Q Any other stressors?
+11 A I think there was some junior colleague at
+12 work who was problematic in some way, form, or
+13 another. I can't remember exactly what.
+14 Q Mr. Dukeshire also had erectile dysfunction
+15 that Viagra was not helping?
+16 A Hum?
+17 Q Were you aware of that?
+18 A I may have forgotten, but I did see erectile
+19 dysfunction as a diagnostic code in one of the
+20 visits.
+21 Q That would be a stressor in his life?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A Probably, sure.
+25 Q I saw from the records that Dr. Gallagher
+Versagi Court Reporters, Inc.
+
+
+-----
+
+77
+1 started Mr. Dukeshire on Zoloft for depression
+2 and anxiety in 2014, was that appropriate for
+3 him to do?
+4 A Yes.
+5 Q What is your understanding as to why
+6 Mr. Dukeshire was having issues with
+7 depression and anxiety?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A Probably a multitude of factors, not limited
+11 to, but including, genetics, psychosocial
+12 stressors, and substance use.
+13 Q When you say genetics, what are you referring
+14 to there?
+15 A Genetic predisposition to have a mood
+16 disorder.
+17 Q Is it your understanding that Dr. Gallagher
+18 had recommended to Mr. Dukeshire that he
+19 follow up with a psychiatrist?
+20 A Yes.
+21 Q Doesn't look like he actually followed up with
+22 a psychiatrist until just a couple weeks or so
+23 before he died, right?
+24 MR. ABRAMOWITZ: Objection, but you
+25 can answer.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+78
+1 A That's correct.
+2 Q It looks like the psychiatrist that he saw was
+3 a Dr. Travis, correct?
+4 A Yes.
+5 Q And based upon Dr. Travis' records, it looks
+6 like he was aware of the fact that
+7 Mr. Dukeshire was taking narcotics and was, in
+8 fact, on a benzodiazepine as well, correct?
+9 A Yes.
+10 Q It doesn't look like Dr. Travis recommended
+11 that he either stop the narcotics or wean off
+12 of them, correct?
+13 MR. ABRAMOWITZ: Objection, but you
+14 can answer.
+15 A That's correct.
+16 Q It looks like from the records that Dr. Travis
+17 did, however, discuss the black box warning on
+18 the use of narcotics and benzodiazepines,
+19 correct?
+20 A Correct.
+21 Q What is your understanding as to the purpose
+22 behind that black box warning?
+23 MR. ABRAMOWITZ: Objection, but you
+24 can answer.
+25 A Data showing that co-occurring use or
+Versagi Court Reporters, Inc.
+
+
+-----
+
+79
+1 concurrent use of benzodiazepines and opioids
+2 increases the risk of opioid overdose by
+3 double.
+4 Q Is that because of the synergistic effect of
+5 using the two medicines at the same time?
+6 A Yes.
+7 Q According to the records it appears as though
+8 Mr. Dukeshire denied the use of illicit drugs,
+9 correct?
+10 MR. ABRAMOWITZ: Objection, but you
+11 can answer.
+12 A It does appear so, yes.
+13 Q That would be an untruthful statement,
+14 correct?
+15 A Well, we're lacking some key pieces of data to
+16 know whether he was using illicit drugs and
+17 when.
+18 Q Well, you would agree that purchasing
+19 narcotics off the street, crushing them, and
+20 snorting them, that would constitute using
+21 illicit drugs, true?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A Yes, that would constitute use of illicit
+25 drugs.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+80
+1 Q Did Mr. Dukeshire give an untruthful response
+2 when he was asked whether he was taking pain
+3 pills that were not prescribed for him?
+4 MR. ABRAMOWITZ: Objection, but you
+5 can answer.
+6 A Yes.
+7 Q So if he had given a truthful answer to that
+8 question, do you believe that it would have
+9 had an impact upon Dr. Travis' treatment
+10 recommendations?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A Yes.
+14 Q In what way?
+15 A It would have increased Dr. Travis' concern
+16 for substance use disorder.
+17 Q And likely would have caused him to recommend
+18 referral to an addiction specialist?
+19 MR. ABRAMOWITZ: Objection, but you
+20 can answer.
+21 A Likely would have, yes.
+22 Q Dr. Travis' diagnosis was major depressive
+23 disorder. First of all, do you have any
+24 reason to doubt that diagnosis?
+25 MR. ABRAMOWITZ: Objection, but you
+Versagi Court Reporters, Inc.
+
+
+-----
+
+81
+1 can answer.
+2 A No.
+3 Q Do you have an opinion as to the cause of that
+4 disorder?
+5 MR. ABRAMOWITZ: Objection, but you
+6 can answer.
+7 A Well, cause of major depressive disorder?
+8 Hum? So again, usually a genetic
+9 predisposition, and then psychodynamic factors
+10 going on in one's life; but I will say in the
+11 setting of an active substance use disorder,
+12 which he was potentially experiencing, likely
+13 experiencing, it's difficult to make a mood
+14 disorder diagnosis.
+15 Q So I am not sure I follow you there. What are
+16 you trying to tell me?
+17 A I guess my sense is if Dr. Travis had been
+18 addiction trained, I don't know that he was, I
+19 think he would have considered addiction a
+20 little more thoroughly on a differential
+21 diagnosis, would have probably also ordered a
+22 urine drug test himself; but he was concerned
+23 about mood disorder and I have already stated
+24 I don't have any reason to doubt that that was
+25 present.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+82
+1 Q But from what we can see from the records,
+2 Dr. Travis didn't raise substance use disorder
+3 as a potential diagnosis, correct?
+4 A Correct.
+5 Q It looks like he increased the patient's anti
+6 depressants, the Lexapro, the Abilify; was
+7 that an acceptable thing to do?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A Yes.
+11 Q Did you see any indication that Dr. Travis
+12 said to Mr. Dukeshire stop taking the Valium?
+13 A Gosh? I would have to review. I believe he
+14 warned him about the black box interaction,
+15 but I have to review for certainty; but I
+16 don't believe he said frankly stop taking it.
+17 Q Was either Dr. Travis or the therapist,
+18 Mr. Seymour, who was seeing Mr. Dukeshire,
+19 aware of the fact that Dr. Gallagher had
+20 reduced Mr. Dukeshire's narcotic dosage at
+21 around that time?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A I'm not sure.
+25 Q If they were aware of that, would that have
+Versagi Court Reporters, Inc.
+
+
+-----
+
+83
+1 raised any red flags on their part with
+2 respect to Mr. Dukeshire's potential need to
+3 see an addiction medicine specialist?
+4 A Oh, I'm not sure.
+5 Q You would agree that Dr, maybe I asked you
+6 this, but I apologize, Dr. Travis did not
+7 diagnose opioid use disorder, correct?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A I did not see that in the consultation note.
+11 Q Do you believe it was within the standard of
+12 care for Dr. Gallagher to be prescribing
+13 Valium?
+14 A No.
+15 Q Are you aware of any physician who said that
+16 narcotics and benzodiazepines should not be
+17 prescribed concurrently?
+18 A Am I aware of any physician who said that?
+19 Q Yeah.
+20 A I'm aware of physicians who say that should be
+21 avoided whenever possible.
+22 Q So you believe it was a breach of the standard
+23 of care for Dr. Gallagher to prescribe a
+24 benzodiazepine for Mr. Dukeshire?
+25 A In this particular case, he was prescribing
+Versagi Court Reporters, Inc.
+
+
+-----
+
+84
+1 opioids in an unmonitored way, he was not
+2 recognizing the signs and symptoms of opioid
+3 use disorder, so one should not be prescribing
+4 opioids in that situation, much less
+5 prescribing benzodiazepines and opioids. So
+6 it's sort of a cascade of things one should
+7 not be doing.
+8 Q At what point do you believe the diagnosis of
+9 opioid use disorder should have been made
+10 according to the standard of care?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A Once there was a clear pattern of loss of
+14 control of the use of the medication, which I
+15 would say was about a year into their
+16 treatment relationship.
+17 Q And you believe at that point that's when
+18 there should have been a referral to an
+19 addiction medicine specialist?
+20 A Correct.
+21 Q To your knowledge, did you see anyone document
+22 Mr. Dukeshire suffering ill effects from the
+23 concurrent use of narcotics and
+24 benzodiazepines?
+25 MR. ABRAMOWITZ: Objection, but you
+Versagi Court Reporters, Inc.
+
+
+-----
+
+85
+1 can answer.
+2 A Documenting ill effects? Well, there were
+3 documentation -- there is documentation of
+4 delirium and other effects that very likely
+5 could have been due to that combination.
+6 People weren't necessarily recognizing those
+7 as such, but they were documenting the
+8 presence of those symptoms.
+9 Q Did any doctor document those symptoms as
+10 being potentially due to a combination of
+11 narcotics and benzos?
+12 A Not that I saw.
+13 Q I assume you saw testimony from family members
+14 about the family intervention that took place
+15 when the family expressed their concern to
+16 Mr. Dukeshire about his narcotic usage?
+17 A Yes.
+18 Q What is your understanding as to the outcome
+19 of that?
+20 A I don't believe it was effective.
+21 Q In what respect was it not effective?
+22 A He didn't -- it didn't result in him seeking
+23 treatment.
+24 Q Do you have an opinion as to why Mr. Dukeshire
+25 chose not to follow up on the family's desires
+Versagi Court Reporters, Inc.
+
+
+-----
+
+86
+1 that he seek treatment?
+2 MR. ABRAMOWITZ: Objection, but you
+3 can answer.
+4 A He was likely in denial.
+5 Q Denial that he had a problem?
+6 A Yes.
+7 Q What is your understanding of the overall
+8 success rate of methadone treatment?
+9 MR. ABRAMOWITZ: Objection, but you
+10 can answer.
+11 A Compared to no treatment, it reduces cravings
+12 and return to drug use in about 75 percent of
+13 individuals.
+14 MR. ABRAMOWITZ: Marc, just one
+15 second. Somebody walking by that works here.
+16 MR. GROEDEL: It is fuzzy, but it's
+17 okay.
+18 Q What is your understanding then as to why
+19 there is a 25 percent rate where methadone
+20 treatment is not successful?
+21 A Patients -- well, few treatments are perfect,
+22 and patients don't always respond; but
+23 compared to many other medical interventions,
+24 it's considered high rates of success.
+25 Q What about Suboxone treatment, is the success
+Versagi Court Reporters, Inc.
+
+
+-----
+
+87
+1 rate any different?
+2 A It's about the same. Maybe a hair lower, but
+3 still in the, you know, highly effective zone.
+4 Q So those patients that receive initial success
+5 from medication assisted treatment, is there a
+6 significant percentage of those patients that
+7 suffer relapses?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A Significant? Sort of a tough word to try to
+11 define for you. Some do, yes.
+12 Q I have seen literature which indicates that 40
+13 to 60 percent of recovering addicts will
+14 suffer a relapse; does that sound accurate to
+15 you?
+16 MR. ABRAMOWITZ: Objection, but you
+17 can answer.
+18 A I would put it lower than that.
+19 Q How much lower?
+20 A More like 15 to 30.
+21 Q Is the relapse rate higher for those patients
+22 who have used heroin in the past?
+23 MR. ABRAMOWITZ: Objection, but you
+24 can answer.
+25 A I don't know.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+88
+1 Q Is the success rate lower for those patients
+2 who have a history of cocaine and alcohol
+3 abuse?
+4 MR. ABRAMOWITZ: Objection, but you
+5 can answer.
+6 A I would say it is who had active, not
+7 necessarily history of.
+8 Q Did you have an understanding that towards the
+9 last few months of Mr. Dukeshire's care,
+10 Dr. Gallagher was tapering Mr. Dukeshire's
+11 narcotic dosage downward?
+12 A Yes, attempting to.
+13 Q Well, he was prescribing a lower dose of
+14 narcotic for him during the last few months of
+15 his life, correct?
+16 A Yes, although there were a couple instances, I
+17 believe, where that was the intention and that
+18 was what the prescription said, but then the
+19 patient would use it faster and was given a
+20 bridge prescription. So how much it was
+21 actually lowered is less than what was
+22 intended.
+23 Q What is your understanding as to when a bridge
+24 prescription was given?
+25 A I would have to look back at the exact date.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+89
+1 Q How many times was it done?
+2 A Over the whole treatment course?
+3 Q Let's just say over the period of time when
+4 the dosage was being tapered downward?
+5 A In those last three months, I would say at
+6 least once, and I think possibly twice.
+7 Q If Dr. Gallagher didn't refer Mr. Dukeshire to
+8 an addiction specialist in the Summer of 2017,
+9 would it have been appropriate for him to
+10 taper the narcotic dose, as he was doing?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A The evidence based treatment for opiate
+14 addiction, and by that I mean what we know
+15 from the scientific literature works, is
+16 getting the patient on medication. The new
+17 term is medications for opioid use disorder,
+18 it is not tapering, so you know, just tapering
+19 is below the standard of care.
+20 Q What else then was required?
+21 A Getting an earnest actionable referral to an
+22 addiction treatment center that could provide
+23 medication for opioid use disorder. I should
+24 remind us, prescribing it himself, which
+25 primary care docs can do so with Suboxone.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+90
+1 Q Do you know whether or not Dr. Gallagher was
+2 capable of managing somebody either on
+3 Suboxone or methadone?
+4 A Considering the fact that he wasn't capable of
+5 diagnosing opioid use disorder, I would say
+6 almost certainly not.
+7 Q If a patient is going to receive methadone
+8 treatment to treat an opioid use disorder,
+9 does that treatment also involve therapy
+10 sessions?
+11 A It does. Most opiate treatment programs
+12 require counseling, along with medication
+13 administration.
+14 Q How often are those counseling sessions
+15 required?
+16 A Varies from state to state, but usually in the
+17 order of once or twice per month.
+18 Q In this case if Mr. Dukeshire was receiving
+19 methadone, are you able to state to within a
+20 reasonable degree of probability that he would
+21 have attended counseling sessions as required?
+22 A I have no reason to believe that he would not
+23 have.
+24 Q And you say that, even though you would agree
+25 that there were many aspects of
+Versagi Court Reporters, Inc.
+
+
+-----
+
+91
+1 Mr. Dukeshire's care where he was non
+2 compliant as a patient, correct?
+3 A That's correct.
+4 Q In fact, he missed a number of appointments
+5 with Dr. Gallagher, correct?
+6 MR. ABRAMOWITZ: Objection, but you
+7 can answer.
+8 A He did.
+9 Q Would you agree that he was also dismissed
+10 from the Coumadin clinic because he failed to
+11 show up for a number of scheduled
+12 appointments?
+13 A He was.
+14 Q In your review of the records, did you see
+15 that he missed numerous wound care clinic
+16 appointments as well, correct?
+17 A That is correct.
+18 Q And of course, we've already talked about how
+19 he failed to keep two appointments for sleep
+20 study evaluations, true?
+21 A That's true.
+22 Q It looks like from the records that he had an
+23 appointment for a colonoscopy and he failed to
+24 keep that appointment also, correct?
+25 A That's correct.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+92
+1 Q Does the record indicate that he also missed a
+2 number of appointments with his cardiologist?
+3 A It does show that, yes.
+4 Q Does the record also tell us that on several
+5 occasions he refused to accept pain management
+6 referrals that had been offered to him?
+7 MR. ABRAMOWITZ: Objection, but you
+8 can answer.
+9 A I believe that is the case.
+10 Q Wouldn't it be fair to state that even if he
+11 had seen a pain management specialist at any
+12 point in time, there's a very good possibility
+13 that this outcome would have been averted?
+14 MR. ABRAMOWITZ: Objection, but you
+15 can answer.
+16 A No. Pain specialists really have historically
+17 not engaged in diagnosing and management of
+18 addiction, so I would not think that this
+19 would have been averted had he been referred
+20 to -- or had he attended a pain management
+21 appointment.
+22 Q But pain management specialists certainly can
+23 suspect when somebody is suffering from an
+24 opioid use disorder, correct?
+25 A They can, yes.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+93
+1 Q I mean, you believe that this internist should
+2 have had that suspicion, right?
+3 A I believe that the person prescribing the
+4 opioids has a duty to be ever watchful for
+5 this problem.
+6 Q What was your understanding as to how
+7 Mr. Dukeshire received the narcotics, drugs,
+8 whatever you want to call them, that ended up
+9 leading to his death?
+10 MR. ABRAMOWITZ: Objection, but you
+11 can answer.
+12 A I am not sure.
+13 Q Well, I assume you know that the drugs that he
+14 ingested just prior to his death were received
+15 from one of his friends or associates, a
+16 Mr. Jurovcik, you're aware of that, aren't
+17 you?
+18 A I believe that's what his wife speculates in
+19 the -- in her testimony. Is that correct?
+20 Q Well, she didn't speculate. She actually saw
+21 it happen; you're aware of that, aren't you?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A I'm aware that she states she saw it happen,
+25 yes.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+94
+1 Q Assuming that the drugs that immediately led
+2 to Mr. Dukeshire's death were provided by
+3 Mr. Jurovcik, you would agree that his
+4 criminal conduct contributed to
+5 Mr. Dukeshire's death, true?
+6 MR. ABRAMOWITZ: Objection, but you
+7 can answer.
+8 A His criminal conduct contributed to? Yes, it
+9 did contribute.
+10 Q Do you believe that Mrs. Dukeshire should have
+11 told Dr. Gallagher about the fact that her
+12 husband was purchasing narcotics on an illicit
+13 basis over the last two years of his life?
+14 MR. ABRAMOWITZ: Objection, but you
+15 can answer.
+16 A Well, I believe it was reasonable for her to
+17 express concern, which she did.
+18 Q But she never told Dr. Gallagher that her
+19 husband was buying narcotics off the street,
+20 crushing them, and snorting them, correct?
+21 MR. ABRAMOWITZ: Objection, but you
+22 can answer.
+23 A I am not sure what she did or did not tell
+24 him, but what I saw was that she says I came
+25 to him, I called him, I said I am worried
+Versagi Court Reporters, Inc.
+
+
+-----
+
+95
+1 about him being addicted to these medications
+2 and I'm worried what is going to happen to
+3 him; which I am not -- I guess it sounds like
+4 mention of the word heroin would have really
+5 sealed it off, but it sounds like she did
+6 exactly what she was supposed to do, or what I
+7 would have advised her to do, which is express
+8 concern.
+9 Q Well, if she knew that her husband was buying
+10 drugs on the street, crushing them, and
+11 snorting them, that's specific information she
+12 should have given Dr. Gallagher, true?
+13 MR. ABRAMOWITZ: Objection, but you
+14 can answer.
+15 A I'm not -- yeah, I'm not going to put that on
+16 her. That would have -
+17 Q That would have helped, right?
+18 A I am not going to comment on that. What I
+19 will again comment on is any number of urine
+20 drug screens would have shown that in black
+21 and white and it wouldn't have mattered what
+22 she was reporting or not reporting. So I am
+23 not going to put that on her.
+24 Q Well, you can't say that a urine drug screen
+25 would have shown anything other than the
+Versagi Court Reporters, Inc.
+
+
+-----
+
+96
+1 narcotics he was receiving, can you?
+2 MR. ABRAMOWITZ: Objection, but you
+3 can answer.
+4 A If you are asserting that you are certain that
+5 he was snorting heroin, it would have shown up
+6 in a urine drug screen.
+7 Q I am not saying he was snorting heroin. I'm
+8 saying he was crushing up his ox -- his
+9 narcotic and snorting that.
+10 A Only his?
+11 Q What do you mean only his?
+12 A The ones prescribed to him?
+13 Q No. And medications that he was getting off
+14 the street.
+15 A But only oxycodone?
+16 Q Right.
+17 MR. ABRAMOWITZ: Objection, but you
+18 can answer.
+19 Q If that's the case, a urine drug screen isn't
+20 going to tell us anything other than that a
+21 narcotic that's being prescribed for him is in
+22 his system, true?
+23 A I don't believe that if he was snorting
+24 opioids, it was only ever oxycodone.
+25 Q What's the basis for that testimony?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+97
+1 A My belief.
+2 Q Well, what do you mean your belief? I don't
+3 follow that.
+4 A Well, there is a wide array of opioids
+5 available on the street, and if he was, as you
+6 say, using illicit opioids from the streets,
+7 it seems highly unlikely that it would always
+8 only be oxycodone.
+9 Q But as you sit here today, you see no
+10 testimony from anybody which indicated that
+11 Mr. Dukeshire was snorting heroin, correct?
+12 MR. ABRAMOWITZ: Objection, but you
+13 can answer.
+14 A Correct.
+15 Q You mentioned at the beginning of your
+16 deposition that in February of 2016 there was
+17 an episode of what you considered drug
+18 toxicity that could have been secondary to a
+19 narcotic overdose; do you recall that?
+20 A Yes.
+21 Q And the records from that February 2016
+22 admission, you have seen those records,
+23 correct?
+24 A Yes.
+25 Q Did any of the physicians who were involved in
+Versagi Court Reporters, Inc.
+
+
+-----
+
+98
+1 Mr. Dukeshire's care during that hospital
+2 admission diagnose an overdose?
+3 MR. ABRAMOWITZ: Objection, but you
+4 can answer.
+5 A They did not.
+6 Q And they were aware of the fact that he was on
+7 narcotics, correct?
+8 A They were.
+9 Q And I think the diagnosis from the physicians
+10 during that admission was that he had suffered
+11 a conversion reaction secondary to anxiety and
+12 depression, correct?
+13 A Correct.
+14 Q Are you critical of the physicians who were
+15 involved in that aspect of his care?
+16 MR. ABRAMOWITZ: Objection, but you
+17 can answer.
+18 A I'm critical of them leaving off the
+19 possibility that this was a -- the possibility
+20 that this could have been a drug toxicity
+21 reaction.
+22 Q They did tell him that he should follow up
+23 with a psychiatrist, though, correct?
+24 A I believe so, yes.
+25 Q And he didn't do that, correct?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+99
+1 A Correct.
+2 Q And I think you also made reference to an
+3 emergency room visit in August of 2017 as a
+4 potential episode of narcotic overdose; would
+5 you agree that no one during that ER visit
+6 found any evidence of an addiction issue,
+7 correct?
+8 A That's correct.
+9 Q Would you agree that at various points in time
+10 during Mr. Dukeshire's care with
+11 Dr. Gallagher, he was admitted to hospitals
+12 and placed on some pretty high doses of
+13 narcotics during those admissions, correct?
+14 A Yes.
+15 Q For instance, I saw from the record in
+16 December of 2014 when he was treated at the
+17 Cleveland Clinic for back issues, he was on a
+18 narcotic dose that was the equivalent of 225
+19 mme, you saw that, correct?
+20 A Yes.
+21 Q That was appropriate?
+22 A It's difficult to say without direct knowledge
+23 of other factors going on in the care at that
+24 time.
+25 Q But as you sit here today, you are not
+Versagi Court Reporters, Inc.
+
+
+-----
+
+100
+1 prepared to say that the doctors taking care
+2 of those issues at that point in time breached
+3 the standard of care, are you?
+4 MR. ABRAMOWITZ: Objection, but you
+5 can answer.
+6 A I'm not saying that.
+7 Q And the records show that in December of 2015
+8 when Mr. Dukeshire was at Saint Luke's
+9 Hospital for his knee abscess, he was on 220
+10 mme, was that within the standard of care?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A Nothing during the hospitalization that I saw
+14 suggested below the standard of care.
+15 Q In January of 2017 he was at Freemont Hospital
+16 again for his right knee issues and he was on
+17 200 mme of narcotics, that was within the
+18 standard of care?
+19 MR. ABRAMOWITZ: Objection, but you
+20 can answer.
+21 A I am not willing to suggest it was below.
+22 Q Then in May of 2017 he was at the Toledo
+23 Hospital for his buttocks ulcer and he was on
+24 a dose of 220 mme for narcotics, that wasn't
+25 below the standard of care, was it?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+101
+1 MR. ABRAMOWITZ: Objection, but you
+2 can answer.
+3 A I saw nothing to suggest it was below the
+4 standard of care.
+5 Q Then in June of 2017 he was back at Freemont
+6 Hospital for right knee and buttocks issues,
+7 and it looks like he was actually on 500 mme
+8 for a period of time, are you critical of that
+9 usage?
+10 MR. ABRAMOWITZ: Objection, but you
+11 can answer.
+12 A When we start to talk about, you know, three,
+13 four times what his outpatient dose was, it
+14 does start to call into question what's the
+15 explanation for the need for that high of a
+16 dose.
+17 Q So that's a little high?
+18 A That's a little high.
+19 Q And then it looks like in July of 2017 he was
+20 at the Bethesda Care Center for his buttocks
+21 and right knee issues and they had him on 300
+22 mme, was that within the accepted standard of
+23 care?
+24 MR. ABRAMOWITZ: Objection, but you
+25 can answer.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+102
+1 A Nothing to state that it was below the
+2 standard of care, but I will note in all these
+3 instances you're talking about a controlled
+4 setting, where monitoring can easily take
+5 place. In an outpatient setting where the
+6 prescriber really needs to be relying on, and
+7 I'll say it again, not to be a broken record,
+8 but urine drug screens to know exactly what
+9 the patient is taking.
+10 Q What's your understanding as to what
+11 Mr. Dukeshire was doing from a working
+12 standpoint during the years 2014 through 2017?
+13 MR. ABRAMOWITZ: Objection, but you
+14 can answer.
+15 A I don't have a precise timeline. I believe
+16 some period of that time he was repossessing
+17 cars.
+18 Q So it appears as though he was able to do some
+19 sort of physical activity?
+20 A Yes.
+21 MR. ABRAMOWITZ: Objection, but you
+22 can answer.
+23 A Yes.
+24 MR. ABRAMOWITZ: Marc, are you done or
+25 should we take a break now?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+103
+1 MR. GROEDEL: I would say I got
+2 another maybe 15, 20 minutes, or so. You can
+3 take a break. If you would like to take a
+4 break, I'm perfectly fine; or we can continue
+5 to just plow ahead. Either way.
+6 MR. ABRAMOWITZ: Let's take a break
+7 then.
+9 (Recess taken)
+11 MR. GROEDEL: Doctor, we're back on
+12 the record.
+13 Q Is it your understanding that the narcotics
+14 that or the drugs that Mr. Dukeshire received
+15 on the day he died, that he also received
+16 narcotics from that person previously?
+17 MR. ABRAMOWITZ: Objection, but you
+18 can answer.
+19 A I don't know.
+20 Q You don't recall seeing that in
+21 Mrs. Dukeshire's deposition?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A Correct, I don't recall.
+25 Q If the family knew that Mr. Dukeshire was
+Versagi Court Reporters, Inc.
+
+
+-----
+
+104
+1 using heroin, is that something they should
+2 have brought to Dr. Gallagher's attention?
+3 MR. ABRAMOWITZ: Objection, but you
+4 can answer.
+5 A Not necessarily.
+6 Q Would you agree that the carfentanil that was
+7 found on toxicology was of a sufficient dose
+8 in and of itself to cause Mr. Dukeshire's
+9 death by respiratory depression?
+10 MR. ABRAMOWITZ: Objection, but you
+11 can answer.
+12 A Yes.
+13 Q Would you agree that the oxycodone that they
+14 found in his system, while it was above the
+15 therapeutic level, was not at a toxic level?
+16 MR. ABRAMOWITZ: Objection.
+17 A There is a very weak correlation between serum
+18 and other fluid levels postmortem, and what
+19 one would call quote/unquote toxic levels.
+20 It's something some pathologists like to opine
+21 on, but there is really no data to support
+22 this. What we can say for sure is that the
+23 combination of benzodiazepine, oxycodone, and
+24 carfentanil was enough to kill him, because
+25 that's what killed him.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+105
+1 Q But you would agree, though, that the level of
+2 oxycodone in his system, particularly for
+3 somebody who was tolerant like Mr. Dukeshire
+4 was, wasn't at a toxic level?
+5 MR. ABRAMOWITZ: Objection, asked and
+6 answered, but you can answer.
+7 A We don't know the level that he -- that is in
+8 his system when he dies, could have been at
+9 any stage of metabolism. We don't know what
+10 it was at its peak. We just know what it was
+11 when the blood is drawn, so it's sort of a
+12 meaningless bit of data.
+13 Q So based upon that answer, you really can't
+14 say whether or not the oxycodone was a
+15 significant contributing factor to his death,
+16 correct?
+17 MR. ABRAMOWITZ: Objection, but you
+18 can answer.
+19 MR. MCMANUS: I'm sorry. I didn't
+20 hear that question.
+21 Q You would agree that based upon what you just
+22 told me, that you really can't say that the
+23 oxycodone was a significant contributing
+24 factor to the patient's death, can you?
+25 MR. MCMANUS: Thank you.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+106
+1 MR. ABRAMOWITZ: Objection.
+2 A I can't. I can say that it was likely a
+3 significant contributor to his death.
+4 Q Would you agree that he would have died if he
+5 had just received the carfentanil?
+6 MR. ABRAMOWITZ: Objection, but you
+7 can answer.
+8 A It is possible that just receiving the
+9 carfentanil could have been fatal.
+10 Q Do you know what carfentanil looks like?
+11 A Yes.
+12 Q What's it looked like?
+13 MR. ABRAMOWITZ: Objection, but you
+14 can answer.
+15 A I can -- I don't care to answer.
+16 Q Why not?
+17 A Is it relevant?
+18 Q Well, here's the point I'm trying to figure
+19 out: Does crushed carfentanil look different
+20 than crushed oxycodone?
+21 MR. ABRAMOWITZ: Objection, but you
+22 can answer.
+23 A Does it look different? Yes.
+24 Q In what way?
+25 MR. ABRAMOWITZ: Objection, but you
+Versagi Court Reporters, Inc.
+
+
+-----
+
+107
+1 can answer.
+2 A Well, I guess depending on the degree of
+3 crushing that goes on, it may look -- it may
+4 not look different. I'm going to revise my
+5 statement that it looks different.
+6 Q Is the color different?
+7 MR. ABRAMOWITZ: Objection, but you
+8 can answer.
+9 A Not necessarily.
+10 Q Have you seen carfentanil?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A I have seen a picture.
+14 Q What color was it in the picture?
+15 MR. ABRAMOWITZ: Objection, but you
+16 can answer.
+17 A It was white.
+18 Q This was a narcotic overdose death, is that
+19 your opinion?
+20 MR. ABRAMOWITZ: Objection, but you
+21 can answer.
+22 A Yes.
+23 Q How does a narcotic overdose death manifest
+24 itself from a clinical standpoint, what do we
+25 see?
+Versagi Court Reporters, Inc.
+
+
+-----
+
+108
+1 MR. ABRAMOWITZ: Objection, but you
+2 can answer.
+3 A The respiratory depression and depression of
+4 consciousness. In the fatal version we see
+5 complete cessation of respiration and then
+6 cardiopulmonary collapse.
+7 Q Is it a gradual process?
+8 A No.
+9 Q How long does it usually take?
+10 MR. ABRAMOWITZ: Objection, but you
+11 can answer.
+12 A A matter of seconds to minutes.
+13 Q So with a narcotic overdose death, is there
+14 usually a period of an increasing sedation?
+15 MR. ABRAMOWITZ: Objection, but you
+16 can answer.
+17 A I mean, there could be, yes.
+18 Q Then there is a slowing of respiration?
+19 A Yes.
+20 Q Followed by a cessation of respiration?
+21 A Correct.
+22 Q To your knowledge, did Mr. Dukeshire's final
+23 moments, according to Mrs. Dukeshire, follow
+24 that course?
+25 MR. ABRAMOWITZ: Objection, but you
+Versagi Court Reporters, Inc.
+
+
+-----
+
+109
+1 can answer.
+2 A I'm not sure.
+3 Q Why aren't you sure?
+4 A I don't recall how she described the event.
+5 Q Did Mr. Dukeshire's cardiac condition place
+6 him at high risk for a sudden cardiac death?
+7 MR. ABRAMOWITZ: Objection, but you
+8 can answer.
+9 A Yes.
+10 Q What cardiac conditions did he have that would
+11 have placed him at a higher risk for a sudden
+12 cardiac death?
+13 A I want to be clear that I am convinced that he
+14 died of opioid overdose, but in terms of his
+15 risk for sudden cardiac death, which I don't
+16 believe is at play here, he had a history of
+17 atrial fibrillation.
+18 Q In your opinion did Mr. Dukeshire have any
+19 chronic conditions that would have had an
+20 adverse impact upon his life expectancy,
+21 assuming he didn't die on the day that he did?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer.
+24 A Yes, he did.
+25 Q So what conditions did he have that would have
+Versagi Court Reporters, Inc.
+
+
+-----
+
+110
+1 had an adverse impact upon his life
+2 expectancy?
+3 MR. ABRAMOWITZ: Objection, but you
+4 can answer.
+5 A Morbid obesity and sleep apnea.
+6 Q According to the autopsy he also had severe
+7 cardiomegaly, true?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A Yes, that's true.
+11 Q What was the cause of that severe
+12 cardiomegaly?
+13 MR. ABRAMOWITZ: Objection, but you
+14 can answer.
+15 A So he had an echocardiogram in I believe 2016
+16 that shows pretty well preserved ejection
+17 fraction. So the cardiomegaly was likely due
+18 to enlarged right-sided heart from obstructive
+19 sleep apnea.
+20 Q How would you characterize the degree of
+21 cardiomegaly?
+22 MR. ABRAMOWITZ: Objection, but you
+23 can answer, if you can answer.
+24 A I would need to look at the pathology report
+25 again.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+111
+1 Q So his heart, according to the pathology
+2 report, weighed 680 grams. It's my
+3 understanding that an adult normal heart
+4 weighs anywhere from 280 to 312 grams.
+5 So assuming my figures aren't that far
+6 off, his heart was about double the size of a
+7 normal human heart, correct, for an adult?
+8 MR. ABRAMOWITZ: Objection, but you
+9 can answer.
+10 A I am not aware of any of those measurements,
+11 but your math is correct.
+12 Q Would the presence of that degree of
+13 cardiomegaly also have had an adverse impact
+14 upon Mr. Dukeshire's life expectancy had he
+15 not died on the die he did?
+16 MR. ABRAMOWITZ: Objection, but you
+17 can answer, if you can.
+18 A As a physician who deals with living people,
+19 we think about symptoms and disease states
+20 that are manifest by symptoms, and when I hear
+21 cardiomegaly, I hear congestive heart failure,
+22 which based on his relatively preserved
+23 ejection fraction of 55 to 60 percent, didn't
+24 appear that he had.
+25 Q So you don't believe he ever had evidence of
+Versagi Court Reporters, Inc.
+
+
+-----
+
+112
+1 congestive heart failure during the course of
+2 time he was treated by Dr. Gallagher?
+3 MR. ABRAMOWITZ: Objection, but you
+4 can answer.
+5 A I can only tell you that the echocardiogram
+6 report showing a relatively preserved ejection
+7 fraction of 55 to 60 percent.
+8 Q Well, that was more than a year before he
+9 died, right?
+10 A Yeah. It's a chronic condition, can worsen
+11 gradually over time, true.
+12 Q Would you agree that his autopsy showed
+13 evidence of significant cardiomyopathy?
+14 MR. ABRAMOWITZ: Objection, but you
+15 can answer, if you can.
+16 A Yeah, I would need to go back and look. You
+17 were talking about according to the weight of
+18 the heart, which isn't really -- I'm not
+19 familiar with.
+20 Q Here, I'll tell you. The right ventricle
+21 thickness was measured at 1 centimeter, and
+22 according to what I have seen, the normal
+23 thickness of a right ventricle is 3 to 5
+24 millimeters. So Mr. Dukeshire's right
+25 ventricle thickness was almost three times
+Versagi Court Reporters, Inc.
+
+
+-----
+
+113
+1 normal. If my numbers are correct, would you
+2 agree with that?
+3 MR. ABRAMOWITZ: Objection, but you
+4 can answer, if you can.
+5 A Yes, I agree with that, and that right-sided
+6 hypertrophy is consistent with his history of
+7 obstructive sleep apnea.
+8 Q Is it also consistent with hypertensive heart
+9 disease?
+10 MR. ABRAMOWITZ: Objection, but you
+11 can answer, if you can.
+12 A As we typically see in hypertensive heart
+13 disease, it presents on the left side of the
+14 heart, left ventricular contractility, that's
+15 where we see the reduced ejection fraction;
+16 and as I mentioned, last known EF was close to
+17 normal.
+18 Q So if his left ventricle was thicker than
+19 normal, would that be consistent with
+20 hypertensive heart disease?
+21 MR. ABRAMOWITZ: Objection, but you
+22 can answer, if you can.
+23 A It would be, but the thicker than normal is
+24 actually just the first stage. Then over
+25 time, decades, the heart starts to thin out
+Versagi Court Reporters, Inc.
+
+
+-----
+
+114
+1 and become floppy, and that's when your
+2 ejection fraction starts to come down. So I'm
+3 actually impressed by the fact that there was
+4 no evidence of that.
+5 Q No evidence of what?
+6 A Thinning of the left ventricle.
+7 Q His lung was noted to weigh 760 grams, his
+8 right lung. His left lung was noted to weigh
+9 640 grams. Would you consider those weights
+10 to be abnormal?
+11 MR. ABRAMOWITZ: Objection, but you
+12 can answer.
+13 A Yeah, as a non pathologist, I don't know.
+14 Q He also had an enlarged liver. It looks like
+15 his liver weighed about twice the normal
+16 weight of a liver, do you have an opinion as
+17 to the cause of that?
+18 MR. ABRAMOWITZ: Objection, but you
+19 can answer, if you can.
+20 A Very well could be fatty liver, which wouldn't
+21 surprise me in a man of his weight.
+22 Q Would you agree that based upon what we know
+23 about Mr. Dukeshire's medical history and what
+24 was found on the autopsy, he had a reduced
+25 life expectancy had he not died on the day
+Versagi Court Reporters, Inc.
+
+
+-----
+
+115
+1 that he did?
+2 MR. ABRAMOWITZ: Objection, but you
+3 can answer, if you can.
+4 A Reduced? I would say yeah, you know, by a
+5 matter of a couple of years.
+6 Q So it's your testimony that Mr. Dukeshire's
+7 life expectancy, had he not died when he did,
+8 would only be a couple years less than what
+9 the normal life expectancy would be for a 55
+10 year old gentleman?
+11 MR. ABRAMOWITZ: Objection. Calls for
+12 speculation.
+13 A His life was cut short by well more than a
+14 decade, in my view.
+15 Q As a result of his pre-existing conditions?
+16 A No. As a result of overdose death, as a
+17 result of unmonitored, untreated opioid
+18 addiction.
+19 Q So is it your belief then that his life
+20 expectancy would have been an additional ten
+21 years had he not died from opioid use
+22 disorder?
+23 MR. ABRAMOWITZ: Objection. That's
+24 not what he said.
+25 MR. GROEDEL: That's what I thought
+Versagi Court Reporters, Inc.
+
+
+-----
+
+116
+1 he said.
+2 MR. ABRAMOWITZ: Over ten years. You
+3 limited his testimony, limited it and changed
+4 the way he referenced it.
+5 Q What is your testimony then as to what
+6 Mr. Dukeshire's probable life expectancy would
+7 have been had he not died from opioid
+8 overdose?
+9 A I would say he had at least ten more years to
+10 live.
+11 Q Just one quick question about the research
+12 that you told us about oh, a long time ago, it
+13 seems.
+14 The research that you are doing, can
+15 you just explain for me a little bit about
+16 what's involved with that research?
+17 A Yeah. I'm glad I'm having a chance to clarify
+18 this. So the research is very much what we
+19 call patient oriented research. We are
+20 enrolling patients into clinical studies where
+21 we deliver actual clinical care. So even
+22 though it's done under research protocols, we
+23 are treating patients, I am treating patients
+24 with usual clinical intervention. It's very
+25 much hands-on patient care, it's just done
+Versagi Court Reporters, Inc.
+
+
+-----
+
+117
+1 under the scope of a research protocol.
+2 Q So the patients that are involved in these
+3 research protocols, are the patients that you
+4 see on Tuesday?
+5 A No. By and large they are other patients from
+6 around the -- from the VA population.
+7 Q So they are not your patients then, are they?
+8 A Well, they're patients who have enrolled in
+9 our studies, so I -- when you say they are not
+10 my patients, you mean am I their primary care
+11 doctor or?
+12 Q Right. Are you the doctor of any of the
+13 patients that are enrolled in these research
+14 projects?
+15 MR. ABRAMOWITZ: Objection, that's
+16 asked and answered. He said he was. But you
+17 can answer again.
+18 A I'm treating them under a study protocol, so
+19 that would be they are my patients.
+20 Q So are these the patients then that you see on
+21 Tuesday?
+22 A Those patients are typically not enrolled in a
+23 study protocol, so they are typically a
+24 different set of patients.
+25 Q I got the impression from your earlier
+Versagi Court Reporters, Inc.
+
+
+-----
+
+118
+1 testimony that the only day you actually see
+2 patients is on Tuesday. So when is it that
+3 you see these other patients that you say are
+4 yours that are enrolled in these research
+5 projects?
+6 A Right. Any of the other days of the week,
+7 Monday, Wednesday, Thursday, Friday.
+8 Q Where do you see them?
+9 A In the outpatient setting. We have separate
+10 facilities for people involved in clinical
+11 trials.
+12 Q So these patients then that are involved in
+13 these research projects, are you actually, are
+14 you yourself the physician actually providing
+15 hands-on care, or do you supervise the care
+16 that's provided by others?
+17 A A mixture of both. I do some hands-on and
+18 some supervision.
+19 Q And to what extent do you provide hands-on
+20 care to these patients?
+21 A A good two-thirds of that time.
+22 Q Doctor, have we covered all of the standard of
+23 care criticisms that you plan on offering at
+24 trial?
+25 A Yes.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+**1** MR. GROEDEL: Doctor, I don't have
+**2** any further questions for you. Thank you for
+**3** your time.
+**4** MR. MCMANUS: Doctor, my name's
+**5** John McManus. I represent Rite Aid in this
+**6** case.
+**8** CROSS-EXAMINATION
+**9** BY MR. MCMANUS:
+**10** Q Fair to say that you are not a pharmacist,
+**11** correct.
+**12** A That's correct.
+**13** Q Reviewing your November 2020 report it is
+**14** clear that there aren't any criticisms or
+**15** standard of care opinions advanced against
+**16** Rite Aid, correct?
+**17** A That's correct.
+**18** Q Is it your expectation to rely upon any
+**19** literature or articles that address in any
+**20** measure the standard of care of a pharmacy in
+**21** the State of Ohio?
+**22** MR. ABRAMOWITZ: Objection, but you
+**23** can answer.
+**24** A It's not my at this time as I speak to you
+**25** now, a plan to do that.
+Versagi Court Reporters, Inc.
+
+
+-----
+
+120
+1 Q As we have requested previously with regard to
+2 your opinions as to the standard of care of a
+3 primary care physician, specifically those set
+4 forth against Dr. Gallagher in this case, if
+5 you are going to be presenting any of the
+6 evidence that you just discussed, articles, or
+7 any other item critical of a pharmacy, we
+8 would reserve our right to object to that
+9 and/or to examine you at a later date; do you
+10 understand that?
+11 A Correct.
+12 MR. ABRAMOWITZ: Yes.
+13 MR. MCMANUS: Subject to that, I
+14 have nothing further. Thank you.
+15 MR. ABRAMOWITZ: Frank, we'll read,
+16 please.
+17 MR. GROEDEL: Hey, Frank, you can
+18 go ahead and type that up.
+19
+21 (Deposition concluded 5:52 p.m.;
+22 signature not waived.)
+24
+25
+Versagi Court Reporters, Inc.
+
+
+-----
+
+121
+1 ERRATA PAGE
+2 PAGE/LINE  NOTATION
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+21 WILLIAM C. BECKER, M.D.
+22 Subscribed and sworn to before me this _______
+23 day of ____________, 2021.
+____________________
+24
+Notary Public
+25 Commission expiration: ___________________________.
+Versagi Court Reporters, Inc.
+
+

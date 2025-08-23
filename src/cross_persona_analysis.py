@@ -2,12 +2,13 @@ import asyncio
 import json
 import os
 import sys
-from typing import Dict, List, Tuple
+from typing import Any, Dict, List, Tuple
 
 import backoff
 from dotenv import load_dotenv
 from l2m2.client import AsyncLLMClient
 from l2m2.exceptions import LLMRateLimitError
+from llm_router import is_azure_model, normalize_model_label, azure_chat
 
 
 load_dotenv()
@@ -51,7 +52,7 @@ next step.
 
 
 async def process_analysis_batch(
-    client: AsyncLLMClient,
+    client: Any,
     tasks: List[asyncio.Task[str]],
     task_metadata: List[str],
 ) -> Tuple[Dict[str, str], int, int]:
@@ -95,12 +96,12 @@ async def process_analysis_batch(
     LLMRateLimitError,
     max_tries=60,
     on_backoff=lambda details: print(
-        f"\nRate limit hit, retrying in {details['wait']:.1f} seconds... "
-        f"(attempt {details['tries']}/{details['max_tries']})"
+        f"\nRate limit hit, retrying in {float(details.get('wait', 0.0)):.1f} seconds... "
+        f"(attempt {details.get('tries', '?')}/{details.get('max_tries', '?')})"
     ),
 )
 async def call_with_backoff(
-    client: AsyncLLMClient,
+    client: Any,
     model: str,
     system_prompt: str,
     prompt: str,
@@ -112,6 +113,38 @@ async def call_with_backoff(
         system_prompt=system_prompt,
         prompt=prompt,
         timeout=timeout,
+    )
+    return str(result)
+
+
+# Azure backoff exception tuple and call wrapper
+AZURE_BACKOFF_EXC: tuple[type[BaseException], ...]
+try:
+    from openai import RateLimitError as _AzureRateLimitError
+    from openai import APIConnectionError as _AzureAPIConnectionError
+    from openai import APITimeoutError as _AzureAPITimeoutError
+    from openai import APIError as _AzureAPIError
+    AZURE_BACKOFF_EXC = (_AzureRateLimitError, _AzureAPIConnectionError, _AzureAPITimeoutError, _AzureAPIError)
+except Exception:  # openai not installed yet or different version
+    AZURE_BACKOFF_EXC = (Exception,)
+
+
+@backoff.on_exception(
+    backoff.expo,
+    AZURE_BACKOFF_EXC,
+    max_tries=60,
+    on_backoff=lambda details: print(
+        f"\nRate limit/API error (Azure), retrying in {float(details.get('wait', 0.0)):.1f} seconds... "
+        f"(attempt {details.get('tries', '?')}/{details.get('max_tries', '?')})"
+    ),
+)
+async def azure_call_with_backoff(system_prompt: str, prompt: str, timeout: int, deployment: str) -> str:
+    result = await azure_chat(
+        system_prompt=system_prompt,
+        prompt=prompt,
+        deployment=deployment,
+        timeout=timeout,
+        temperature=0.2,
     )
     return str(result)
 
@@ -129,6 +162,8 @@ async def analyze_strategy_chunks(
 
     run_type = analyst_persona
     system_prompt = build_system_prompt(True, analyst_persona)
+    is_az, deployment = is_azure_model(model)
+    norm_model = normalize_model_label(model)
 
     chunk_file = os.path.join(
         "data", "personas", transcript_owner, transcript_key, "strategy_chunks.json"
@@ -138,7 +173,7 @@ async def analyze_strategy_chunks(
         "personas",
         transcript_owner,
         transcript_key,
-        f"{model}_{analyst_persona}_analysis.json",
+        f"{norm_model}_{analyst_persona}_analysis.json",
     )
 
     print(f"--- Starting analysis run: {run_type.upper()} --- Output: {output_file}")
@@ -200,13 +235,25 @@ async def analyze_strategy_chunks(
             print(f"\n[{run_type.upper()}] Processing chunk {i+1}/{num_chunks}")
             print(f"  [{run_type.upper()}] Input text length: {len(str(chunk))} chars")
 
-            task = call_with_backoff(
-                client=client,
-                model=model,
-                system_prompt=system_prompt,
-                prompt=str(chunk),
-                timeout=600,
-            )
+            if is_az:
+                task = asyncio.create_task(
+                    azure_call_with_backoff(
+                        system_prompt=system_prompt,
+                        prompt=str(chunk),
+                        timeout=600,
+                        deployment=deployment,
+                    )
+                )
+            else:
+                task = asyncio.create_task(
+                    call_with_backoff(
+                        client=client,
+                        model=model,
+                        system_prompt=system_prompt,
+                        prompt=str(chunk),
+                        timeout=600,
+                    )
+                )
             tasks.append(task)
             task_metadata.append(f"chunk_0-{i}")
 

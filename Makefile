@@ -14,7 +14,10 @@ type:
 	uv run mypy src
 
 create-sample-persona:
-	uv run sample_persona/create_sample_persona.py
+	MODEL="$(MODEL)" REASONING_EFFORT="$(REASONING_EFFORT)" uv run sample_persona/create_sample_persona.py
+
+create-persona:
+	MODEL="$(MODEL)" REASONING_EFFORT="$(REASONING_EFFORT)" uv run create_persona/create_persona.py $(filter-out $@,$(MAKECMDGOALS))
 
 load-transcript:
 	uv run src/load_transcript.py $(filter-out $@,$(MAKECMDGOALS))

@@ -14,7 +14,6 @@ from l2m2.exceptions import LLMRateLimitError
 load_dotenv()
 
 ANALYST_PERSONAS = ["mark", "bill", "alycia"]
-EVALUATION_MODEL = mdl
 
 JUDGE_SYSTEM_PROMPT = '''
 You are an impartial evaluator assessing the *specificity and foresight* of a
@@ -82,9 +81,9 @@ def load_json_file(filepath: str) -> Optional[Union[Dict[str, Any], List[Any]]]:
         end="",
     ),
 )
-async def call_with_backoff(client: AsyncLLMClient, prompt: str) -> str:
+async def call_with_backoff(client: Any, prompt: str, model: str) -> str:
     resp = await client.call(
-        model=mdl,
+        model=model,
         system_prompt=JUDGE_SYSTEM_PROMPT,
         prompt=prompt,
         timeout=300,
@@ -148,7 +147,7 @@ async def compare_personae(transcript_owner: str, transcript_key: str, model: st
                     f"Actual Next Transcript Chunk:\n---\n{next_chunk_text}\n---\n\n"
                     f"Analysis:\n---\n{analysis_text}\n---"
                 )
-                task = call_with_backoff(client=client, prompt=prompt)
+                task = asyncio.create_task(call_with_backoff(client=client, prompt=prompt, model=model))
                 tasks.append(task)
                 metadata.append((persona, chunk_key))
 
@@ -156,11 +155,11 @@ async def compare_personae(transcript_owner: str, transcript_key: str, model: st
         results = await asyncio.gather(*tasks, return_exceptions=True)
 
     # process results
-    for res, (persona, chunk_key) in zip(results, metadata):
+    for res, (persona, _chunk_key) in zip(results, metadata, strict=True):
         if isinstance(res, Exception):
             continue
         try:
-            parsed = ResponseFormat.model_validate_json(res)
+            parsed = ResponseFormat.model_validate_json(cast(str, res))
             if parsed.score == "YES":
                 scores[persona] += 1
         except ValidationError:
@@ -177,4 +176,4 @@ if __name__ == "__main__":
     owner = sys.argv[1]
     t_key = sys.argv[2]
     mdl = sys.argv[3]
-    asyncio.run(compare_personae(owner, t_key, mdl)) 
+    asyncio.run(compare_personae(owner, t_key, mdl))
